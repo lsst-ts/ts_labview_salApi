@@ -1,0 +1,13 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects
+*.so.*
+*.dylib
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
+
