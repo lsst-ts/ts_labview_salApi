@@ -8,10 +8,9 @@
 
 ## 2. Needed Package
 
-- *ts_sal*
-- *ts_opensplice (V6.9 is used)*
-- *ts_xml*
-- *ts_SALLabVIEW*
+- *[ts_sal](https://github.com/lsst-ts/ts_sal)*
+- *[ts_opensplice](https://github.com/lsst-ts/ts_opensplice) (OpenSpliceDDS V6.9.0 is used)*
+- *[ts_xml](https://github.com/lsst-ts/ts_xml)*
+- *[ts_SALLabVIEW](https://github.com/lsst-ts/ts_SALLabVIEW)*
 
 *The specific package versions are listed in each subsystem directory.*
-
