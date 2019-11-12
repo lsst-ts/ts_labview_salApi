@@ -14,3 +14,7 @@
 - *[ts_SALLabVIEW](https://github.com/lsst-ts/ts_SALLabVIEW)*
 
 *The specific package versions are listed in each subsystem directory.*
+
+## 3. Increase the Stack Size
+
+*For the SAL LabVIEW monitor to run, the user needs to increase the stack size. The default value is 8192 kb on CentOS 7 (check by `ulimit -s`). The user can use `ulimit -s 100000` to increase the stack size to be 100 mb.*
