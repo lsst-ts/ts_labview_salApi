@@ -1,11 +1,10 @@
-# MTM2 LabVIEW SAL API
+# MTM2 SAL LabVIEW API
 
-*Low-level LabVIEW SAL API of MTM2.*
+Low-level SAL LabVIEW API of MTM2.
 
 ## Package Version Used
 
-- *ts_sal (master branch, commit: 27a042f)*
-- *ts_opensplice (V6.9 is used, master branch, commit: 2ac85e7)*
-- *ts_xml (develop branch, commit: a2ac2e0)*
-- *ts_SALLabVIEW (master branch, commit: 2b4adcc)*
-
+- ts_sal (develop branch, commit: c4db06e)
+- ts_idl (develop branch, commit: b378b92)
+- ts_opensplice (master branch, commit: 0801214)
+- ts_xml (develop branch, commit: 0878d18)
