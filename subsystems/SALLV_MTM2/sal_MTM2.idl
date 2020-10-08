@@ -1,0 +1,381 @@
+module MTM2 {
+	 const long MTM2_shared_SummaryState_DisabledState=1;
+	 const long MTM2_shared_SummaryState_EnabledState=2;
+	 const long MTM2_shared_SummaryState_FaultState=3;
+	 const long MTM2_shared_SummaryState_OfflineState=4;
+	 const long MTM2_shared_SummaryState_StandbyState=5;
+	struct axialActuatorSteps {
+	  double	private_rcvStamp;    //private
+	  long	steps[72];
+	};
+	#pragma keylist axialActuatorSteps
+	struct axialEncoderPositions {
+	  double	private_rcvStamp;    //private
+	  double	position[72];
+	};
+	#pragma keylist axialEncoderPositions
+	struct axialForce {
+	  double	private_rcvStamp;    //private
+	  double	lutGravity[72];
+	  double	lutTemperature[72];
+	  double	applied[72];
+	  double	measured[72];
+	  double	hardpointCorrection[72];
+	};
+	#pragma keylist axialForce
+	struct command_abort {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_abort
+	struct command_applyForces {
+	  double	private_rcvStamp;    //private
+	  double	axial[72];
+	  double	tangent[6];
+	};
+	#pragma keylist command_applyForces
+	struct command_clearErrors {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_clearErrors
+	struct command_disable {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_disable
+	struct command_enable {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_enable
+	struct command_enterControl {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_enterControl
+	struct command_exitControl {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_exitControl
+	struct command_positionMirror {
+	  double	private_rcvStamp;    //private
+	  double	x;
+	  double	y;
+	  double	z;
+	  double	xRot;
+	  double	yRot;
+	  double	zRot;
+	};
+	#pragma keylist command_positionMirror
+	struct command_resetForceOffsets {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_resetForceOffsets
+	struct command_selectInclinationSource {
+	  double	private_rcvStamp;    //private
+	  short	source;	// enum : OnBoard,MTMount
+	};
+	#pragma keylist command_selectInclinationSource
+	 const long selectInclinationSource_OnBoard=1;
+	 const long selectInclinationSource_MTMount=2;
+	struct command_setAuthList {
+	  double	private_rcvStamp;    //private
+	  string	authorizedUsers;
+	  string	nonAuthorizedCSCs;
+	};
+	#pragma keylist command_setAuthList
+	struct command_setLogLevel {
+	  double	private_rcvStamp;    //private
+	  long	level;
+	};
+	#pragma keylist command_setLogLevel
+	struct command_setTemperatureOffset {
+	  double	private_rcvStamp;    //private
+	  double	ring[12];
+	  double	intake[2];
+	  double	exhaust[2];
+	};
+	#pragma keylist command_setTemperatureOffset
+	struct command_setValue {
+	  double	private_rcvStamp;    //private
+	  string<256>	parametersAndValues;
+	};
+	#pragma keylist command_setValue
+	struct command_standby {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_standby
+	struct command_start {
+	  double	private_rcvStamp;    //private
+	  string<256>	settingsToApply;
+	};
+	#pragma keylist command_start
+	struct command_switchForceBalanceSystem {
+	  double	private_rcvStamp;    //private
+	  boolean	status;
+	};
+	#pragma keylist command_switchForceBalanceSystem
+	struct displacementSensors {
+	  double	private_rcvStamp;    //private
+	  double	thetaZ[6];
+	  double	deltaZ[6];
+	};
+	#pragma keylist displacementSensors
+	struct forceBalance {
+	  double	private_rcvStamp;    //private
+	  double	fx;
+	  double	fy;
+	  double	fz;
+	  double	mx;
+	  double	my;
+	  double	mz;
+	};
+	#pragma keylist forceBalance
+	struct ilcData {
+	  double	private_rcvStamp;    //private
+	  unsigned short	status[78];
+	};
+	#pragma keylist ilcData
+	struct logevent_appliedSettingsMatchStart {
+	  double	private_rcvStamp;    //private
+	  boolean	appliedSettingsMatchStartIsTrue;
+	  long	priority;
+	};
+	#pragma keylist logevent_appliedSettingsMatchStart
+	struct logevent_authList {
+	  double	private_rcvStamp;    //private
+	  string	authorizedUsers;
+	  string	nonAuthorizedCSCs;
+	  long	priority;
+	};
+	#pragma keylist logevent_authList
+	struct logevent_cellTemperatureHiWarning {
+	  double	private_rcvStamp;    //private
+	  boolean	hiWarning;
+	  long	priority;
+	};
+	#pragma keylist logevent_cellTemperatureHiWarning
+	struct logevent_commandableByDDS {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	  long	priority;
+	};
+	#pragma keylist logevent_commandableByDDS
+	struct logevent_detailedState {
+	  double	private_rcvStamp;    //private
+	  long	detailedState;
+	  long	priority;
+	};
+	#pragma keylist logevent_detailedState
+	struct logevent_errorCode {
+	  double	private_rcvStamp;    //private
+	  long	errorCode;
+	  string	errorReport;
+	  string	traceback;
+	  long	priority;
+	};
+	#pragma keylist logevent_errorCode
+	struct logevent_forceBalanceSystemStatus {
+	  double	private_rcvStamp;    //private
+	  boolean	status;
+	  long	priority;
+	};
+	#pragma keylist logevent_forceBalanceSystemStatus
+	struct logevent_hardpointList {
+	  double	private_rcvStamp;    //private
+	  unsigned short	actuators[6];
+	  long	priority;
+	};
+	#pragma keylist logevent_hardpointList
+	struct logevent_heartbeat {
+	  double	private_rcvStamp;    //private
+	  boolean	heartbeat;
+	  long	priority;
+	};
+	#pragma keylist logevent_heartbeat
+	struct logevent_inclinationTelemetrySource {
+	  double	private_rcvStamp;    //private
+	  short	source;	// enum : OnBoard,MTMount
+	  long	priority;
+	};
+	#pragma keylist logevent_inclinationTelemetrySource
+	 const long inclinationTelemetrySource_OnBoard=1;
+	 const long inclinationTelemetrySource_MTMount=2;
+	struct logevent_interlock {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	  long	priority;
+	};
+	#pragma keylist logevent_interlock
+	struct logevent_logLevel {
+	  double	private_rcvStamp;    //private
+	  long	level;
+	  long	priority;
+	};
+	#pragma keylist logevent_logLevel
+	struct logevent_logMessage {
+	  double	private_rcvStamp;    //private
+	  string	name;
+	  long	level;
+	  string	message;
+	  string	traceback;
+	  string	filePath;
+	  string	functionName;
+	  long	lineNumber;
+	  long	process;
+	  long	priority;
+	};
+	#pragma keylist logevent_logMessage
+	struct logevent_m2AssemblyInPosition {
+	  double	private_rcvStamp;    //private
+	  boolean	inPosition;
+	  long	priority;
+	};
+	#pragma keylist logevent_m2AssemblyInPosition
+	 const long MTM2_shared_InclinationTelemetrySource_OnBoard=1;
+	 const long MTM2_shared_InclinationTelemetrySource_MTMount=2;
+	struct logevent_settingVersions {
+	  double	private_rcvStamp;    //private
+	  string	recommendedSettingsVersion;
+	  string	recommendedSettingsLabels;
+	  string	settingsUrl;
+	  long	priority;
+	};
+	#pragma keylist logevent_settingVersions
+	struct logevent_settingsApplied {
+	  double	private_rcvStamp;    //private
+	  string<256>	settingsVersion;
+	  string	otherSettingsEvents;
+	  long	priority;
+	};
+	#pragma keylist logevent_settingsApplied
+	struct logevent_simulationMode {
+	  double	private_rcvStamp;    //private
+	  long	mode;
+	  long	priority;
+	};
+	#pragma keylist logevent_simulationMode
+	struct logevent_softwareVersions {
+	  double	private_rcvStamp;    //private
+	  string<256>	salVersion;
+	  string<256>	xmlVersion;
+	  string<256>	openSpliceVersion;
+	  string<256>	cscVersion;
+	  string	subsystemVersions;
+	  long	priority;
+	};
+	#pragma keylist logevent_softwareVersions
+	struct logevent_summaryState {
+	  double	private_rcvStamp;    //private
+	  long	summaryState;
+	  long	priority;
+	};
+	#pragma keylist logevent_summaryState
+	struct logevent_tcpIpConnected {
+	  double	private_rcvStamp;    //private
+	  boolean	isConnected;
+	  long	priority;
+	};
+	#pragma keylist logevent_tcpIpConnected
+	struct logevent_temperatureOffset {
+	  double	private_rcvStamp;    //private
+	  double	ring[12];
+	  double	intake[2];
+	  double	exhaust[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_temperatureOffset
+	struct netForcesTotal {
+	  double	private_rcvStamp;    //private
+	  double	fx;
+	  double	fy;
+	  double	fz;
+	};
+	#pragma keylist netForcesTotal
+	struct netMomentsTotal {
+	  double	private_rcvStamp;    //private
+	  double	mx;
+	  double	my;
+	  double	mz;
+	};
+	#pragma keylist netMomentsTotal
+	struct position {
+	  double	private_rcvStamp;    //private
+	  double	x;
+	  double	y;
+	  double	z;
+	  double	xRot;
+	  double	yRot;
+	  double	zRot;
+	};
+	#pragma keylist position
+	struct positionIMS {
+	  double	private_rcvStamp;    //private
+	  double	x;
+	  double	y;
+	  double	z;
+	  double	xRot;
+	  double	yRot;
+	  double	zRot;
+	};
+	#pragma keylist positionIMS
+	struct powerStatus {
+	  double	private_rcvStamp;    //private
+	  double	motorVoltage;
+	  double	motorCurrent;
+	  double	commVoltage;
+	  double	commCurrent;
+	};
+	#pragma keylist powerStatus
+	struct tangentActuatorSteps {
+	  double	private_rcvStamp;    //private
+	  long	steps[6];
+	};
+	#pragma keylist tangentActuatorSteps
+	struct tangentEncoderPositions {
+	  double	private_rcvStamp;    //private
+	  double	position[6];
+	};
+	#pragma keylist tangentEncoderPositions
+	struct tangentForce {
+	  double	private_rcvStamp;    //private
+	  double	lutGravity[6];
+	  double	lutTemperature[6];
+	  double	applied[6];
+	  double	measured[6];
+	  double	hardpointCorrection[6];
+	};
+	#pragma keylist tangentForce
+	struct temperature {
+	  double	private_rcvStamp;    //private
+	  double	ring[12];
+	  double	intake[2];
+	  double	exhaust[2];
+	};
+	#pragma keylist temperature
+	struct zenithAngle {
+	  double	private_rcvStamp;    //private
+	  double	measured;
+	  double	inclinometerRaw;
+	  double	inclinometerProcessed;
+	};
+	#pragma keylist zenithAngle
+	struct ackcmd {
+  double	private_rcvStamp;    //private
+	  long	cmdSeqNum;
+	  long	ack;
+	  long	error;
+	  string<256>	result;
+	  long	host;
+	  string	identity;
+	  long	origin;
+	  long	cmdtype;
+	  double	timeout;
+	};
+	#pragma keylist ackcmd
+};
+

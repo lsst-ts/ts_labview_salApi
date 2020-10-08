@@ -1,104 +1,114 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="18008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-R!!!*Q(C=\:20;BN*&amp;-;`B)':L7]1B%[1&gt;Y!19MA*L/6!%HA(;-&amp;Y&amp;U6E9;W3&lt;7IT!WWUM1[AB2'T$)D(J-H?2YCX!N-&gt;Z^?FMJQM`'?2A6F-F:_[[`N?P@JV&gt;&lt;GFX([4@N(F89X%;&gt;NOJ'[ET61Z7M1,*)XQB[/,)7UTH1\(UW'/C^&amp;QW0&lt;;F^Z@.5P;GMNKP&gt;T'^H:::X_Z\MBIS,DS]_$;:`*[V48.?O?PNT6X`GL&gt;ZT=\@^6]ZT.IFEWO=EE29L8M6D`-P[(6H`'LGPH(&gt;&gt;U&gt;V]?@[BR.8&gt;?@5*MPNT^`F@V*7^(GY\;;,+I=X)[Z6.PVKXH8666&lt;T3&gt;8@N5RO0;:P"BX&lt;&lt;P9_@.*6XXP4R:^@LPTRWV\\5^;2PVY-;&gt;)(Z/KG`QQ`Y;7H`]GH[L.&lt;@Z&gt;]``X\_&gt;P[JM&lt;`O&lt;T&lt;?U_`^ZP\ET[FZPU10W(C!AC%5[9?OMSU!-^U!-^U!-^I3@UB*\1%XJ#&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X2$TRV&gt;[%)8/LM3,"YM&amp;"1.#A4*I#DY#8A#HI!HY''IA#@A#8A#HI#(&amp;!5]!5`!%`!%0%R4Q"0Q"$Q"4]"$K5Q3O;0$%`"18AG?"%_#*]'4Y'&amp;**8A3!)H&amp;%I542="1QET=*(A30!E?&lt;J8A3@!E?")]#2ZM*8A30!G?"%_#BSFZ6V+G[4M[0*32Q_0Q/$Q/D].$;4E]$I`$Y`!Y0#QHB]@B=3#=":XC)-C:Z#1Y!Y@(Y?%CB]@B=8A=(I=(+\]BTTP4U`1&gt;(2[$R_!R?!Q?AY=3-HA-(I0(Y$&amp;Y+#O$R_!R?!Q?AY?F:0!90!;0!7)MSP)SCBE4D32$-(DYS[@&amp;]FN+G=2SF]LB64G5+I&gt;.Z2#J(![6F[\S-F6?EMLGKWSKSG;J&lt;),+Q[F!K]#I,+)SO5`5/&lt;^HR#FR1MS)1_+!W#='R&amp;Y`^3=HHJ_@[_TM4+?HJTIZ/&gt;&amp;M.N0BY;%/$A[UP\_PQ7#AP&lt;U^8&lt;6(^'V\=06&gt;?D=90JU^(D\\])&gt;`@0@\SY^PP\Y[?PP0K[-`XX&gt;(&lt;[2@`S)H_[/8T\0`OP&gt;@\(TC3&lt;H?+`J[@___3`_&amp;&lt;[-?;HP&gt;\&gt;%XUN,XX1!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-G!!!*Q(C=\:9R3RR2%-@(%-CV&gt;F='O3]A5`A&amp;\+U51AK\[&lt;.8(-&amp;C)R;RC&lt;9/"!4$.PI"LJ!F&gt;:9"&amp;XN\+V-+99`,&lt;X&gt;@Z#T5"*+1)O]ZT^P``\W:X\Z^NZR)VQ9CTW8_6*0(WCX_;.1UT2&lt;DN^(I&gt;H?5BI&lt;9WLVM`&lt;+;NKWOJ^/3[)=+M@\5_X8:#G66,PB4BPKE][@6^88*.8HO_776`%[;VR29]+OK,B&gt;]EF.CQ7^Z4F,^OO[.KC2,0_"8P:_&gt;0.QO(\``IP0T)GN&lt;UW4:G/C(!L(J\T^PRKW1HYU8`)RBVO@0CNFMT$6Z\PFZE@QMSZNM"M7C8R4._-Y@.U7?:7@D"4^L:NF*KN]U?;PFR:AM`5$V)LN&lt;`U$\\`]&amp;``&lt;R]X&gt;\_6D\G;`XOS=H`?%GMC4NCYA)QAED6&amp;JL(OC"(OC"(OC"\OC/\OC/\OC/&lt;OC'&lt;OC'&lt;OC'LOC+LOC+LOC+XH6U12&gt;U17&gt;8AO*"I3"JE##9$)I%1]!4]!1]!1_8%P!%0!&amp;0Q"0Q-%5#HI!HY!FY!B[73=!4]!1]!5`!1[K/*,K/$E`!1XJR?"Q?B]@B=8AI+1[0!_!5=R)\3=!1RX1_/$Q/D]0$2X&amp;Y("[(R_&amp;R?,$&amp;Y8&amp;Y("[(R_&amp;B3&lt;=LXN'U(2U?UID"9`!90!;0Q5.K-8A-(I0(Y$&amp;Y+#='D]&amp;D1"A&amp;D?1AC,()G'"='$Q'$``%Y$&amp;Y$"[$R_$"[J[1&gt;4P4UL1&gt;(2[&amp;2_&amp;2?"1?B9=5IP!I0!K0QK0QE&amp;95(I6(Y6&amp;Y&amp;"Z+C=+D]#A]#IB3F0+C*&amp;-7+J-51?(BLTMNWDUF\UCU[S,J]%I[F*)/G[2$*/FQ3(LIEB[GJ)=E;@-F&lt;;KET:+U#:*O4B+U*"B*231N&lt;C@+$?-6=5[=%PP%B.AEVIE69LF&gt;_JMHXNT=S.86F:S@H]PJ[;HM\_`,:$+2T=V.76^@FZ76&amp;6F?8L\\/@'3XL?F(__F&gt;XQ_7"W]0^,BR=?&gt;Y=&lt;B[_(WXMYQX\M9LBU@TN?/G&gt;0ZKY/,IT?$D9.8A_W^NY0*\J@"WP'(LWOM@`%LU?&lt;\@0&gt;?_B@?D@*-ZAM`Q^CD\Z$Z\[)!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="DataTypes" Type="Folder">
 		<Item Name=".ctl" Type="VI" URL="../DataTypes/.ctl"/>
-		<Item Name="DetailedStates.ctl" Type="VI" URL="../DataTypes/DetailedStates.ctl"/>
-		<Item Name="FaultStates.ctl" Type="VI" URL="../DataTypes/FaultStates.ctl"/>
+		<Item Name="InclinationTelemetrySource.ctl" Type="VI" URL="../DataTypes/InclinationTelemetrySource.ctl"/>
 		<Item Name="SummaryState.ctl" Type="VI" URL="../DataTypes/SummaryState.ctl"/>
-		<Item Name="SummaryStates.ctl" Type="VI" URL="../DataTypes/SummaryStates.ctl"/>
 		<Item Name="ackcmd.ctl" Type="VI" URL="../DataTypes/ackcmd.ctl"/>
-		<Item Name="actuatorLimitSwitches.ctl" Type="VI" URL="../DataTypes/actuatorLimitSwitches.ctl"/>
-		<Item Name="axialActuatorAbsolutePositionSteps.ctl" Type="VI" URL="../DataTypes/axialActuatorAbsolutePositionSteps.ctl"/>
-		<Item Name="axialActuatorPositionAbsoluteEncoderPositionMeasured.ctl" Type="VI" URL="../DataTypes/axialActuatorPositionAbsoluteEncoderPositionMeasured.ctl"/>
-		<Item Name="axialForcesMeasured.ctl" Type="VI" URL="../DataTypes/axialForcesMeasured.ctl"/>
-		<Item Name="command.ctl" Type="VI" URL="../DataTypes/command.ctl"/>
+		<Item Name="axialActuatorSteps.ctl" Type="VI" URL="../DataTypes/axialActuatorSteps.ctl"/>
+		<Item Name="axialEncoderPositions.ctl" Type="VI" URL="../DataTypes/axialEncoderPositions.ctl"/>
+		<Item Name="axialForce.ctl" Type="VI" URL="../DataTypes/axialForce.ctl"/>
 		<Item Name="command_abort.ctl" Type="VI" URL="../DataTypes/command_abort.ctl"/>
-		<Item Name="command_applyBendingMode.ctl" Type="VI" URL="../DataTypes/command_applyBendingMode.ctl"/>
-		<Item Name="command_applyForce.ctl" Type="VI" URL="../DataTypes/command_applyForce.ctl"/>
+		<Item Name="command_applyForces.ctl" Type="VI" URL="../DataTypes/command_applyForces.ctl"/>
+		<Item Name="command_clearErrors.ctl" Type="VI" URL="../DataTypes/command_clearErrors.ctl"/>
 		<Item Name="command_disable.ctl" Type="VI" URL="../DataTypes/command_disable.ctl"/>
 		<Item Name="command_enable.ctl" Type="VI" URL="../DataTypes/command_enable.ctl"/>
 		<Item Name="command_enterControl.ctl" Type="VI" URL="../DataTypes/command_enterControl.ctl"/>
 		<Item Name="command_exitControl.ctl" Type="VI" URL="../DataTypes/command_exitControl.ctl"/>
-		<Item Name="command_moveAxialActuator.ctl" Type="VI" URL="../DataTypes/command_moveAxialActuator.ctl"/>
 		<Item Name="command_positionMirror.ctl" Type="VI" URL="../DataTypes/command_positionMirror.ctl"/>
-		<Item Name="command_setCorrectionMode.ctl" Type="VI" URL="../DataTypes/command_setCorrectionMode.ctl"/>
+		<Item Name="command_resetForceOffsets.ctl" Type="VI" URL="../DataTypes/command_resetForceOffsets.ctl"/>
+		<Item Name="command_selectInclinationSource.ctl" Type="VI" URL="../DataTypes/command_selectInclinationSource.ctl"/>
+		<Item Name="command_setAuthList.ctl" Type="VI" URL="../DataTypes/command_setAuthList.ctl"/>
 		<Item Name="command_setLogLevel.ctl" Type="VI" URL="../DataTypes/command_setLogLevel.ctl"/>
-		<Item Name="command_setSimulationMode.ctl" Type="VI" URL="../DataTypes/command_setSimulationMode.ctl"/>
+		<Item Name="command_setTemperatureOffset.ctl" Type="VI" URL="../DataTypes/command_setTemperatureOffset.ctl"/>
 		<Item Name="command_setValue.ctl" Type="VI" URL="../DataTypes/command_setValue.ctl"/>
 		<Item Name="command_standby.ctl" Type="VI" URL="../DataTypes/command_standby.ctl"/>
 		<Item Name="command_start.ctl" Type="VI" URL="../DataTypes/command_start.ctl"/>
-		<Item Name="logevent.ctl" Type="VI" URL="../DataTypes/logevent.ctl"/>
+		<Item Name="command_switchForceBalanceSystem.ctl" Type="VI" URL="../DataTypes/command_switchForceBalanceSystem.ctl"/>
+		<Item Name="displacementSensors.ctl" Type="VI" URL="../DataTypes/displacementSensors.ctl"/>
+		<Item Name="forceBalance.ctl" Type="VI" URL="../DataTypes/forceBalance.ctl"/>
+		<Item Name="ilcData.ctl" Type="VI" URL="../DataTypes/ilcData.ctl"/>
 		<Item Name="logevent_appliedSettingsMatchStart.ctl" Type="VI" URL="../DataTypes/logevent_appliedSettingsMatchStart.ctl"/>
+		<Item Name="logevent_authList.ctl" Type="VI" URL="../DataTypes/logevent_authList.ctl"/>
+		<Item Name="logevent_cellTemperatureHiWarning.ctl" Type="VI" URL="../DataTypes/logevent_cellTemperatureHiWarning.ctl"/>
+		<Item Name="logevent_commandableByDDS.ctl" Type="VI" URL="../DataTypes/logevent_commandableByDDS.ctl"/>
+		<Item Name="logevent_detailedState.ctl" Type="VI" URL="../DataTypes/logevent_detailedState.ctl"/>
 		<Item Name="logevent_errorCode.ctl" Type="VI" URL="../DataTypes/logevent_errorCode.ctl"/>
+		<Item Name="logevent_forceBalanceSystemStatus.ctl" Type="VI" URL="../DataTypes/logevent_forceBalanceSystemStatus.ctl"/>
+		<Item Name="logevent_hardpointList.ctl" Type="VI" URL="../DataTypes/logevent_hardpointList.ctl"/>
 		<Item Name="logevent_heartbeat.ctl" Type="VI" URL="../DataTypes/logevent_heartbeat.ctl"/>
+		<Item Name="logevent_inclinationTelemetrySource.ctl" Type="VI" URL="../DataTypes/logevent_inclinationTelemetrySource.ctl"/>
+		<Item Name="logevent_interlock.ctl" Type="VI" URL="../DataTypes/logevent_interlock.ctl"/>
 		<Item Name="logevent_logLevel.ctl" Type="VI" URL="../DataTypes/logevent_logLevel.ctl"/>
 		<Item Name="logevent_logMessage.ctl" Type="VI" URL="../DataTypes/logevent_logMessage.ctl"/>
 		<Item Name="logevent_m2AssemblyInPosition.ctl" Type="VI" URL="../DataTypes/logevent_m2AssemblyInPosition.ctl"/>
-		<Item Name="logevent_m2FaultState.ctl" Type="VI" URL="../DataTypes/logevent_m2FaultState.ctl"/>
 		<Item Name="logevent_settingVersions.ctl" Type="VI" URL="../DataTypes/logevent_settingVersions.ctl"/>
+		<Item Name="logevent_settingsApplied.ctl" Type="VI" URL="../DataTypes/logevent_settingsApplied.ctl"/>
 		<Item Name="logevent_simulationMode.ctl" Type="VI" URL="../DataTypes/logevent_simulationMode.ctl"/>
 		<Item Name="logevent_softwareVersions.ctl" Type="VI" URL="../DataTypes/logevent_softwareVersions.ctl"/>
 		<Item Name="logevent_summaryState.ctl" Type="VI" URL="../DataTypes/logevent_summaryState.ctl"/>
-		<Item Name="mirrorPositionMeasured.ctl" Type="VI" URL="../DataTypes/mirrorPositionMeasured.ctl"/>
+		<Item Name="logevent_tcpIpConnected.ctl" Type="VI" URL="../DataTypes/logevent_tcpIpConnected.ctl"/>
+		<Item Name="logevent_temperatureOffset.ctl" Type="VI" URL="../DataTypes/logevent_temperatureOffset.ctl"/>
+		<Item Name="netForcesTotal.ctl" Type="VI" URL="../DataTypes/netForcesTotal.ctl"/>
+		<Item Name="netMomentsTotal.ctl" Type="VI" URL="../DataTypes/netMomentsTotal.ctl"/>
+		<Item Name="position.ctl" Type="VI" URL="../DataTypes/position.ctl"/>
+		<Item Name="positionIMS.ctl" Type="VI" URL="../DataTypes/positionIMS.ctl"/>
 		<Item Name="powerStatus.ctl" Type="VI" URL="../DataTypes/powerStatus.ctl"/>
-		<Item Name="rawDisplacement.ctl" Type="VI" URL="../DataTypes/rawDisplacement.ctl"/>
-		<Item Name="rawTelemetry.ctl" Type="VI" URL="../DataTypes/rawTelemetry.ctl"/>
-		<Item Name="stepVectorUpdate.ctl" Type="VI" URL="../DataTypes/stepVectorUpdate.ctl"/>
-		<Item Name="systemStatus.ctl" Type="VI" URL="../DataTypes/systemStatus.ctl"/>
-		<Item Name="tangentActuatorAbsolutePositionSteps.ctl" Type="VI" URL="../DataTypes/tangentActuatorAbsolutePositionSteps.ctl"/>
-		<Item Name="tangentActuatorPositionAbsoluteEncoderPositionMeasured.ctl" Type="VI" URL="../DataTypes/tangentActuatorPositionAbsoluteEncoderPositionMeasured.ctl"/>
-		<Item Name="tangentForcesMeasured.ctl" Type="VI" URL="../DataTypes/tangentForcesMeasured.ctl"/>
-		<Item Name="targetForces.ctl" Type="VI" URL="../DataTypes/targetForces.ctl"/>
-		<Item Name="temperaturesMeasured.ctl" Type="VI" URL="../DataTypes/temperaturesMeasured.ctl"/>
-		<Item Name="zenithAngleMeasured.ctl" Type="VI" URL="../DataTypes/zenithAngleMeasured.ctl"/>
+		<Item Name="tangentActuatorSteps.ctl" Type="VI" URL="../DataTypes/tangentActuatorSteps.ctl"/>
+		<Item Name="tangentEncoderPositions.ctl" Type="VI" URL="../DataTypes/tangentEncoderPositions.ctl"/>
+		<Item Name="tangentForce.ctl" Type="VI" URL="../DataTypes/tangentForce.ctl"/>
+		<Item Name="temperature.ctl" Type="VI" URL="../DataTypes/temperature.ctl"/>
+		<Item Name="zenithAngle.ctl" Type="VI" URL="../DataTypes/zenithAngle.ctl"/>
 	</Item>
 	<Item Name="MTM2_Connect.vi" Type="VI" URL="../VIs/MTM2_Connect.vi"/>
 	<Item Name="MTM2_Release.vi" Type="VI" URL="../VIs/MTM2_Release.vi"/>
 	<Item Name="MTM2_acceptCommand_abort.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_abort.vi"/>
-	<Item Name="MTM2_acceptCommand_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_applyBendingMode.vi"/>
-	<Item Name="MTM2_acceptCommand_applyForce.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_applyForce.vi"/>
+	<Item Name="MTM2_acceptCommand_applyForces.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_applyForces.vi"/>
+	<Item Name="MTM2_acceptCommand_clearErrors.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_clearErrors.vi"/>
 	<Item Name="MTM2_acceptCommand_disable.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_disable.vi"/>
 	<Item Name="MTM2_acceptCommand_enable.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_enable.vi"/>
 	<Item Name="MTM2_acceptCommand_enterControl.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_enterControl.vi"/>
 	<Item Name="MTM2_acceptCommand_exitControl.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_exitControl.vi"/>
-	<Item Name="MTM2_acceptCommand_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_moveAxialActuator.vi"/>
 	<Item Name="MTM2_acceptCommand_positionMirror.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_positionMirror.vi"/>
-	<Item Name="MTM2_acceptCommand_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setCorrectionMode.vi"/>
+	<Item Name="MTM2_acceptCommand_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_resetForceOffsets.vi"/>
+	<Item Name="MTM2_acceptCommand_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_selectInclinationSource.vi"/>
+	<Item Name="MTM2_acceptCommand_setAuthList.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setAuthList.vi"/>
 	<Item Name="MTM2_acceptCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setLogLevel.vi"/>
-	<Item Name="MTM2_acceptCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setSimulationMode.vi"/>
+	<Item Name="MTM2_acceptCommand_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_acceptCommand_setValue.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_setValue.vi"/>
 	<Item Name="MTM2_acceptCommand_standby.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_standby.vi"/>
 	<Item Name="MTM2_acceptCommand_start.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_start.vi"/>
+	<Item Name="MTM2_acceptCommand_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_acceptCommand_switchForceBalanceSystem.vi"/>
 	<Item Name="MTM2_ackCommand_abort.vi" Type="VI" URL="../VIs/MTM2_ackCommand_abort.vi"/>
-	<Item Name="MTM2_ackCommand_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_ackCommand_applyBendingMode.vi"/>
-	<Item Name="MTM2_ackCommand_applyForce.vi" Type="VI" URL="../VIs/MTM2_ackCommand_applyForce.vi"/>
+	<Item Name="MTM2_ackCommand_applyForces.vi" Type="VI" URL="../VIs/MTM2_ackCommand_applyForces.vi"/>
+	<Item Name="MTM2_ackCommand_clearErrors.vi" Type="VI" URL="../VIs/MTM2_ackCommand_clearErrors.vi"/>
 	<Item Name="MTM2_ackCommand_disable.vi" Type="VI" URL="../VIs/MTM2_ackCommand_disable.vi"/>
 	<Item Name="MTM2_ackCommand_enable.vi" Type="VI" URL="../VIs/MTM2_ackCommand_enable.vi"/>
 	<Item Name="MTM2_ackCommand_enterControl.vi" Type="VI" URL="../VIs/MTM2_ackCommand_enterControl.vi"/>
 	<Item Name="MTM2_ackCommand_exitControl.vi" Type="VI" URL="../VIs/MTM2_ackCommand_exitControl.vi"/>
-	<Item Name="MTM2_ackCommand_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_ackCommand_moveAxialActuator.vi"/>
 	<Item Name="MTM2_ackCommand_positionMirror.vi" Type="VI" URL="../VIs/MTM2_ackCommand_positionMirror.vi"/>
-	<Item Name="MTM2_ackCommand_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setCorrectionMode.vi"/>
+	<Item Name="MTM2_ackCommand_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_ackCommand_resetForceOffsets.vi"/>
+	<Item Name="MTM2_ackCommand_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_ackCommand_selectInclinationSource.vi"/>
+	<Item Name="MTM2_ackCommand_setAuthList.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setAuthList.vi"/>
 	<Item Name="MTM2_ackCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setLogLevel.vi"/>
-	<Item Name="MTM2_ackCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setSimulationMode.vi"/>
+	<Item Name="MTM2_ackCommand_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_ackCommand_setValue.vi" Type="VI" URL="../VIs/MTM2_ackCommand_setValue.vi"/>
 	<Item Name="MTM2_ackCommand_standby.vi" Type="VI" URL="../VIs/MTM2_ackCommand_standby.vi"/>
 	<Item Name="MTM2_ackCommand_start.vi" Type="VI" URL="../VIs/MTM2_ackCommand_start.vi"/>
+	<Item Name="MTM2_ackCommand_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_ackCommand_switchForceBalanceSystem.vi"/>
 	<Item Name="MTM2_cancelCallback_ackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_ackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_cancelCallback_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_cancelCallback_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_cancelCallback_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_cancelCallback_command_.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_.vi"/>
+	<Item Name="MTM2_cancelCallback_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_cancelCallback_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_cancelCallback_axialForce.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_axialForce.vi"/>
 	<Item Name="MTM2_cancelCallback_command_abort.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_abort.vi"/>
 	<Item Name="MTM2_cancelCallback_command_abortackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_abortackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_command_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyBendingMode.vi"/>
-	<Item Name="MTM2_cancelCallback_command_applyBendingModeackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyBendingModeackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_command_applyForce.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyForce.vi"/>
-	<Item Name="MTM2_cancelCallback_command_applyForceackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyForceackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_applyForces.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyForces.vi"/>
+	<Item Name="MTM2_cancelCallback_command_applyForcesackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_applyForcesackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_clearErrors.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_clearErrors.vi"/>
+	<Item Name="MTM2_cancelCallback_command_clearErrorsackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_clearErrorsackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_disable.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_disable.vi"/>
 	<Item Name="MTM2_cancelCallback_command_disableackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_disableackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_enable.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_enable.vi"/>
@@ -107,186 +117,234 @@
 	<Item Name="MTM2_cancelCallback_command_enterControlackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_enterControlackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_exitControl.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_exitControl.vi"/>
 	<Item Name="MTM2_cancelCallback_command_exitControlackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_exitControlackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_command_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_moveAxialActuator.vi"/>
-	<Item Name="MTM2_cancelCallback_command_moveAxialActuatorackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_moveAxialActuatorackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_positionMirror.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_positionMirror.vi"/>
 	<Item Name="MTM2_cancelCallback_command_positionMirrorackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_positionMirrorackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_command_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setCorrectionMode.vi"/>
-	<Item Name="MTM2_cancelCallback_command_setCorrectionModeackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setCorrectionModeackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_resetForceOffsets.vi"/>
+	<Item Name="MTM2_cancelCallback_command_resetForceOffsetsackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_resetForceOffsetsackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_selectInclinationSource.vi"/>
+	<Item Name="MTM2_cancelCallback_command_selectInclinationSourceackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_selectInclinationSourceackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_setAuthList.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setAuthList.vi"/>
+	<Item Name="MTM2_cancelCallback_command_setAuthListackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setAuthListackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setLogLevel.vi"/>
 	<Item Name="MTM2_cancelCallback_command_setLogLevelackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setLogLevelackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_command_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setSimulationMode.vi"/>
-	<Item Name="MTM2_cancelCallback_command_setSimulationModeackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setSimulationModeackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_command_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setTemperatureOffset.vi"/>
+	<Item Name="MTM2_cancelCallback_command_setTemperatureOffsetackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setTemperatureOffsetackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_setValue.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setValue.vi"/>
 	<Item Name="MTM2_cancelCallback_command_setValueackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_setValueackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_standby.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_standby.vi"/>
 	<Item Name="MTM2_cancelCallback_command_standbyackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_standbyackcmd.vi"/>
 	<Item Name="MTM2_cancelCallback_command_start.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_start.vi"/>
 	<Item Name="MTM2_cancelCallback_command_startackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_startackcmd.vi"/>
-	<Item Name="MTM2_cancelCallback_logEvent_.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_.vi"/>
+	<Item Name="MTM2_cancelCallback_command_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_switchForceBalanceSystem.vi"/>
+	<Item Name="MTM2_cancelCallback_command_switchForceBalanceSystemackcmd.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_command_switchForceBalanceSystemackcmd.vi"/>
+	<Item Name="MTM2_cancelCallback_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_displacementSensors.vi"/>
+	<Item Name="MTM2_cancelCallback_forceBalance.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_forceBalance.vi"/>
+	<Item Name="MTM2_cancelCallback_ilcData.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_ilcData.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_authList.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_authList.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_detailedState.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_errorCode.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_hardpointList.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_heartbeat.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_interlock.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_cancelCallback_logEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_settingVersions.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_simulationMode.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_summaryState.vi"/>
-	<Item Name="MTM2_cancelCallback_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_temperatureOffset.vi"/>
+	<Item Name="MTM2_cancelCallback_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_netForcesTotal.vi"/>
+	<Item Name="MTM2_cancelCallback_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_netMomentsTotal.vi"/>
+	<Item Name="MTM2_cancelCallback_position.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_position.vi"/>
+	<Item Name="MTM2_cancelCallback_positionIMS.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_positionIMS.vi"/>
 	<Item Name="MTM2_cancelCallback_powerStatus.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_powerStatus.vi"/>
-	<Item Name="MTM2_cancelCallback_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_rawDisplacement.vi"/>
-	<Item Name="MTM2_cancelCallback_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_rawTelemetry.vi"/>
-	<Item Name="MTM2_cancelCallback_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_cancelCallback_systemStatus.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_systemStatus.vi"/>
-	<Item Name="MTM2_cancelCallback_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_cancelCallback_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_cancelCallback_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_cancelCallback_targetForces.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_targetForces.vi"/>
-	<Item Name="MTM2_cancelCallback_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_cancelCallback_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_cancelCallback_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_cancelCallback_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_cancelCallback_tangentForce.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_tangentForce.vi"/>
+	<Item Name="MTM2_cancelCallback_temperature.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_temperature.vi"/>
+	<Item Name="MTM2_cancelCallback_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_zenithAngle.vi"/>
 	<Item Name="MTM2_checkCallbacks.vi" Type="VI" URL="../VIs/MTM2_checkCallbacks.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_authList.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_authList.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_detailedState.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_errorCode.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_hardpointList.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_heartbeat.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_interlock.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_logLevel.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_logMessage.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_flushSamplesEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_settingVersions.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_simulationMode.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_summaryState.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_temperatureOffset.vi"/>
 	<Item Name="MTM2_getCurrentTime.vi" Type="VI" URL="../VIs/MTM2_getCurrentTime.vi"/>
 	<Item Name="MTM2_getEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_getEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_getEvent_authList.vi" Type="VI" URL="../VIs/MTM2_getEvent_authList.vi"/>
+	<Item Name="MTM2_getEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_getEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_getEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_getEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_getEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_getEvent_detailedState.vi"/>
 	<Item Name="MTM2_getEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_getEvent_errorCode.vi"/>
+	<Item Name="MTM2_getEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_getEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_getEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_getEvent_hardpointList.vi"/>
 	<Item Name="MTM2_getEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_getEvent_heartbeat.vi"/>
+	<Item Name="MTM2_getEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_getEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_getEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_getEvent_interlock.vi"/>
 	<Item Name="MTM2_getEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_getEvent_logLevel.vi"/>
 	<Item Name="MTM2_getEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_getEvent_logMessage.vi"/>
 	<Item Name="MTM2_getEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_getEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_getEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_getEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_getEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_getEvent_settingVersions.vi"/>
+	<Item Name="MTM2_getEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_getEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_getEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_getEvent_simulationMode.vi"/>
 	<Item Name="MTM2_getEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_getEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_getEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_getEvent_summaryState.vi"/>
-	<Item Name="MTM2_getNextSample_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_getNextSample_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_getNextSample_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_getNextSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_getNextSample_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_getNextSample_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_getEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_getEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_getEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_getEvent_temperatureOffset.vi"/>
+	<Item Name="MTM2_getNextSample_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_getNextSample_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_getNextSample_axialForce.vi" Type="VI" URL="../VIs/MTM2_getNextSample_axialForce.vi"/>
+	<Item Name="MTM2_getNextSample_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_getNextSample_displacementSensors.vi"/>
+	<Item Name="MTM2_getNextSample_forceBalance.vi" Type="VI" URL="../VIs/MTM2_getNextSample_forceBalance.vi"/>
+	<Item Name="MTM2_getNextSample_ilcData.vi" Type="VI" URL="../VIs/MTM2_getNextSample_ilcData.vi"/>
+	<Item Name="MTM2_getNextSample_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_getNextSample_netForcesTotal.vi"/>
+	<Item Name="MTM2_getNextSample_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_getNextSample_netMomentsTotal.vi"/>
+	<Item Name="MTM2_getNextSample_position.vi" Type="VI" URL="../VIs/MTM2_getNextSample_position.vi"/>
+	<Item Name="MTM2_getNextSample_positionIMS.vi" Type="VI" URL="../VIs/MTM2_getNextSample_positionIMS.vi"/>
 	<Item Name="MTM2_getNextSample_powerStatus.vi" Type="VI" URL="../VIs/MTM2_getNextSample_powerStatus.vi"/>
-	<Item Name="MTM2_getNextSample_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_getNextSample_rawDisplacement.vi"/>
-	<Item Name="MTM2_getNextSample_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_getNextSample_rawTelemetry.vi"/>
-	<Item Name="MTM2_getNextSample_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_getNextSample_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_getNextSample_systemStatus.vi" Type="VI" URL="../VIs/MTM2_getNextSample_systemStatus.vi"/>
-	<Item Name="MTM2_getNextSample_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_getNextSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_getNextSample_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_getNextSample_targetForces.vi" Type="VI" URL="../VIs/MTM2_getNextSample_targetForces.vi"/>
-	<Item Name="MTM2_getNextSample_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_getNextSample_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_getNextSample_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_getNextSample_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_getNextSample_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_getNextSample_tangentForce.vi" Type="VI" URL="../VIs/MTM2_getNextSample_tangentForce.vi"/>
+	<Item Name="MTM2_getNextSample_temperature.vi" Type="VI" URL="../VIs/MTM2_getNextSample_temperature.vi"/>
+	<Item Name="MTM2_getNextSample_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_getNextSample_zenithAngle.vi"/>
 	<Item Name="MTM2_getResponse_abort.vi" Type="VI" URL="../VIs/MTM2_getResponse_abort.vi"/>
-	<Item Name="MTM2_getResponse_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_getResponse_applyBendingMode.vi"/>
-	<Item Name="MTM2_getResponse_applyForce.vi" Type="VI" URL="../VIs/MTM2_getResponse_applyForce.vi"/>
+	<Item Name="MTM2_getResponse_applyForces.vi" Type="VI" URL="../VIs/MTM2_getResponse_applyForces.vi"/>
+	<Item Name="MTM2_getResponse_clearErrors.vi" Type="VI" URL="../VIs/MTM2_getResponse_clearErrors.vi"/>
 	<Item Name="MTM2_getResponse_disable.vi" Type="VI" URL="../VIs/MTM2_getResponse_disable.vi"/>
 	<Item Name="MTM2_getResponse_enable.vi" Type="VI" URL="../VIs/MTM2_getResponse_enable.vi"/>
 	<Item Name="MTM2_getResponse_enterControl.vi" Type="VI" URL="../VIs/MTM2_getResponse_enterControl.vi"/>
 	<Item Name="MTM2_getResponse_exitControl.vi" Type="VI" URL="../VIs/MTM2_getResponse_exitControl.vi"/>
-	<Item Name="MTM2_getResponse_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_getResponse_moveAxialActuator.vi"/>
 	<Item Name="MTM2_getResponse_positionMirror.vi" Type="VI" URL="../VIs/MTM2_getResponse_positionMirror.vi"/>
-	<Item Name="MTM2_getResponse_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_getResponse_setCorrectionMode.vi"/>
+	<Item Name="MTM2_getResponse_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_getResponse_resetForceOffsets.vi"/>
+	<Item Name="MTM2_getResponse_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_getResponse_selectInclinationSource.vi"/>
+	<Item Name="MTM2_getResponse_setAuthList.vi" Type="VI" URL="../VIs/MTM2_getResponse_setAuthList.vi"/>
 	<Item Name="MTM2_getResponse_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_getResponse_setLogLevel.vi"/>
-	<Item Name="MTM2_getResponse_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_getResponse_setSimulationMode.vi"/>
+	<Item Name="MTM2_getResponse_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_getResponse_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_getResponse_setValue.vi" Type="VI" URL="../VIs/MTM2_getResponse_setValue.vi"/>
 	<Item Name="MTM2_getResponse_standby.vi" Type="VI" URL="../VIs/MTM2_getResponse_standby.vi"/>
 	<Item Name="MTM2_getResponse_start.vi" Type="VI" URL="../VIs/MTM2_getResponse_start.vi"/>
-	<Item Name="MTM2_getSample_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_getSample_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_getSample_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_getSample_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_getSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_getSample_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_getSample_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_getResponse_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_getResponse_switchForceBalanceSystem.vi"/>
+	<Item Name="MTM2_getSample_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_getSample_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_getSample_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_getSample_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_getSample_axialForce.vi" Type="VI" URL="../VIs/MTM2_getSample_axialForce.vi"/>
+	<Item Name="MTM2_getSample_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_getSample_displacementSensors.vi"/>
+	<Item Name="MTM2_getSample_forceBalance.vi" Type="VI" URL="../VIs/MTM2_getSample_forceBalance.vi"/>
+	<Item Name="MTM2_getSample_ilcData.vi" Type="VI" URL="../VIs/MTM2_getSample_ilcData.vi"/>
+	<Item Name="MTM2_getSample_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_getSample_netForcesTotal.vi"/>
+	<Item Name="MTM2_getSample_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_getSample_netMomentsTotal.vi"/>
+	<Item Name="MTM2_getSample_position.vi" Type="VI" URL="../VIs/MTM2_getSample_position.vi"/>
+	<Item Name="MTM2_getSample_positionIMS.vi" Type="VI" URL="../VIs/MTM2_getSample_positionIMS.vi"/>
 	<Item Name="MTM2_getSample_powerStatus.vi" Type="VI" URL="../VIs/MTM2_getSample_powerStatus.vi"/>
-	<Item Name="MTM2_getSample_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_getSample_rawDisplacement.vi"/>
-	<Item Name="MTM2_getSample_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_getSample_rawTelemetry.vi"/>
-	<Item Name="MTM2_getSample_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_getSample_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_getSample_systemStatus.vi" Type="VI" URL="../VIs/MTM2_getSample_systemStatus.vi"/>
-	<Item Name="MTM2_getSample_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_getSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_getSample_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_getSample_targetForces.vi" Type="VI" URL="../VIs/MTM2_getSample_targetForces.vi"/>
-	<Item Name="MTM2_getSample_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_getSample_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_getSample_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_getSample_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_getSample_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_getSample_tangentForce.vi" Type="VI" URL="../VIs/MTM2_getSample_tangentForce.vi"/>
+	<Item Name="MTM2_getSample_temperature.vi" Type="VI" URL="../VIs/MTM2_getSample_temperature.vi"/>
+	<Item Name="MTM2_getSample_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_getSample_zenithAngle.vi"/>
 	<Item Name="MTM2_issueCommand_abort.vi" Type="VI" URL="../VIs/MTM2_issueCommand_abort.vi"/>
-	<Item Name="MTM2_issueCommand_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_issueCommand_applyBendingMode.vi"/>
-	<Item Name="MTM2_issueCommand_applyForce.vi" Type="VI" URL="../VIs/MTM2_issueCommand_applyForce.vi"/>
+	<Item Name="MTM2_issueCommand_applyForces.vi" Type="VI" URL="../VIs/MTM2_issueCommand_applyForces.vi"/>
+	<Item Name="MTM2_issueCommand_clearErrors.vi" Type="VI" URL="../VIs/MTM2_issueCommand_clearErrors.vi"/>
 	<Item Name="MTM2_issueCommand_disable.vi" Type="VI" URL="../VIs/MTM2_issueCommand_disable.vi"/>
 	<Item Name="MTM2_issueCommand_enable.vi" Type="VI" URL="../VIs/MTM2_issueCommand_enable.vi"/>
 	<Item Name="MTM2_issueCommand_enterControl.vi" Type="VI" URL="../VIs/MTM2_issueCommand_enterControl.vi"/>
 	<Item Name="MTM2_issueCommand_exitControl.vi" Type="VI" URL="../VIs/MTM2_issueCommand_exitControl.vi"/>
-	<Item Name="MTM2_issueCommand_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_issueCommand_moveAxialActuator.vi"/>
 	<Item Name="MTM2_issueCommand_positionMirror.vi" Type="VI" URL="../VIs/MTM2_issueCommand_positionMirror.vi"/>
-	<Item Name="MTM2_issueCommand_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setCorrectionMode.vi"/>
+	<Item Name="MTM2_issueCommand_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_issueCommand_resetForceOffsets.vi"/>
+	<Item Name="MTM2_issueCommand_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_issueCommand_selectInclinationSource.vi"/>
+	<Item Name="MTM2_issueCommand_setAuthList.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setAuthList.vi"/>
 	<Item Name="MTM2_issueCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setLogLevel.vi"/>
-	<Item Name="MTM2_issueCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setSimulationMode.vi"/>
+	<Item Name="MTM2_issueCommand_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_issueCommand_setValue.vi" Type="VI" URL="../VIs/MTM2_issueCommand_setValue.vi"/>
 	<Item Name="MTM2_issueCommand_standby.vi" Type="VI" URL="../VIs/MTM2_issueCommand_standby.vi"/>
 	<Item Name="MTM2_issueCommand_start.vi" Type="VI" URL="../VIs/MTM2_issueCommand_start.vi"/>
+	<Item Name="MTM2_issueCommand_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_issueCommand_switchForceBalanceSystem.vi"/>
 	<Item Name="MTM2_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_logEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_logEvent_authList.vi" Type="VI" URL="../VIs/MTM2_logEvent_authList.vi"/>
+	<Item Name="MTM2_logEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_logEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_logEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_logEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_logEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_logEvent_detailedState.vi"/>
 	<Item Name="MTM2_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_logEvent_errorCode.vi"/>
+	<Item Name="MTM2_logEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_logEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_logEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_logEvent_hardpointList.vi"/>
 	<Item Name="MTM2_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_logEvent_heartbeat.vi"/>
+	<Item Name="MTM2_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_logEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_logEvent_interlock.vi"/>
 	<Item Name="MTM2_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_logEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_logEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_logEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_logEvent_settingVersions.vi"/>
+	<Item Name="MTM2_logEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_logEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_logEvent_simulationMode.vi"/>
 	<Item Name="MTM2_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_logEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_logEvent_summaryState.vi"/>
+	<Item Name="MTM2_logEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_logEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_logEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_logEvent_temperatureOffset.vi"/>
 	<Item Name="MTM2_monitorCommand_abort.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_abort.vi"/>
-	<Item Name="MTM2_monitorCommand_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_applyBendingMode.vi"/>
-	<Item Name="MTM2_monitorCommand_applyForce.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_applyForce.vi"/>
+	<Item Name="MTM2_monitorCommand_applyForces.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_applyForces.vi"/>
+	<Item Name="MTM2_monitorCommand_clearErrors.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_clearErrors.vi"/>
 	<Item Name="MTM2_monitorCommand_disable.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_disable.vi"/>
 	<Item Name="MTM2_monitorCommand_enable.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_enable.vi"/>
 	<Item Name="MTM2_monitorCommand_enterControl.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_enterControl.vi"/>
 	<Item Name="MTM2_monitorCommand_exitControl.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_exitControl.vi"/>
-	<Item Name="MTM2_monitorCommand_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_moveAxialActuator.vi"/>
 	<Item Name="MTM2_monitorCommand_positionMirror.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_positionMirror.vi"/>
-	<Item Name="MTM2_monitorCommand_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setCorrectionMode.vi"/>
+	<Item Name="MTM2_monitorCommand_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_resetForceOffsets.vi"/>
+	<Item Name="MTM2_monitorCommand_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_selectInclinationSource.vi"/>
+	<Item Name="MTM2_monitorCommand_setAuthList.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setAuthList.vi"/>
 	<Item Name="MTM2_monitorCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setLogLevel.vi"/>
-	<Item Name="MTM2_monitorCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setSimulationMode.vi"/>
+	<Item Name="MTM2_monitorCommand_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_monitorCommand_setValue.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_setValue.vi"/>
 	<Item Name="MTM2_monitorCommand_standby.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_standby.vi"/>
 	<Item Name="MTM2_monitorCommand_start.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_start.vi"/>
-	<Item Name="MTM2_putSample_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_putSample_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_putSample_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_putSample_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_putSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_putSample_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_putSample_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_monitorCommand_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_monitorCommand_switchForceBalanceSystem.vi"/>
+	<Item Name="MTM2_putSample_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_putSample_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_putSample_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_putSample_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_putSample_axialForce.vi" Type="VI" URL="../VIs/MTM2_putSample_axialForce.vi"/>
+	<Item Name="MTM2_putSample_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_putSample_displacementSensors.vi"/>
+	<Item Name="MTM2_putSample_forceBalance.vi" Type="VI" URL="../VIs/MTM2_putSample_forceBalance.vi"/>
+	<Item Name="MTM2_putSample_ilcData.vi" Type="VI" URL="../VIs/MTM2_putSample_ilcData.vi"/>
+	<Item Name="MTM2_putSample_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_putSample_netForcesTotal.vi"/>
+	<Item Name="MTM2_putSample_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_putSample_netMomentsTotal.vi"/>
+	<Item Name="MTM2_putSample_position.vi" Type="VI" URL="../VIs/MTM2_putSample_position.vi"/>
+	<Item Name="MTM2_putSample_positionIMS.vi" Type="VI" URL="../VIs/MTM2_putSample_positionIMS.vi"/>
 	<Item Name="MTM2_putSample_powerStatus.vi" Type="VI" URL="../VIs/MTM2_putSample_powerStatus.vi"/>
-	<Item Name="MTM2_putSample_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_putSample_rawDisplacement.vi"/>
-	<Item Name="MTM2_putSample_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_putSample_rawTelemetry.vi"/>
-	<Item Name="MTM2_putSample_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_putSample_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_putSample_systemStatus.vi" Type="VI" URL="../VIs/MTM2_putSample_systemStatus.vi"/>
-	<Item Name="MTM2_putSample_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_putSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_putSample_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_putSample_targetForces.vi" Type="VI" URL="../VIs/MTM2_putSample_targetForces.vi"/>
-	<Item Name="MTM2_putSample_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_putSample_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_putSample_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_putSample_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_putSample_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_putSample_tangentForce.vi" Type="VI" URL="../VIs/MTM2_putSample_tangentForce.vi"/>
+	<Item Name="MTM2_putSample_temperature.vi" Type="VI" URL="../VIs/MTM2_putSample_temperature.vi"/>
+	<Item Name="MTM2_putSample_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_putSample_zenithAngle.vi"/>
 	<Item Name="MTM2_registerCallback_ackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_ackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_registerCallback_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_registerCallback_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_registerCallback_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_registerCallback_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_registerCallback_command_.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_.vi"/>
+	<Item Name="MTM2_registerCallback_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_registerCallback_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_registerCallback_axialForce.vi" Type="VI" URL="../VIs/MTM2_registerCallback_axialForce.vi"/>
 	<Item Name="MTM2_registerCallback_command_abort.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_abort.vi"/>
 	<Item Name="MTM2_registerCallback_command_abortackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_abortackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_command_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyBendingMode.vi"/>
-	<Item Name="MTM2_registerCallback_command_applyBendingModeackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyBendingModeackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_command_applyForce.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyForce.vi"/>
-	<Item Name="MTM2_registerCallback_command_applyForceackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyForceackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_applyForces.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyForces.vi"/>
+	<Item Name="MTM2_registerCallback_command_applyForcesackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_applyForcesackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_clearErrors.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_clearErrors.vi"/>
+	<Item Name="MTM2_registerCallback_command_clearErrorsackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_clearErrorsackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_disable.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_disable.vi"/>
 	<Item Name="MTM2_registerCallback_command_disableackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_disableackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_enable.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_enable.vi"/>
@@ -295,118 +353,148 @@
 	<Item Name="MTM2_registerCallback_command_enterControlackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_enterControlackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_exitControl.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_exitControl.vi"/>
 	<Item Name="MTM2_registerCallback_command_exitControlackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_exitControlackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_command_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_moveAxialActuator.vi"/>
-	<Item Name="MTM2_registerCallback_command_moveAxialActuatorackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_moveAxialActuatorackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_positionMirror.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_positionMirror.vi"/>
 	<Item Name="MTM2_registerCallback_command_positionMirrorackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_positionMirrorackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_command_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setCorrectionMode.vi"/>
-	<Item Name="MTM2_registerCallback_command_setCorrectionModeackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setCorrectionModeackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_resetForceOffsets.vi"/>
+	<Item Name="MTM2_registerCallback_command_resetForceOffsetsackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_resetForceOffsetsackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_selectInclinationSource.vi"/>
+	<Item Name="MTM2_registerCallback_command_selectInclinationSourceackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_selectInclinationSourceackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_setAuthList.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setAuthList.vi"/>
+	<Item Name="MTM2_registerCallback_command_setAuthListackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setAuthListackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setLogLevel.vi"/>
 	<Item Name="MTM2_registerCallback_command_setLogLevelackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setLogLevelackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_command_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setSimulationMode.vi"/>
-	<Item Name="MTM2_registerCallback_command_setSimulationModeackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setSimulationModeackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_command_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setTemperatureOffset.vi"/>
+	<Item Name="MTM2_registerCallback_command_setTemperatureOffsetackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setTemperatureOffsetackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_setValue.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setValue.vi"/>
 	<Item Name="MTM2_registerCallback_command_setValueackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_setValueackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_standby.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_standby.vi"/>
 	<Item Name="MTM2_registerCallback_command_standbyackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_standbyackcmd.vi"/>
 	<Item Name="MTM2_registerCallback_command_start.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_start.vi"/>
 	<Item Name="MTM2_registerCallback_command_startackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_startackcmd.vi"/>
-	<Item Name="MTM2_registerCallback_logEvent_.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_.vi"/>
+	<Item Name="MTM2_registerCallback_command_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_switchForceBalanceSystem.vi"/>
+	<Item Name="MTM2_registerCallback_command_switchForceBalanceSystemackcmd.vi" Type="VI" URL="../VIs/MTM2_registerCallback_command_switchForceBalanceSystemackcmd.vi"/>
+	<Item Name="MTM2_registerCallback_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_registerCallback_displacementSensors.vi"/>
+	<Item Name="MTM2_registerCallback_forceBalance.vi" Type="VI" URL="../VIs/MTM2_registerCallback_forceBalance.vi"/>
+	<Item Name="MTM2_registerCallback_ilcData.vi" Type="VI" URL="../VIs/MTM2_registerCallback_ilcData.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_authList.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_authList.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_detailedState.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_errorCode.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_hardpointList.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_heartbeat.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_interlock.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_registerCallback_logEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_settingVersions.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_simulationMode.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_summaryState.vi"/>
-	<Item Name="MTM2_registerCallback_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_temperatureOffset.vi"/>
+	<Item Name="MTM2_registerCallback_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_registerCallback_netForcesTotal.vi"/>
+	<Item Name="MTM2_registerCallback_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_registerCallback_netMomentsTotal.vi"/>
+	<Item Name="MTM2_registerCallback_position.vi" Type="VI" URL="../VIs/MTM2_registerCallback_position.vi"/>
+	<Item Name="MTM2_registerCallback_positionIMS.vi" Type="VI" URL="../VIs/MTM2_registerCallback_positionIMS.vi"/>
 	<Item Name="MTM2_registerCallback_powerStatus.vi" Type="VI" URL="../VIs/MTM2_registerCallback_powerStatus.vi"/>
-	<Item Name="MTM2_registerCallback_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_registerCallback_rawDisplacement.vi"/>
-	<Item Name="MTM2_registerCallback_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_registerCallback_rawTelemetry.vi"/>
-	<Item Name="MTM2_registerCallback_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_registerCallback_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_registerCallback_systemStatus.vi" Type="VI" URL="../VIs/MTM2_registerCallback_systemStatus.vi"/>
-	<Item Name="MTM2_registerCallback_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_registerCallback_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_registerCallback_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_registerCallback_targetForces.vi" Type="VI" URL="../VIs/MTM2_registerCallback_targetForces.vi"/>
-	<Item Name="MTM2_registerCallback_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_registerCallback_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_registerCallback_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_registerCallback_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_registerCallback_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_registerCallback_tangentForce.vi" Type="VI" URL="../VIs/MTM2_registerCallback_tangentForce.vi"/>
+	<Item Name="MTM2_registerCallback_temperature.vi" Type="VI" URL="../VIs/MTM2_registerCallback_temperature.vi"/>
+	<Item Name="MTM2_registerCallback_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_registerCallback_zenithAngle.vi"/>
 	<Item Name="MTM2_salCommander_abort.vi" Type="VI" URL="../VIs/MTM2_salCommander_abort.vi"/>
-	<Item Name="MTM2_salCommander_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_salCommander_applyBendingMode.vi"/>
-	<Item Name="MTM2_salCommander_applyForce.vi" Type="VI" URL="../VIs/MTM2_salCommander_applyForce.vi"/>
+	<Item Name="MTM2_salCommander_applyForces.vi" Type="VI" URL="../VIs/MTM2_salCommander_applyForces.vi"/>
+	<Item Name="MTM2_salCommander_clearErrors.vi" Type="VI" URL="../VIs/MTM2_salCommander_clearErrors.vi"/>
 	<Item Name="MTM2_salCommander_disable.vi" Type="VI" URL="../VIs/MTM2_salCommander_disable.vi"/>
 	<Item Name="MTM2_salCommander_enable.vi" Type="VI" URL="../VIs/MTM2_salCommander_enable.vi"/>
 	<Item Name="MTM2_salCommander_enterControl.vi" Type="VI" URL="../VIs/MTM2_salCommander_enterControl.vi"/>
 	<Item Name="MTM2_salCommander_exitControl.vi" Type="VI" URL="../VIs/MTM2_salCommander_exitControl.vi"/>
-	<Item Name="MTM2_salCommander_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_salCommander_moveAxialActuator.vi"/>
 	<Item Name="MTM2_salCommander_positionMirror.vi" Type="VI" URL="../VIs/MTM2_salCommander_positionMirror.vi"/>
-	<Item Name="MTM2_salCommander_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_salCommander_setCorrectionMode.vi"/>
+	<Item Name="MTM2_salCommander_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_salCommander_resetForceOffsets.vi"/>
+	<Item Name="MTM2_salCommander_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_salCommander_selectInclinationSource.vi"/>
+	<Item Name="MTM2_salCommander_setAuthList.vi" Type="VI" URL="../VIs/MTM2_salCommander_setAuthList.vi"/>
 	<Item Name="MTM2_salCommander_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_salCommander_setLogLevel.vi"/>
-	<Item Name="MTM2_salCommander_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_salCommander_setSimulationMode.vi"/>
+	<Item Name="MTM2_salCommander_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_salCommander_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_salCommander_setValue.vi" Type="VI" URL="../VIs/MTM2_salCommander_setValue.vi"/>
 	<Item Name="MTM2_salCommander_standby.vi" Type="VI" URL="../VIs/MTM2_salCommander_standby.vi"/>
 	<Item Name="MTM2_salCommander_start.vi" Type="VI" URL="../VIs/MTM2_salCommander_start.vi"/>
+	<Item Name="MTM2_salCommander_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_salCommander_switchForceBalanceSystem.vi"/>
 	<Item Name="MTM2_salEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTM2_salEvent_appliedSettingsMatchStart.vi"/>
+	<Item Name="MTM2_salEvent_authList.vi" Type="VI" URL="../VIs/MTM2_salEvent_authList.vi"/>
+	<Item Name="MTM2_salEvent_cellTemperatureHiWarning.vi" Type="VI" URL="../VIs/MTM2_salEvent_cellTemperatureHiWarning.vi"/>
+	<Item Name="MTM2_salEvent_commandableByDDS.vi" Type="VI" URL="../VIs/MTM2_salEvent_commandableByDDS.vi"/>
+	<Item Name="MTM2_salEvent_detailedState.vi" Type="VI" URL="../VIs/MTM2_salEvent_detailedState.vi"/>
 	<Item Name="MTM2_salEvent_errorCode.vi" Type="VI" URL="../VIs/MTM2_salEvent_errorCode.vi"/>
+	<Item Name="MTM2_salEvent_forceBalanceSystemStatus.vi" Type="VI" URL="../VIs/MTM2_salEvent_forceBalanceSystemStatus.vi"/>
+	<Item Name="MTM2_salEvent_hardpointList.vi" Type="VI" URL="../VIs/MTM2_salEvent_hardpointList.vi"/>
 	<Item Name="MTM2_salEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_salEvent_heartbeat.vi"/>
+	<Item Name="MTM2_salEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_salEvent_inclinationTelemetrySource.vi"/>
+	<Item Name="MTM2_salEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_salEvent_interlock.vi"/>
 	<Item Name="MTM2_salEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_salEvent_logLevel.vi"/>
 	<Item Name="MTM2_salEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_salEvent_logMessage.vi"/>
 	<Item Name="MTM2_salEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_salEvent_m2AssemblyInPosition.vi"/>
-	<Item Name="MTM2_salEvent_m2FaultState.vi" Type="VI" URL="../VIs/MTM2_salEvent_m2FaultState.vi"/>
 	<Item Name="MTM2_salEvent_settingVersions.vi" Type="VI" URL="../VIs/MTM2_salEvent_settingVersions.vi"/>
+	<Item Name="MTM2_salEvent_settingsApplied.vi" Type="VI" URL="../VIs/MTM2_salEvent_settingsApplied.vi"/>
 	<Item Name="MTM2_salEvent_simulationMode.vi" Type="VI" URL="../VIs/MTM2_salEvent_simulationMode.vi"/>
 	<Item Name="MTM2_salEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTM2_salEvent_softwareVersions.vi"/>
 	<Item Name="MTM2_salEvent_summaryState.vi" Type="VI" URL="../VIs/MTM2_salEvent_summaryState.vi"/>
+	<Item Name="MTM2_salEvent_tcpIpConnected.vi" Type="VI" URL="../VIs/MTM2_salEvent_tcpIpConnected.vi"/>
+	<Item Name="MTM2_salEvent_temperatureOffset.vi" Type="VI" URL="../VIs/MTM2_salEvent_temperatureOffset.vi"/>
 	<Item Name="MTM2_salProcessor_abort.vi" Type="VI" URL="../VIs/MTM2_salProcessor_abort.vi"/>
-	<Item Name="MTM2_salProcessor_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_salProcessor_applyBendingMode.vi"/>
-	<Item Name="MTM2_salProcessor_applyForce.vi" Type="VI" URL="../VIs/MTM2_salProcessor_applyForce.vi"/>
+	<Item Name="MTM2_salProcessor_applyForces.vi" Type="VI" URL="../VIs/MTM2_salProcessor_applyForces.vi"/>
+	<Item Name="MTM2_salProcessor_clearErrors.vi" Type="VI" URL="../VIs/MTM2_salProcessor_clearErrors.vi"/>
 	<Item Name="MTM2_salProcessor_disable.vi" Type="VI" URL="../VIs/MTM2_salProcessor_disable.vi"/>
 	<Item Name="MTM2_salProcessor_enable.vi" Type="VI" URL="../VIs/MTM2_salProcessor_enable.vi"/>
 	<Item Name="MTM2_salProcessor_enterControl.vi" Type="VI" URL="../VIs/MTM2_salProcessor_enterControl.vi"/>
 	<Item Name="MTM2_salProcessor_exitControl.vi" Type="VI" URL="../VIs/MTM2_salProcessor_exitControl.vi"/>
-	<Item Name="MTM2_salProcessor_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_salProcessor_moveAxialActuator.vi"/>
 	<Item Name="MTM2_salProcessor_positionMirror.vi" Type="VI" URL="../VIs/MTM2_salProcessor_positionMirror.vi"/>
-	<Item Name="MTM2_salProcessor_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setCorrectionMode.vi"/>
+	<Item Name="MTM2_salProcessor_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_salProcessor_resetForceOffsets.vi"/>
+	<Item Name="MTM2_salProcessor_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_salProcessor_selectInclinationSource.vi"/>
+	<Item Name="MTM2_salProcessor_setAuthList.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setAuthList.vi"/>
 	<Item Name="MTM2_salProcessor_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setLogLevel.vi"/>
-	<Item Name="MTM2_salProcessor_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setSimulationMode.vi"/>
+	<Item Name="MTM2_salProcessor_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_salProcessor_setValue.vi" Type="VI" URL="../VIs/MTM2_salProcessor_setValue.vi"/>
 	<Item Name="MTM2_salProcessor_standby.vi" Type="VI" URL="../VIs/MTM2_salProcessor_standby.vi"/>
 	<Item Name="MTM2_salProcessor_start.vi" Type="VI" URL="../VIs/MTM2_salProcessor_start.vi"/>
-	<Item Name="MTM2_salTelemetrySub_actuatorLimitSwitches.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_actuatorLimitSwitches.vi"/>
-	<Item Name="MTM2_salTelemetrySub_axialActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_salTelemetrySub_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_salTelemetrySub_axialForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialForcesMeasured.vi"/>
-	<Item Name="MTM2_salTelemetrySub_mirrorPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_mirrorPositionMeasured.vi"/>
+	<Item Name="MTM2_salProcessor_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_salProcessor_switchForceBalanceSystem.vi"/>
+	<Item Name="MTM2_salTelemetrySub_axialActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialActuatorSteps.vi"/>
+	<Item Name="MTM2_salTelemetrySub_axialEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialEncoderPositions.vi"/>
+	<Item Name="MTM2_salTelemetrySub_axialForce.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_axialForce.vi"/>
+	<Item Name="MTM2_salTelemetrySub_displacementSensors.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_displacementSensors.vi"/>
+	<Item Name="MTM2_salTelemetrySub_forceBalance.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_forceBalance.vi"/>
+	<Item Name="MTM2_salTelemetrySub_ilcData.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_ilcData.vi"/>
+	<Item Name="MTM2_salTelemetrySub_netForcesTotal.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_netForcesTotal.vi"/>
+	<Item Name="MTM2_salTelemetrySub_netMomentsTotal.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_netMomentsTotal.vi"/>
+	<Item Name="MTM2_salTelemetrySub_position.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_position.vi"/>
+	<Item Name="MTM2_salTelemetrySub_positionIMS.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_positionIMS.vi"/>
 	<Item Name="MTM2_salTelemetrySub_powerStatus.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_powerStatus.vi"/>
-	<Item Name="MTM2_salTelemetrySub_rawDisplacement.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_rawDisplacement.vi"/>
-	<Item Name="MTM2_salTelemetrySub_rawTelemetry.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_rawTelemetry.vi"/>
-	<Item Name="MTM2_salTelemetrySub_stepVectorUpdate.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_stepVectorUpdate.vi"/>
-	<Item Name="MTM2_salTelemetrySub_systemStatus.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_systemStatus.vi"/>
-	<Item Name="MTM2_salTelemetrySub_tangentActuatorAbsolutePositionSteps.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentActuatorAbsolutePositionSteps.vi"/>
-	<Item Name="MTM2_salTelemetrySub_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentActuatorPositionAbsoluteEncoderPositionMeasured.vi"/>
-	<Item Name="MTM2_salTelemetrySub_tangentForcesMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentForcesMeasured.vi"/>
-	<Item Name="MTM2_salTelemetrySub_targetForces.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_targetForces.vi"/>
-	<Item Name="MTM2_salTelemetrySub_temperaturesMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_temperaturesMeasured.vi"/>
-	<Item Name="MTM2_salTelemetrySub_zenithAngleMeasured.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_zenithAngleMeasured.vi"/>
+	<Item Name="MTM2_salTelemetrySub_tangentActuatorSteps.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentActuatorSteps.vi"/>
+	<Item Name="MTM2_salTelemetrySub_tangentEncoderPositions.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentEncoderPositions.vi"/>
+	<Item Name="MTM2_salTelemetrySub_tangentForce.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_tangentForce.vi"/>
+	<Item Name="MTM2_salTelemetrySub_temperature.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_temperature.vi"/>
+	<Item Name="MTM2_salTelemetrySub_zenithAngle.vi" Type="VI" URL="../VIs/MTM2_salTelemetrySub_zenithAngle.vi"/>
 	<Item Name="MTM2_waitForCompletion_abort.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_abort.vi"/>
-	<Item Name="MTM2_waitForCompletion_applyBendingMode.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_applyBendingMode.vi"/>
-	<Item Name="MTM2_waitForCompletion_applyForce.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_applyForce.vi"/>
+	<Item Name="MTM2_waitForCompletion_applyForces.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_applyForces.vi"/>
+	<Item Name="MTM2_waitForCompletion_clearErrors.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_clearErrors.vi"/>
 	<Item Name="MTM2_waitForCompletion_disable.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_disable.vi"/>
 	<Item Name="MTM2_waitForCompletion_enable.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_enable.vi"/>
 	<Item Name="MTM2_waitForCompletion_enterControl.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_enterControl.vi"/>
 	<Item Name="MTM2_waitForCompletion_exitControl.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_exitControl.vi"/>
-	<Item Name="MTM2_waitForCompletion_moveAxialActuator.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_moveAxialActuator.vi"/>
 	<Item Name="MTM2_waitForCompletion_positionMirror.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_positionMirror.vi"/>
-	<Item Name="MTM2_waitForCompletion_setCorrectionMode.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setCorrectionMode.vi"/>
+	<Item Name="MTM2_waitForCompletion_resetForceOffsets.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_resetForceOffsets.vi"/>
+	<Item Name="MTM2_waitForCompletion_selectInclinationSource.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_selectInclinationSource.vi"/>
+	<Item Name="MTM2_waitForCompletion_setAuthList.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setAuthList.vi"/>
 	<Item Name="MTM2_waitForCompletion_setLogLevel.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setLogLevel.vi"/>
-	<Item Name="MTM2_waitForCompletion_setSimulationMode.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setSimulationMode.vi"/>
+	<Item Name="MTM2_waitForCompletion_setTemperatureOffset.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setTemperatureOffset.vi"/>
 	<Item Name="MTM2_waitForCompletion_setValue.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_setValue.vi"/>
 	<Item Name="MTM2_waitForCompletion_standby.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_standby.vi"/>
 	<Item Name="MTM2_waitForCompletion_start.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_start.vi"/>
+	<Item Name="MTM2_waitForCompletion_switchForceBalanceSystem.vi" Type="VI" URL="../VIs/MTM2_waitForCompletion_switchForceBalanceSystem.vi"/>
 	<Item Name="MTM2shminitFlags.vi" Type="VI" URL="../VIs/MTM2shminitFlags.vi"/>
 	<Item Name="SALLV_MTM2.so" Type="Document" URL="../SALLV_MTM2.so"/>
 </Library>

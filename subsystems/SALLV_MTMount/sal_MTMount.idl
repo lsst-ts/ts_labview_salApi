@@ -1,0 +1,1191 @@
+module MTMount {
+	 const long MTMount_shared_SummaryState_DisabledState=1;
+	 const long MTMount_shared_SummaryState_EnabledState=2;
+	 const long MTMount_shared_SummaryState_FaultState=3;
+	 const long MTMount_shared_SummaryState_OfflineState=4;
+	 const long MTMount_shared_SummaryState_StandbyState=5;
+	struct Auxiliary_Boxes {
+	  double	private_rcvStamp;    //private
+	  string	Status_TMA_AZ_PD_CBT_0001;
+	  string	Status_TMA_EL_PD_CBT_0001;
+	  string	Status_TMA_EL_PD_CBT_0002;
+	  double	timestamp;
+	};
+	#pragma keylist Auxiliary_Boxes
+	struct Auxliary_Cabinet_Azimuth {
+	  double	private_rcvStamp;    //private
+	  string	Auxiliar_Azimuth_Cabinet_Status;
+	  double	Auxiliar_Azimuth_Cabinet_External_Temperature;
+	  double	Auxiliar_Azimuth_Cabinet_Internal_Temperature_1;
+	  double	Auxiliar_Azimuth_Cabinet_Internal_Temperature_2;
+	  double	Auxiliar_Azimuth_Cabinet_Setpoint_Temperature;
+	  double	timestamp;
+	};
+	#pragma keylist Auxliary_Cabinet_Azimuth
+	struct Azimuth {
+	  double	private_rcvStamp;    //private
+	  string	Azimuth_Status;
+	  double	Azimuth_Angle_Actual;
+	  double	Azimuth_Angle_Set;
+	  double	Azimuth_Aceleration_Actual;
+	  double	Azimuth_Velocity_Set;
+	  double	Azimuth_Velocity_Actual;
+	  double	Azimuth_Torque_Actual;
+	  boolean	Azimuth_Positive_Software_limit;
+	  boolean	Azimuth_Negative_Software_limit;
+	  boolean	Azimuth_Positive_Power_Off_switch;
+	  boolean	Azimuth_Negative_Power_Off_switch;
+	  boolean	Azimuth_Positive_Directional_limit_switch;
+	  boolean	Azimuth_Negative_Directional_limit_switch;
+	  boolean	Azimuth_Positive_Adjustable_Software_limit;
+	  boolean	Azimuth_Negative_Adjustable_Software_limit;
+	  string	Azimuth_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Azimuth
+	struct Azimuth_Cable_Wrap {
+	  double	private_rcvStamp;    //private
+	  string	ACW_Status;
+	  string	ACW_Status_Drive_1;
+	  string	ACW_Status_Drive_2;
+	  double	ACW_Current_Drive_1;
+	  double	ACW_Current_Drive_2;
+	  double	ACW_AngleDif_Actual;
+	  double	ACW_AngleDif_ActualLVDT;
+	  double	ACW_Angle_Setpoint;
+	  boolean	ACW_Positive_Power_Off_switch;
+	  boolean	ACW_Negative_Power_Off_switch;
+	  string	ACW_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Azimuth_Cable_Wrap
+	struct Azimuth_Drives {
+	  double	private_rcvStamp;    //private
+	  string	Azimuth_Status_Drive_1;
+	  string	Azimuth_Status_Drive_2;
+	  string	Azimuth_Status_Drive_3;
+	  string	Azimuth_Status_Drive_4;
+	  string	Azimuth_Status_Drive_5;
+	  string	Azimuth_Status_Drive_6;
+	  string	Azimuth_Status_Drive_7;
+	  string	Azimuth_Status_Drive_8;
+	  string	Azimuth_Status_Drive_9;
+	  string	Azimuth_Status_Drive_10;
+	  string	Azimuth_Status_Drive_11;
+	  string	Azimuth_Status_Drive_12;
+	  string	Azimuth_Status_Drive_13;
+	  string	Azimuth_Status_Drive_14;
+	  string	Azimuth_Status_Drive_15;
+	  string	Azimuth_Status_Drive_16;
+	  double	Azimuth_Current_Drive_1;
+	  double	Azimuth_Current_Drive_2;
+	  double	Azimuth_Current_Drive_3;
+	  double	Azimuth_Current_Drive_4;
+	  double	Azimuth_Current_Drive_5;
+	  double	Azimuth_Current_Drive_6;
+	  double	Azimuth_Current_Drive_7;
+	  double	Azimuth_Current_Drive_8;
+	  double	Azimuth_Current_Drive_9;
+	  double	Azimuth_Current_Drive_10;
+	  double	Azimuth_Current_Drive_11;
+	  double	Azimuth_Current_Drive_12;
+	  double	Azimuth_Current_Drive_13;
+	  double	Azimuth_Current_Drive_14;
+	  double	Azimuth_Current_Drive_15;
+	  double	Azimuth_Current_Drive_16;
+	  double	timestamp;
+	};
+	#pragma keylist Azimuth_Drives
+	struct Azimuth_Drives_Thermal {
+	  double	private_rcvStamp;    //private
+	  string	Azimuth_Thermal_Status_Group_1;
+	  string	Azimuth_Thermal_Status_Group_2;
+	  string	Azimuth_Thermal_Status_Group_3;
+	  string	Azimuth_Thermal_Status_Group_4;
+	  double	Azimuth_Surface_Temperature_Motor_1;
+	  double	Azimuth_Surface_Temperature_Motor_2;
+	  double	Azimuth_Surface_Temperature_Motor_3;
+	  double	Azimuth_Surface_Temperature_Motor_4;
+	  double	Azimuth_Surface_Temperature_Motor_5;
+	  double	Azimuth_Surface_Temperature_Motor_6;
+	  double	Azimuth_Surface_Temperature_Motor_7;
+	  double	Azimuth_Surface_Temperature_Motor_8;
+	  double	Azimuth_Surface_Temperature_Motor_9;
+	  double	Azimuth_Surface_Temperature_Motor_10;
+	  double	Azimuth_Surface_Temperature_Motor_11;
+	  double	Azimuth_Surface_Temperature_Motor_12;
+	  double	Azimuth_Surface_Temperature_Motor_13;
+	  double	Azimuth_Surface_Temperature_Motor_14;
+	  double	Azimuth_Surface_Temperature_Motor_15;
+	  double	Azimuth_Surface_Temperature_Motor_16;
+	  double	Azimuth_Surface_Temperature_Drive_1;
+	  double	Azimuth_Surface_Temperature_Drive_2;
+	  double	Azimuth_Surface_Temperature_Drive_3;
+	  double	Azimuth_Surface_Temperature_Drive_4;
+	  double	Azimuth_Surface_Temperature_Drive_5;
+	  double	Azimuth_Surface_Temperature_Drive_6;
+	  double	Azimuth_Surface_Temperature_Drive_7;
+	  double	Azimuth_Surface_Temperature_Drive_8;
+	  double	Azimuth_Surface_Temperature_Drive_9;
+	  double	Azimuth_Surface_Temperature_Drive_10;
+	  double	Azimuth_Surface_Temperature_Drive_11;
+	  double	Azimuth_Surface_Temperature_Drive_12;
+	  double	Azimuth_Surface_Temperature_Drive_13;
+	  double	Azimuth_Surface_Temperature_Drive_14;
+	  double	Azimuth_Surface_Temperature_Drive_15;
+	  double	Azimuth_Surface_Temperature_Drive_16;
+	  double	Azimuth_Surface_Temperature_Setpoint_Group_1;
+	  double	Azimuth_Surface_Temperature_Setpoint_Group_2;
+	  double	Azimuth_Surface_Temperature_Setpoint_Group_3;
+	  double	Azimuth_Surface_Temperature_Setpoint_Group_4;
+	  double	timestamp;
+	};
+	#pragma keylist Azimuth_Drives_Thermal
+	struct Balancing {
+	  double	private_rcvStamp;    //private
+	  string	Balancing_Status;
+	  double	Balancing_Actual_Position_Drive_1;
+	  double	Balancing_Actual_Position_Drive_2;
+	  double	Balancing_Actual_Position_Drive_3;
+	  double	Balancing_Actual_Position_Drive_4;
+	  boolean	Balancing_Positive_Limit_Switch_Drive_1;
+	  boolean	Balancing_Positive_Limit_Switch_Drive_2;
+	  boolean	Balancing_Positive_Limit_Switch_Drive_3;
+	  boolean	Balancing_Positive_Limit_Switch_Drive_4;
+	  boolean	Balancing_Negative_Limit_Switch_Drive_1;
+	  boolean	Balancing_Negative_Limit_Switch_Drive_2;
+	  boolean	Balancing_Negative_Limit_Switch_Drive_3;
+	  boolean	Balancing_Negative_Limit_Switch_Drive_4;
+	  string	Balancing_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Balancing
+	struct Balancing_Drives {
+	  double	private_rcvStamp;    //private
+	  string	Balancing_Status_Drive_1;
+	  string	Balancing_Status_Drive_2;
+	  string	Balancing_Status_Drive_3;
+	  string	Balancing_Status_Drive_4;
+	  double	Balancing_Current_Drive_1;
+	  double	Balancing_Current_Drive_2;
+	  double	Balancing_Current_Drive_3;
+	  double	Balancing_Current_Drive_4;
+	  double	Balancing_Position_Set_Drive_1;
+	  double	Balancing_Position_Set_Drive_2;
+	  double	Balancing_Position_Set_Drive_3;
+	  double	Balancing_Position_Set_Drive_4;
+	  double	timestamp;
+	};
+	#pragma keylist Balancing_Drives
+	struct Camera_Cable_Wrap {
+	  double	private_rcvStamp;    //private
+	  string	CCW_Status;
+	  string	CCW_Status_Drive_1;
+	  string	CCW_Status_Drive_2;
+	  double	CameraRotatorPosition;
+	  double	CCW_Angle_1;
+	  double	CCW_Angle_2;
+	  double	CCW_Camera_Position;
+	  double	CCW_Speed_1;
+	  double	CCW_Speed_2;
+	  double	CCW_Current_1;
+	  double	CCW_Current_2;
+	  boolean	CCW_Positive_Directional_limit_switch;
+	  boolean	CCW_Negative_Directional_limit_switch;
+	  string	CCW_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Camera_Cable_Wrap
+	struct Compressed_Air {
+	  double	private_rcvStamp;    //private
+	  double	TMA_AZ_CP_CPM_0001;
+	  double	TMA_AZ_CP_CPM_0002;
+	  double	TMA_EL_CP_CPM_0001;
+	  double	TMA_EL_CP_CPM_0002;
+	  double	TMA_PI_CP_CPM_0101;
+	  double	TMA_PI_CP_CTM_0101;
+	  double	timestamp;
+	};
+	#pragma keylist Compressed_Air
+	struct Cooling {
+	  double	private_rcvStamp;    //private
+	  double	TMA_AZ_GW_CPM_0001;
+	  double	TMA_AZ_GW_CPM_0002;
+	  double	TMA_AZ_GW_CPM_0021;
+	  double	TMA_AZ_GW_CPM_0022;
+	  double	TMA_AZ_GW_CTM_0001;
+	  double	TMA_AZ_GW_CTM_0002;
+	  double	TMA_AZ_GW_CTM_0021;
+	  double	TMA_AZ_GW_CTM_0022;
+	  double	TMA_PI_GW_CPM_0101;
+	  double	TMA_PI_GW_CPM_0102;
+	  double	TMA_PI_GW_CTM_0101;
+	  double	TMA_PI_GW_CTM_0102;
+	  double	TMA_AZ_GW_CPM_0003;
+	  double	TMA_AZ_GW_CPM_0004;
+	  double	TMA_AZ_GW_CPM_0005;
+	  double	TMA_AZ_GW_CPM_0006;
+	  double	TMA_AZ_GW_CPM_0007;
+	  double	TMA_AZ_GW_CPM_0008;
+	  double	TMA_AZ_GW_CPM_0009;
+	  double	TMA_AZ_GW_CPM_0010;
+	  double	TMA_AZ_GW_CPM_0011;
+	  double	TMA_AZ_GW_CPM_0012;
+	  double	TMA_AZ_GW_CPM_0013;
+	  double	TMA_AZ_GW_CPM_0014;
+	  double	TMA_AZ_GW_CPM_0015;
+	  double	TMA_AZ_GW_CPM_0016;
+	  double	TMA_AZ_GW_CPM_0017;
+	  double	TMA_AZ_GW_CPM_0018;
+	  double	TMA_AZ_GW_CPM_0019;
+	  double	TMA_AZ_GW_CPM_0020;
+	  double	TMA_EL_GW_CPM_0001;
+	  double	TMA_EL_GW_CPM_0002;
+	  double	TMA_EL_GW_CTM_0001;
+	  double	timestamp;
+	};
+	#pragma keylist Cooling
+	struct Deployable_Platforms {
+	  double	private_rcvStamp;    //private
+	  string	DP_Status;
+	  string	DP_Status_Drive_1;
+	  string	DP_Status_Drive_2;
+	  double	DP_Current_Drive_2;
+	  double	DP_Current_Drive_1;
+	  double	DP_Position_Set_Section_1;
+	  double	DP_Position_Set_Section_2;
+	  double	DP_Position_Actual_Section_1;
+	  double	DP_Position_Actual_Section_2;
+	  boolean	DP_Extended_Directional_Limit_Switch_Section_1;
+	  boolean	DP_Extended_Directional_Limit_Switch_Section_2;
+	  boolean	DP_Retracted_Directional_Limit_Switch_Section_1;
+	  boolean	DP_Retracted_Directional_Limit_Switch_Section_2;
+	  boolean	DP_Platform_1_Extension_1_Locked_Limit_Switch;
+	  boolean	DP_Platform_1_Extension_1_Retracted_Limit_Switch;
+	  boolean	DP_Platform_1_Extension_2_Locked_Limit_Switch;
+	  boolean	DP_Platform_1_Extension_2_Retracted_Limit_Switch;
+	  boolean	DP_Platform_2_Extension_1_Locked_Limit_Switch;
+	  boolean	DP_Platform_2_Extension_1_Retracted_Limit_Switch;
+	  boolean	DP_Platform_2_Extension_2_Locked_Limit_Switch;
+	  boolean	DP_Platform_2_Extension_2_Retracted_Limit_Switch;
+	  string	DP_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Deployable_Platforms
+	struct Dynalene_Cooling {
+	  double	private_rcvStamp;    //private
+	  double	TMA_AZ_DY_CPM_0001;
+	  double	TMA_AZ_DY_CPM_0002;
+	  double	TMA_AZ_DY_CTM_0001;
+	  double	TMA_AZ_DY_CTM_0002;
+	  double	TMA_AZ_EL_CPM_0001;
+	  double	TMA_AZ_EL_CPM_0007;
+	  double	TMA_PI_DY_CPM_0101;
+	  double	TMA_PI_DY_CPM_0102;
+	  double	TMA_PI_DY_CTM_0101;
+	  double	TMA_PI_DY_CTM_0102;
+	  double	TMA_AZ_EL_CPM_0002;
+	  double	TMA_AZ_EL_CPM_0003;
+	  double	TMA_AZ_EL_CPM_0004;
+	  double	TMA_AZ_EL_CPM_0005;
+	  double	TMA_AZ_EL_CPM_0006;
+	  double	timestamp;
+	};
+	#pragma keylist Dynalene_Cooling
+	struct Elevation {
+	  double	private_rcvStamp;    //private
+	  string	Elevation_Status;
+	  double	Elevation_Angle_Actual;
+	  double	Elevation_Angle_Set;
+	  double	Elevation_Aceleration_Actual;
+	  double	Elevation_Velocity_Set;
+	  double	Elevation_Velocity_Actual;
+	  double	Elevation_Torque_Actual;
+	  boolean	Elevation_Positive_Software_limit;
+	  boolean	Elevation_Negative_Software_limit;
+	  boolean	Elevation_Positive_Power_Off_switch;
+	  boolean	Elevation_Negative_Power_Off_switch;
+	  boolean	Elevation_Positive_Directional_limit_switch;
+	  boolean	Elevation_Negative_Directional_limit_switch;
+	  boolean	Elevation_Positive_Adjustable_Software_limit;
+	  boolean	Elevation_Negative_Adjustable_Software_limit;
+	  boolean	Elevation_Positive_Operational_Directional_limit_switch;
+	  boolean	Elevation_Negative_Operational_Directional_limit_switch;
+	  string	Elevation_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Elevation
+	struct Elevation_Drives {
+	  double	private_rcvStamp;    //private
+	  string	Elevation_Status_Drive_1;
+	  string	Elevation_Status_Drive_2;
+	  string	Elevation_Status_Drive_3;
+	  string	Elevation_Status_Drive_4;
+	  string	Elevation_Status_Drive_5;
+	  string	Elevation_Status_Drive_6;
+	  string	Elevation_Status_Drive_7;
+	  string	Elevation_Status_Drive_8;
+	  string	Elevation_Status_Drive_9;
+	  string	Elevation_Status_Drive_10;
+	  string	Elevation_Status_Drive_11;
+	  string	Elevation_Status_Drive_12;
+	  double	Elevation_Current_Drive_1;
+	  double	Elevation_Current_Drive_2;
+	  double	Elevation_Current_Drive_3;
+	  double	Elevation_Current_Drive_4;
+	  double	Elevation_Current_Drive_5;
+	  double	Elevation_Current_Drive_6;
+	  double	Elevation_Current_Drive_7;
+	  double	Elevation_Current_Drive_8;
+	  double	Elevation_Current_Drive_9;
+	  double	Elevation_Current_Drive_10;
+	  double	Elevation_Current_Drive_11;
+	  double	Elevation_Current_Drive_12;
+	  double	timestamp;
+	};
+	#pragma keylist Elevation_Drives
+	struct Elevation_Drives_Thermal {
+	  double	private_rcvStamp;    //private
+	  string	Elevation_Thermal_Status_Group_1;
+	  string	Elevation_Thermal_Status_Group_2;
+	  double	Elevation_Surface_Temperature_Motor_1;
+	  double	Elevation_Surface_Temperature_Motor_2;
+	  double	Elevation_Surface_Temperature_Motor_3;
+	  double	Elevation_Surface_Temperature_Motor_4;
+	  double	Elevation_Surface_Temperature_Motor_5;
+	  double	Elevation_Surface_Temperature_Motor_6;
+	  double	Elevation_Surface_Temperature_Motor_7;
+	  double	Elevation_Surface_Temperature_Motor_8;
+	  double	Elevation_Surface_Temperature_Motor_9;
+	  double	Elevation_Surface_Temperature_Motor_10;
+	  double	Elevation_Surface_Temperature_Motor_11;
+	  double	Elevation_Surface_Temperature_Motor_12;
+	  double	Elevation_Surface_Temperature_Drive_1;
+	  double	Elevation_Surface_Temperature_Drive_2;
+	  double	Elevation_Surface_Temperature_Drive_3;
+	  double	Elevation_Surface_Temperature_Drive_4;
+	  double	Elevation_Surface_Temperature_Drive_5;
+	  double	Elevation_Surface_Temperature_Drive_6;
+	  double	Elevation_Surface_Temperature_Drive_7;
+	  double	Elevation_Surface_Temperature_Drive_8;
+	  double	Elevation_Surface_Temperature_Drive_9;
+	  double	Elevation_Surface_Temperature_Drive_10;
+	  double	Elevation_Surface_Temperature_Drive_11;
+	  double	Elevation_Surface_Temperature_Drive_12;
+	  double	Elevation_Surface_Temperature_Setpoint_Group_1;
+	  double	Elevation_Surface_Temperature_Setpoint_Group_2;
+	  double	timestamp;
+	};
+	#pragma keylist Elevation_Drives_Thermal
+	struct Encoder_EIB {
+	  double	private_rcvStamp;    //private
+	  unsigned long	Azimuth_Actual_Encoder_Head_1;
+	  unsigned long	Azimuth_Actual_Encoder_Head_2;
+	  unsigned long	Azimuth_Actual_Encoder_Head_3;
+	  unsigned long	Azimuth_Actual_Encoder_Head_4;
+	  unsigned long	Elevation_Actual_Encoder_Head_1;
+	  unsigned long	Elevation_Actual_Encoder_Head_2;
+	  unsigned long	Elevation_Actual_Encoder_Head_3;
+	  unsigned long	Elevation_Actual_Encoder_Head_4;
+	  double	timestamp;
+	};
+	#pragma keylist Encoder_EIB
+	struct General {
+	  double	private_rcvStamp;    //private
+	  double	AmbientTemperature;
+	  double	timestamp;
+	};
+	#pragma keylist General
+	struct General_Purpose_Glycol_Water {
+	  double	private_rcvStamp;    //private
+	  double	TMA_AZ_GP_CPM_0001;
+	  double	TMA_AZ_GP_CPM_0002;
+	  double	TMA_PI_GP_CPM_0001;
+	  double	TMA_PI_GP_CPM_0002;
+	  double	TMA_PI_GP_CTM_0001;
+	  double	TMA_PI_GP_CTM_0002;
+	  double	timestamp;
+	};
+	#pragma keylist General_Purpose_Glycol_Water
+	struct Locking_Pins {
+	  double	private_rcvStamp;    //private
+	  string	LP_Status_Drive_1;
+	  string	LP_Status_Drive_2;
+	  double	LP_Position_Drive_1;
+	  double	LP_Position_Drive_2;
+	  double	LP_Current_Drive_1;
+	  double	LP_Current_Drive_2;
+	  double	LP_Position_Setpoint_1;
+	  double	LP_Position_Setpoint_2;
+	  boolean	LP_Free_Limit_1;
+	  boolean	LP_Free_Limit_2;
+	  boolean	LP_Lock_Limit_1;
+	  boolean	LP_Lock_Limit_2;
+	  boolean	LP_Test_Limit_1;
+	  boolean	LP_Test_Limit_2;
+	  boolean	Elevation_Locking_Pin_1_Retracted;
+	  boolean	Elevation_Locking_Pin_2_Retracted;
+	  boolean	Elevation_Locking_Pin_1_Inserted;
+	  boolean	Elevation_Locking_Pin_2_Inserted;
+	  boolean	Elevation_Locking_Pin_1_Test;
+	  boolean	Elevation_Locking_Pin_2_Test;
+	  string	LP_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Locking_Pins
+	struct Main_Power_Supply {
+	  double	private_rcvStamp;    //private
+	  string	Power_Supply_Status;
+	  string	Power_Supply_Thermal_Status;
+	  double	Power_Supply_DC_Voltage;
+	  double	Power_Supply_Line_Voltage;
+	  double	Power_Supply_Current;
+	  double	timestamp;
+	};
+	#pragma keylist Main_Power_Supply
+	struct Main_Power_Supply_Cabinet {
+	  double	private_rcvStamp;    //private
+	  double	Power_Supply_Surface_Temperature;
+	  double	Power_Supply_Internal_Temperature;
+	  double	Power_Supply_Setpoint_Temperature;
+	  double	timestamp;
+	};
+	#pragma keylist Main_Power_Supply_Cabinet
+	struct Mirror_Cover {
+	  double	private_rcvStamp;    //private
+	  string	MirrorCover_Status;
+	  string	MirrorCover_1_Status;
+	  string	MirrorCover_2_Status;
+	  string	MirrorCover_3_Status;
+	  string	MirrorCover_4_Status;
+	  double	MirrorCover_1_Current;
+	  double	MirrorCover_2_Current;
+	  double	MirrorCover_3_Current;
+	  double	MirrorCover_4_Current;
+	  double	MirrorCover_1_Actual_Position;
+	  double	MirrorCover_2_Actual_Position;
+	  double	MirrorCover_3_Actual_Position;
+	  double	MirrorCover_4_Actual_Position;
+	  boolean	MirrorCover_1_Deployed_Limit_Switch;
+	  boolean	MirrorCover_2_Deployed_Limit_Switch;
+	  boolean	MirrorCover_3_Deployed_Limit_Switch;
+	  boolean	MirrorCover_4_Deployed_Limit_Switch;
+	  boolean	MirrorCover_1_Retracted_Limit_Switch;
+	  boolean	MirrorCover_2_Retracted_Limit_Switch;
+	  boolean	MirrorCover_3_Retracted_Limit_Switch;
+	  boolean	MirrorCover_4_Retracted_Limit_Switch;
+	  string	MirrorCover_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Mirror_Cover
+	struct Mirror_Cover_Locks {
+	  double	private_rcvStamp;    //private
+	  string	MirrorCoverLock_1_Status;
+	  string	MirrorCoverLock_2_Status;
+	  string	MirrorCoverLock_3_Status;
+	  string	MirrorCoverLock_4_Status;
+	  double	MirrorCoverLock_1_Actual_Position;
+	  double	MirrorCoverLock_2_Actual_Position;
+	  double	MirrorCoverLock_3_Actual_Position;
+	  double	MirrorCoverLock_4_Actual_Position;
+	  double	MirrorCoverLock_1_Current;
+	  double	MirrorCoverLock_2_Current;
+	  double	MirrorCoverLock_3_Current;
+	  double	MirrorCoverLock_4_Current;
+	  boolean	MirrorCoverLock_3_Unlocked_Limit_Switch;
+	  boolean	MirrorCoverLock_2_Unlocked_Limit_Switch;
+	  boolean	MirrorCoverLock_1_Unlocked_Limit_Switch;
+	  boolean	MirrorCoverLock_4_Unlocked_Limit_Switch;
+	  boolean	MirrorCoverLock_3_Locked_Limit_Switch;
+	  boolean	MirrorCoverLock_2_Locked_Limit_Switch;
+	  boolean	MirrorCoverLock_1_Locked_Limit_Switch;
+	  boolean	MirrorCoverLock_4_Locked_Limit_Switch;
+	  string	MirrorCoverLock_Interlocks;
+	  double	timestamp;
+	};
+	#pragma keylist Mirror_Cover_Locks
+	struct Mount_Control_Main_Cabinet {
+	  double	private_rcvStamp;    //private
+	  string	Main_Cabinet_Status;
+	  double	Main_Cabinet_External_Temperature;
+	  double	Main_Cabinet_Internal_Temperature_1;
+	  double	Main_Cabinet_Internal_Temperature_2;
+	  double	Main_Cabinet_Setpoint_Temperature;
+	  boolean	Main_Cabinet_Doors_Open;
+	  double	timestamp;
+	};
+	#pragma keylist Mount_Control_Main_Cabinet
+	struct OSS {
+	  double	private_rcvStamp;    //private
+	  string	OSS_Status;
+	  string	OSS_A_Status_valve_5802;
+	  string	OSS_A_Status_valve_5801;
+	  string	OSS_A_Status_valve_5303;
+	  string	OSS_A_Status_valve_5302;
+	  string	OSS_A_Status_valve_5301;
+	  string	OSS_A_Status_valve_5011;
+	  string	OSS_A_Status_pump_5004;
+	  string	OSS_A_Status_Filter_7;
+	  string	Status_Bottom_centre_pump_5012;
+	  string	Status_Bottom_centre_valve_5001;
+	  string	Status_Bottom_heater_HET_5001;
+	  string	Status_Bottom_left_pump_5011;
+	  string	Status_Bottom_left_valve_5000;
+	  string	Status_Bottom_right_pump_5013;
+	  string	Status_Bottom_right_valve_5002;
+	  string	Status_bridge_pump_running_unit_1;
+	  string	Status_bridge_pump_running_unit_2;
+	  string	Status_cooler_running_unit_1;
+	  string	Status_cooler_running_unit_2;
+	  string	Status_Filter_5;
+	  string	Status_Filter_6;
+	  string	Status_pump_5001;
+	  string	Status_valve_5201;
+	  string	OSS_MP_Status_centre_valve_5009;
+	  string	OSS_MP_Status_Filter_1;
+	  string	OSS_MP_Status_Filter_2;
+	  string	OSS_MP_Status_Filter_3;
+	  string	OSS_MP_Status_Filter_4;
+	  string	OSS_MP_Status_left_valve_5008;
+	  string	OSS_MP_Status_pump_5001;
+	  string	OSS_MP_Status_pump_5002;
+	  string	OSS_MP_Status_pump_5003;
+	  string	OSS_MP_Status_right_valve_5010;
+	  double	OSS_A_CPM_5007;
+	  double	OSS_A_CPM_5008;
+	  double	OSS_A_CPM_5021;
+	  double	OSS_A_CPM_5031;
+	  double	OSS_A_CPM_5053;
+	  double	Temperature_Oil_from_bearings_XPos_side;
+	  double	Temperature_Oil_from_bearings_XNeg_side;
+	  double	Temperature_Tank;
+	  double	Pressure_Tank;
+	  double	Ambient_Temperature_Measured_by_OSS;
+	  double	OSS_Oil_Valve_feedback;
+	  double	OSS_Oil_Cooling_Valve_control_signal;
+	  double	OSS_Oil_Cooling_CTM_5013;
+	  double	OSS_Oil_Cooling_CTM_5012;
+	  double	OSS_Oil_Cooling_CPM_5052;
+	  double	OSS_Oil_Cooling_CPM_5051;
+	  double	OSS_MP_CTM_5002;
+	};
+	#pragma keylist OSS
+	struct OSS2 {
+	  double	private_rcvStamp;    //private
+	  double	OSS_MP_CTM_5001;
+	  double	OSS_MP_CPM_5057;
+	  double	OSS_MP_CPM_5056;
+	  double	OSS_MP_CPM_5055;
+	  double	OSS_MP_CPM_5054;
+	  double	OSS_MP_CPM_5013;
+	  double	OSS_MP_CPM_5012;
+	  double	OSS_MP_CPM_5011;
+	  double	OSS_MP_CPM_5006;
+	  double	OSS_MP_CPM_5005;
+	  double	OSS_MP_CPM_5004;
+	  double	OSS_MP_CPM_5003;
+	  double	OSS_MP_CPM_5002;
+	  double	OSS_MP_CPM_5001;
+	  double	AZ_XPos_M1_left_Bearing_1;
+	  double	AZ_XPos_M1_left_Bearing_2;
+	  double	AZ_XPos_M1_left_Bearing_3;
+	  double	AZ_XPos_M1_left_Bearing_calculated;
+	  double	AZ_XPos_M1_right_Bearing_1;
+	  double	AZ_XPos_M1_right_Bearing_2;
+	  double	AZ_XPos_M1_right_Bearing_3;
+	  double	AZ_XPos_M1_right_Bearing_calculated;
+	  double	AZ_XPos_M2_left_Bearing_1;
+	  double	AZ_XPos_M2_left_Bearing_2;
+	  double	AZ_XPos_M2_left_Bearing_3;
+	  double	AZ_XPos_M2_left_Bearing_calculated;
+	  double	AZ_XPos_M2_right_Bearing_1;
+	  double	AZ_XPos_M2_right_Bearing_2;
+	  double	AZ_XPos_M2_right_Bearing_3;
+	  double	AZ_XPos_M2_right_Bearing_calculated;
+	  double	AZ_XNeg_M1_left_Bearing_1;
+	  double	AZ_XNeg_M1_left_Bearing_2;
+	  double	AZ_XNeg_M1_left_Bearing_3;
+	  double	AZ_XNeg_M1_left_Bearing_calculated;
+	  double	AZ_XNeg_M1_right_Bearing_1;
+	  double	AZ_XNeg_M1_right_Bearing_2;
+	  double	AZ_XNeg_M1_right_Bearing_3;
+	  double	AZ_XNeg_M1_right_Bearing_calculated;
+	  double	AZ_XNeg_M2_left_Bearing_1;
+	  double	AZ_XNeg_M2_left_Bearing_2;
+	  double	AZ_XNeg_M2_left_Bearing_3;
+	  double	AZ_XNeg_M2_left_Bearing_calculated;
+	  double	AZ_XNeg_M2_right_Bearing_1;
+	  double	AZ_XNeg_M2_right_Bearing_2;
+	  double	AZ_XNeg_M2_right_Bearing_3;
+	  double	AZ_XNeg_M2_right_Bearing_calculated;
+	};
+	#pragma keylist OSS2
+	struct OSS4 {
+	  double	private_rcvStamp;    //private
+	  double	CFM_5001;
+	  double	CFM_5002;
+	  double	CFM_5021;
+	  double	CFM_5022;
+	  double	CFM_5031;
+	  double	CFM_5032;
+	  double	CFM_5051;
+	  double	CFM_5052;
+	  double	CPM_5001;
+	  double	CPM_5002;
+	  double	CPM_5003;
+	  double	CPM_5021;
+	  double	CPM_5022;
+	  double	CPM_5023;
+	  double	CPM_5031;
+	  double	CPM_5032;
+	  double	CPM_5033;
+	  double	CPM_5034;
+	  double	CPM_5051;
+	  double	CPM_5052;
+	  double	CPM_5053;
+	  double	CPM_5054;
+	  double	CTM_5001;
+	  double	CTM_5021;
+	  double	CTM_5031;
+	  double	CTM_5051;
+	  double	AZ_XPos_M3_left_Bearing_1;
+	  double	AZ_XPos_M3_left_Bearing_2;
+	  double	AZ_XPos_M3_left_Bearing_3;
+	  double	AZ_XPos_M3_left_Bearing_calculated;
+	  double	AZ_XPos_M3_middle_Bearing_1;
+	  double	AZ_XPos_M3_middle_Bearing_2;
+	  double	AZ_XPos_M3_middle_Bearing_3;
+	  double	AZ_XPos_M3_middle_Bearing_calculated;
+	  double	AZ_XPos_M3_right_Bearing_1;
+	  double	AZ_XPos_M3_right_Bearing_2;
+	  double	AZ_XPos_M3_right_Bearing_3;
+	  double	AZ_XPos_M3_right_Bearing_calculated;
+	  double	AZ_XNeg_M3_left_Bearing_1;
+	  double	AZ_XNeg_M3_left_Bearing_2;
+	  double	AZ_XNeg_M3_left_Bearing_3;
+	  double	AZ_XNeg_M3_left_Bearing_calculated;
+	  double	AZ_XNeg_M3_middle_Bearing_1;
+	  double	AZ_XNeg_M3_middle_Bearing_2;
+	  double	AZ_XNeg_M3_middle_Bearing_3;
+	  double	AZ_XNeg_M3_middle_Bearing_calculated;
+	  double	AZ_XNeg_M3_right_Bearing_1;
+	  double	AZ_XNeg_M3_right_Bearing_2;
+	  double	AZ_XNeg_M3_right_Bearing_3;
+	  double	AZ_XNeg_M3_right_Bearing_calculated;
+	};
+	#pragma keylist OSS4
+	struct OSS5 {
+	  double	private_rcvStamp;    //private
+	  double	CFM_5011;
+	  double	CFM_5012;
+	  double	CFM_5013;
+	  double	CFM_5041;
+	  double	CFM_5042;
+	  double	CFM_5043;
+	  double	CPM_5011;
+	  double	CPM_5012;
+	  double	CPM_5013;
+	  double	CPM_5014;
+	  double	CPM_5015;
+	  double	CPM_5016;
+	  double	CPM_5041;
+	  double	CPM_5042;
+	  double	CPM_5043;
+	  double	CPM_5044;
+	  double	CPM_5045;
+	  double	CPM_5046;
+	  double	CTM_5011;
+	  double	CTM_5041;
+	  double	EL_XPos_M1_left_Bearing_1;
+	  double	EL_XPos_M1_left_Bearing_2;
+	  double	EL_XPos_M1_left_Bearing_3;
+	  double	EL_XPos_M1_left_Bearing_calculated;
+	  double	EL_XPos_M1_right_Bearing_1;
+	  double	EL_XPos_M1_right_Bearing_2;
+	  double	EL_XPos_M1_right_Bearing_3;
+	  double	EL_XPos_M1_right_Bearing_calculated;
+	  double	EL_XPos_M2_left_Bearing_1;
+	  double	EL_XPos_M2_left_Bearing_2;
+	  double	EL_XPos_M2_left_Bearing_3;
+	  double	EL_XPos_M2_left_Bearing_calculated;
+	  double	EL_XPos_M2_right_Bearing_1;
+	  double	EL_XPos_M2_right_Bearing_2;
+	  double	EL_XPos_M2_right_Bearing_3;
+	  double	El_XPos_M2_right_Bearing_calculated;
+	  double	EL_XNeg_M1_left_Bearing_1;
+	  double	EL_XNeg_M1_left_Bearing_2;
+	  double	EL_XNeg_M1_left_Bearing_3;
+	  double	EL_XNeg_M1_left_Bearing_calculated;
+	  double	EL_XNeg_M1_right_Bearing_1;
+	  double	EL_XNeg_M1_right_Bearing_2;
+	  double	EL_XNeg_M1_right_Bearing_3;
+	  double	EL_XNeg_M1_right_Bearing_calculated;
+	  double	EL_XNeg_M2_left_Bearing_1;
+	  double	EL_XNeg_M2_left_Bearing_2;
+	  double	EL_XNeg_M2_left_Bearing_3;
+	  double	EL_XNeg_M2_left_Bearing_calculated;
+	  double	EL_XNeg_M2_right_Bearing_1;
+	  double	EL_XNeg_M2_right_Bearing_2;
+	  double	EL_XNeg_M2_right_Bearing_3;
+	  double	El_XNeg_M2_right_Bearing_calculated;
+	};
+	#pragma keylist OSS5
+	struct OSS6 {
+	  double	private_rcvStamp;    //private
+	  double	EL_CFM_5001;
+	  double	EL_CFM_5002;
+	  double	EL_CFM_5011;
+	  double	EL_CFM_5012;
+	  double	EL_CFM_5021;
+	  double	EL_CFM_5022;
+	  double	EL_CFM_5031;
+	  double	EL_CFM_5032;
+	  double	EL_CPM_5001;
+	  double	EL_CPM_5002;
+	  double	EL_CPM_5003;
+	  double	EL_CPM_5011;
+	  double	EL_CPM_5012;
+	  double	EL_CPM_5013;
+	  double	EL_CPM_5021;
+	  double	EL_CPM_5022;
+	  double	EL_CPM_5023;
+	  double	EL_CPM_5024;
+	  double	EL_CPM_5031;
+	  double	EL_CPM_5032;
+	  double	EL_CPM_5033;
+	  double	EL_CTM_5001;
+	  double	EL_CTM_5011;
+	  double	EL_CTM_5021;
+	  double	EL_CTM_5031;
+	  double	timestamp;
+	};
+	#pragma keylist OSS6
+	struct Safety_System {
+	  double	private_rcvStamp;    //private
+	  boolean	AZ_LimPos_AND_topple_block_pos_A;
+	  boolean	AZ_LimNeg_AND_topple_block_pos_B;
+	  boolean	AZ_Overspeed;
+	  boolean	AZ_press_brake;
+	  boolean	AZ_brake_NO_actuated;
+	  boolean	EL_LimPos;
+	  boolean	EL_LimNeg;
+	  boolean	EL_Overspeed;
+	  boolean	EL_press_brake;
+	  boolean	EL_brake_NO_actuated;
+	  boolean	Mirror_cover_position_NO_Closed;
+	  boolean	Mirror_cover_locked_switch;
+	  boolean	AZ_cable_wrap_LimPos;
+	  boolean	AZ_cable_wrap_LimNeg;
+	  boolean	El_locking_pin_inserted;
+	  boolean	El_locking_pin_test_position;
+	  boolean	El_locking_retracted;
+	  boolean	Access_door_NO_closed;
+	  boolean	Access_door_ladder_NO_parked;
+	  boolean	Hatch_NO_Closed;
+	  boolean	Platform_NO_parking;
+	  boolean	Platform_NO_total_extended;
+	  boolean	Platform_extension_NO_inserted;
+	  boolean	Pull_CordPos;
+	  boolean	Pull_CordNeg;
+	  boolean	ETPB;
+	  boolean	ETPB_Phase;
+	  boolean	Global_IS_Interlock;
+	  boolean	Earthquake;
+	  boolean	SKF_NO_ok;
+	  boolean	Phase_NO_ok;
+	  boolean	MCS_watchdog;
+	  boolean	Loss_communication;
+	  boolean	GISfailure;
+	  boolean	PierAccess;
+	  boolean	DomeAccess;
+	  boolean	ETPBdome;
+	  boolean	DomeParked;
+	  boolean	M1M3Interlok;
+	  boolean	ManLiftParked;
+	  boolean	STO_and_brake_Azimuth;
+	  boolean	STO_and_brake_Elevation;
+	  boolean	STO_AZCW;
+	  boolean	STO_CCW;
+	  boolean	STO_Balancing_System;
+	  boolean	STO_Mirror_Cover;
+	  boolean	STO_Locking_pins;
+	  boolean	STO_Deployable_Platforms;
+	  boolean	Platform_extensions;
+	  boolean	Phase_Cutoff_power;
+	  boolean	Phase_Discharge_capacitors;
+	  boolean	SKF_Pressure_Off;
+	  boolean	CCW_Pull_Cord;
+	  boolean	Emergency_to_GIS;
+	  boolean	TMA_Brakes_Failed;
+	  boolean	MCS_Failed;
+	  boolean	Access_door_1_ladder_parker_position;
+	  boolean	Access_door_2_ladder_parker_position;
+	  boolean	AZ_platform_access_Door_1_switch;
+	  boolean	AZ_platform_access_Door_2_switch;
+	  boolean	Hath_switch_1;
+	  boolean	Hath_switch_2;
+	  boolean	Hath_switch_3;
+	  boolean	Hath_switch_4;
+	  boolean	Mirror_cover_1_assembly_locked_manual_switch_off;
+	  boolean	Mirror_cover_2_assembly_locked_manual_switch_off;
+	  boolean	Phase_Capacitor_cabinet_1_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_2_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_3_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_4_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_5_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_6_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_7_Door_Switch_1_9;
+	  boolean	Phase_Capacitor_cabinet_8_Door_Switch_1_9;
+	  boolean	ETPB_AZCW_handrail_middle_floor_1;
+	  boolean	ETPB_AZCW_handrail_middle_floor_2;
+	  boolean	ETPB_AZCW_handrail_middle_floor_3;
+	  boolean	ETPB_AZCW_handrail_top_floor_1;
+	  boolean	ETPB_AZCW_handrail_top_floor_2;
+	  boolean	ETPB_AZCW_handrail_top_floor_3;
+	  boolean	ETPB_Azimuth_area_XPos_beam_1;
+	  boolean	ETPB_Azimuth_area_XPos_beam_2;
+	  boolean	ETPB_Azimuth_area_XPos_beam_3;
+	  boolean	ETPB_Azimuth_area_XNeg_beam_1;
+	  boolean	ETPB_Azimuth_area_XNeg_beam_2;
+	  boolean	ETPB_Azimuth_area_XNeg_beam_3;
+	  boolean	ETPB_Azimuth_stair_XPos_section_1;
+	  boolean	ETPB_Azimuth_stair_XPos_section_2;
+	  boolean	ETPB_Azimuth_stair_XPos_section_3;
+	  boolean	ETPB_Azimuth_stair_XNeg_section_1;
+	  boolean	ETPB_Azimuth_stair_XNeg_section_2;
+	  boolean	ETPB_Azimuth_stair_XNeg_section_3;
+	  boolean	ETPB_Deployable_platform_XPos;
+	  boolean	ETPB_Deployable_platform_XNeg;
+	  boolean	ETPB_Elevation_XPos_pylon_1;
+	  boolean	ETPB_Elevation_XPos_pylon_2;
+	  boolean	ETPB_Elevation_XPos_TEA_1;
+	  boolean	ETPB_Elevation_XPos_TEA_2;
+	  boolean	ETPB_Elevation_XNeg_pylon_1;
+	  boolean	ETPB_Elevation_XNeg_pylon_2;
+	  boolean	ETPB_Elevation_XNeg_TEA_3;
+	  boolean	ETPB_Elevation_XNeg_TEA_4;
+	  boolean	ETPB_Elevation_ring_XPos_section_1;
+	  boolean	ETPB_Elevation_ring_XPos_section_2;
+	  boolean	ETPB_Elevation_ring_XPos_section_3;
+	  boolean	ETPB_Elevation_ring_XNeg_section_1;
+	  boolean	ETPB_Elevation_ring_XNeg_section_2;
+	  boolean	ETPB_Elevation_ring_XNeg_section_3;
+	  boolean	ETPB_Handdeld_emergency_3;
+	  boolean	ETPB_Handdeld_emergency_4;
+	  boolean	ETPB_Handheld_emergency_1;
+	  boolean	ETPB_Handheld_emergency_2;
+	  boolean	ETPB_MCS_Cabinet;
+	  boolean	ETPB_Phase_cabinet;
+	  boolean	Azimuth_Cable_Wrap_Negative_limit_switch;
+	  boolean	Azimuth_Cable_Wrap_Positive_limit_switch;
+	  boolean	Azimuth_Negative__power_off_limit_switch;
+	  boolean	Azimuth_positive__power_off_limit_switch;
+	  boolean	CCW_Movement_Negative_limit__pull_cord_;
+	  boolean	CCW_Movement_Positive_limit__pull_cord_;
+	  boolean	Elevation_Negative_power_off_limit_switch;
+	  boolean	Elevation_Positive_power_off_limit_switch;
+	  boolean	Hard_Stop_1_topple_block_LS1;
+	  boolean	Hard_Stop_2_topple_block_LS1;
+	  boolean	Handheld_1_Bypass_Pushbutton;
+	  boolean	Handheld_1_Enable_Pushbutton;
+	  boolean	Handheld_2_Bypass_Pushbutton;
+	  boolean	Handheld_2_Enable_Pushbutton;
+	  boolean	Handheld_3_Bypass_Pushbutton;
+	  boolean	Handheld_3_Enable_Pushbutton;
+	  boolean	Handheld_4_Bypass_Pushbutton;
+	  boolean	Handheld_4_Enable_Pushbutton;
+	  boolean	Deployable_Platform_1_Extension_1_Inserted_Position;
+	  boolean	Deployable_Platform_1_Extension_2_Inserted_Position;
+	  boolean	Deployable_Platform_1_Module_1_Parking_Position;
+	  boolean	Deployable_Platform_1_Module_2_Parking_Position;
+	  boolean	Deployable_Platform_2_Extension_1_Inserted_Position;
+	  boolean	Deployable_Platform_2_Extension_2_Inserted_Position;
+	  boolean	Deployable_Platform_2_Module_1_Parking_Position;
+	  boolean	Deployable_Platform_2_Module_2_Parking_Position;
+	  double	timestamp;
+	};
+	#pragma keylist Safety_System
+	struct Top_End_Chiller {
+	  double	private_rcvStamp;    //private
+	  string	TEC_Status_Chiller_1;
+	  string	TEC_Status_Chiller_2;
+	  string	TEC_Status_Cabinet_1;
+	  string	TEC_Status_Cabinet_2;
+	  string	TEC_Status_Cabinet_3;
+	  string	TEC_Status_Cabinet_4;
+	  string	TEC_Status_Cabinet_5;
+	  string	TEC_Status_Cabinet_6;
+	  string	TEC_Fan_Status_Cabinet_1;
+	  string	TEC_Fan_Status_Cabinet_2;
+	  string	TEC_Fan_Status_Cabinet_3;
+	  string	TEC_Fan_Status_Cabinet_4;
+	  string	TEC_Fan_Status_Cabinet_5;
+	  string	TEC_Fan_Status_Cabinet_6;
+	  string	TEC_Status_Chiller_1_Valve;
+	  string	TEC_Status_Chiller_2_Valve;
+	  string	TEC_Status_Fan_11;
+	  string	TEC_Status_Fan_12;
+	  string	TEC_Status_Fan_13;
+	  string	TEC_Status_Fan_14;
+	  string	TEC_Status_Fan_31;
+	  string	TEC_Status_Fan_32;
+	  string	TEC_Status_Fan_33;
+	  string	TEC_Status_Fan_34;
+	  double	TEC_Temperature_Area_1;
+	  double	TEC_Temperature_Area_2;
+	  double	TEC_Temperature_Area_3;
+	  double	TEC_Temperature_Area_4;
+	  double	TEC_Temperature_Area_5;
+	  double	TEC_Internal_Humidity_Cabinet_1;
+	  double	TEC_Internal_Humidity_Cabinet_2;
+	  double	TEC_Internal_Humidity_Cabinet_3;
+	  double	TEC_Internal_Humidity_Cabinet_4;
+	  double	TEC_Internal_Humidity_Cabinet_5;
+	  double	TEC_Internal_Humidity_Cabinet_6;
+	  double	TEC_Internal_Temperature_Cabinet_1;
+	  double	TEC_Internal_Temperature_Cabinet_2;
+	  double	TEC_Internal_Temperature_Cabinet_3;
+	  double	TEC_Internal_Temperature_Cabinet_4;
+	  double	TEC_Internal_Temperature_Cabinet_5;
+	  double	TEC_Internal_Temperature_Cabinet_6;
+	  double	TEC_Surface_Temperature_Cabinet_1;
+	  double	TEC_Surface_Temperature_Cabinet_2;
+	  double	TEC_Surface_Temperature_Cabinet_3;
+	  double	TEC_Surface_Temperature_Cabinet_4;
+	  double	TEC_Surface_Temperature_Cabinet_5;
+	  double	TEC_Surface_Temperature_Cabinet_6;
+	  double	TEC_Humidity_Area_1;
+	  double	TEC_Humidity_Area_2;
+	  double	TEC_Humidity_Area_3;
+	  double	TEC_Humidity_Area_4;
+	  double	TEC_Humidity_Area_5;
+	  double	TEC_Temperature_Fan_13_Input;
+	  double	TEC_Temperature_Fan_14_Input;
+	  double	TEC_Regulation_Chiller_1_Valve;
+	  double	TEC_Regulation_Chiller_2_Valve;
+	  double	timestamp;
+	};
+	#pragma keylist Top_End_Chiller
+	struct command_abort {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_abort
+	struct command_clearerror {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	};
+	#pragma keylist command_clearerror
+	struct command_closeMirrorCover {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	};
+	#pragma keylist command_closeMirrorCover
+	struct command_configure {
+	  double	private_rcvStamp;    //private
+	  string	spec_id;
+	};
+	#pragma keylist command_configure
+	struct command_disable {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_disable
+	struct command_disableCamWrap {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	};
+	#pragma keylist command_disableCamWrap
+	struct command_enable {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_enable
+	struct command_enableCamWrap {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	};
+	#pragma keylist command_enableCamWrap
+	struct command_enterControl {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_enterControl
+	struct command_exitControl {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_exitControl
+	struct command_moveToTarget {
+	  double	private_rcvStamp;    //private
+	  double	az_angle;
+	  double	el_angle;
+	  string	cablewrap_orientation;
+	};
+	#pragma keylist command_moveToTarget
+	struct command_openMirrorCover {
+	  double	private_rcvStamp;    //private
+	  boolean	state;
+	};
+	#pragma keylist command_openMirrorCover
+	struct command_setAuthList {
+	  double	private_rcvStamp;    //private
+	  string	authorizedUsers;
+	  string	nonAuthorizedCSCs;
+	};
+	#pragma keylist command_setAuthList
+	struct command_setLogLevel {
+	  double	private_rcvStamp;    //private
+	  long	level;
+	};
+	#pragma keylist command_setLogLevel
+	struct command_setValue {
+	  double	private_rcvStamp;    //private
+	  string<256>	parametersAndValues;
+	};
+	#pragma keylist command_setValue
+	struct command_standby {
+	  double	private_rcvStamp;    //private
+	  boolean	value;
+	};
+	#pragma keylist command_standby
+	struct command_start {
+	  double	private_rcvStamp;    //private
+	  string<256>	settingsToApply;
+	};
+	#pragma keylist command_start
+	struct command_trackTarget {
+	  double	private_rcvStamp;    //private
+	  double	az_angle;
+	  double	az_velocity;
+	  double	el_angle;
+	  double	el_velocity;
+	  double	time;
+	  string	cablewrap_orientation;
+	};
+	#pragma keylist command_trackTarget
+	struct logevent_appliedSettingsMatchStart {
+	  double	private_rcvStamp;    //private
+	  boolean	appliedSettingsMatchStartIsTrue;
+	  long	priority;
+	};
+	#pragma keylist logevent_appliedSettingsMatchStart
+	struct logevent_authList {
+	  double	private_rcvStamp;    //private
+	  string	authorizedUsers;
+	  string	nonAuthorizedCSCs;
+	  long	priority;
+	};
+	#pragma keylist logevent_authList
+	struct logevent_errorCode {
+	  double	private_rcvStamp;    //private
+	  long	errorCode;
+	  string	errorReport;
+	  string	traceback;
+	  long	priority;
+	};
+	#pragma keylist logevent_errorCode
+	struct logevent_heartbeat {
+	  double	private_rcvStamp;    //private
+	  boolean	heartbeat;
+	  long	priority;
+	};
+	#pragma keylist logevent_heartbeat
+	struct logevent_logLevel {
+	  double	private_rcvStamp;    //private
+	  long	level;
+	  long	priority;
+	};
+	#pragma keylist logevent_logLevel
+	struct logevent_logMessage {
+	  double	private_rcvStamp;    //private
+	  string	name;
+	  long	level;
+	  string	message;
+	  string	traceback;
+	  string	filePath;
+	  string	functionName;
+	  long	lineNumber;
+	  long	process;
+	  long	priority;
+	};
+	#pragma keylist logevent_logMessage
+	struct logevent_mountError {
+	  double	private_rcvStamp;    //private
+	  long	id;
+	  string	text;
+	  long	priority;
+	};
+	#pragma keylist logevent_mountError
+	struct logevent_mountInPosition {
+	  double	private_rcvStamp;    //private
+	  boolean	inposition;
+	  long	priority;
+	};
+	#pragma keylist logevent_mountInPosition
+	struct logevent_mountState {
+	  double	private_rcvStamp;    //private
+	  long	id;
+	  string	text;
+	  long	priority;
+	};
+	#pragma keylist logevent_mountState
+	struct logevent_mountWarning {
+	  double	private_rcvStamp;    //private
+	  long	id;
+	  string	text;
+	  long	priority;
+	};
+	#pragma keylist logevent_mountWarning
+	struct logevent_settingVersions {
+	  double	private_rcvStamp;    //private
+	  string	recommendedSettingsVersion;
+	  string	recommendedSettingsLabels;
+	  string	settingsUrl;
+	  long	priority;
+	};
+	#pragma keylist logevent_settingVersions
+	struct logevent_settingsApplied {
+	  double	private_rcvStamp;    //private
+	  string<256>	settingsVersion;
+	  string	otherSettingsEvents;
+	  long	priority;
+	};
+	#pragma keylist logevent_settingsApplied
+	struct logevent_simulationMode {
+	  double	private_rcvStamp;    //private
+	  long	mode;
+	  long	priority;
+	};
+	#pragma keylist logevent_simulationMode
+	struct logevent_softwareVersions {
+	  double	private_rcvStamp;    //private
+	  string<256>	salVersion;
+	  string<256>	xmlVersion;
+	  string<256>	openSpliceVersion;
+	  string<256>	cscVersion;
+	  string	subsystemVersions;
+	  long	priority;
+	};
+	#pragma keylist logevent_softwareVersions
+	struct logevent_summaryState {
+	  double	private_rcvStamp;    //private
+	  long	summaryState;
+	  long	priority;
+	};
+	#pragma keylist logevent_summaryState
+	struct ackcmd {
+  double	private_rcvStamp;    //private
+	  long	cmdSeqNum;
+	  long	ack;
+	  long	error;
+	  string<256>	result;
+	  long	host;
+	  string	identity;
+	  long	origin;
+	  long	cmdtype;
+	  double	timeout;
+	};
+	#pragma keylist ackcmd
+};
+

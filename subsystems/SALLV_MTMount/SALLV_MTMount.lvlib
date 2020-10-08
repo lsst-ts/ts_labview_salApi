@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="18008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-R!!!*Q(C=\:20;BN*&amp;-;`B)':L7]1B%[1&gt;Y!19MA*L/6!%HA(;-&amp;Y&amp;U6E9;W3&lt;7IT!WWUM1[AB2'T$)D(J-H?2YCX!N-&gt;Z^?FMJQM`'?2A6F-F:_[[`N?P@JV&gt;&lt;GFX([4@N(F89X%;&gt;NOJ'[ET61Z7M1,*)XQB[/,)7UTH1\(UW'/C^&amp;QW0&lt;;F^Z@.5P;GMNKP&gt;T'^H:::X_Z\MBIS,DS]_$;:`*[V48.?O?PNT6X`GL&gt;ZT=\@^6]ZT.IFEWO=EE29L8M6D`-P[(6H`'LGPH(&gt;&gt;U&gt;V]?@[BR.8&gt;?@5*MPNT^`F@V*7^(GY\;;,+I=X)[Z6.PVKXH8666&lt;T3&gt;8@N5RO0;:P"BX&lt;&lt;P9_@.*6XXP4R:^@LPTRWV\\5^;2PVY-;&gt;)(Z/KG`QQ`Y;7H`]GH[L.&lt;@Z&gt;]``X\_&gt;P[JM&lt;`O&lt;T&lt;?U_`^ZP\ET[FZPU10W(C!AC%5[9?OMSU!-^U!-^U!-^I3@UB*\1%XJ#&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X2$TRV&gt;[%)8/LM3,"YM&amp;"1.#A4*I#DY#8A#HI!HY''IA#@A#8A#HI#(&amp;!5]!5`!%`!%0%R4Q"0Q"$Q"4]"$K5Q3O;0$%`"18AG?"%_#*]'4Y'&amp;**8A3!)H&amp;%I542="1QET=*(A30!E?&lt;J8A3@!E?")]#2ZM*8A30!G?"%_#BSFZ6V+G[4M[0*32Q_0Q/$Q/D].$;4E]$I`$Y`!Y0#QHB]@B=3#=":XC)-C:Z#1Y!Y@(Y?%CB]@B=8A=(I=(+\]BTTP4U`1&gt;(2[$R_!R?!Q?AY=3-HA-(I0(Y$&amp;Y+#O$R_!R?!Q?AY?F:0!90!;0!7)MSP)SCBE4D32$-(DYS[@&amp;]FN+G=2SF]LB64G5+I&gt;.Z2#J(![6F[\S-F6?EMLGKWSKSG;J&lt;),+Q[F!K]#I,+)SO5`5/&lt;^HR#FR1MS)1_+!W#='R&amp;Y`^3=HHJ_@[_TM4+?HJTIZ/&gt;&amp;M.N0BY;%/$A[UP\_PQ7#AP&lt;U^8&lt;6(^'V\=06&gt;?D=90JU^(D\\])&gt;`@0@\SY^PP\Y[?PP0K[-`XX&gt;(&lt;[2@`S)H_[/8T\0`OP&gt;@\(TC3&lt;H?+`J[@___3`_&amp;&lt;[-?;HP&gt;\&gt;%XUN,XX1!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-G!!!*Q(C=\:9R3RR2%-@(%-CV&gt;F='O3]A5`A&amp;\+U51AK\[&lt;.8(-&amp;C)R;RC&lt;9/"!4$.PI"LJ!F&gt;:9"&amp;XN\+V-+99`,&lt;X&gt;@Z#T5"*+1)O]ZT^P``\W:X\Z^NZR)VQ9CTW8_6*0(WCX_;.1UT2&lt;DN^(I&gt;H?5BI&lt;9WLVM`&lt;+;NKWOJ^/3[)=+M@\5_X8:#G66,PB4BPKE][@6^88*.8HO_776`%[;VR29]+OK,B&gt;]EF.CQ7^Z4F,^OO[.KC2,0_"8P:_&gt;0.QO(\``IP0T)GN&lt;UW4:G/C(!L(J\T^PRKW1HYU8`)RBVO@0CNFMT$6Z\PFZE@QMSZNM"M7C8R4._-Y@.U7?:7@D"4^L:NF*KN]U?;PFR:AM`5$V)LN&lt;`U$\\`]&amp;``&lt;R]X&gt;\_6D\G;`XOS=H`?%GMC4NCYA)QAED6&amp;JL(OC"(OC"(OC"\OC/\OC/\OC/&lt;OC'&lt;OC'&lt;OC'LOC+LOC+LOC+XH6U12&gt;U17&gt;8AO*"I3"JE##9$)I%1]!4]!1]!1_8%P!%0!&amp;0Q"0Q-%5#HI!HY!FY!B[73=!4]!1]!5`!1[K/*,K/$E`!1XJR?"Q?B]@B=8AI+1[0!_!5=R)\3=!1RX1_/$Q/D]0$2X&amp;Y("[(R_&amp;R?,$&amp;Y8&amp;Y("[(R_&amp;B3&lt;=LXN'U(2U?UID"9`!90!;0Q5.K-8A-(I0(Y$&amp;Y+#='D]&amp;D1"A&amp;D?1AC,()G'"='$Q'$``%Y$&amp;Y$"[$R_$"[J[1&gt;4P4UL1&gt;(2[&amp;2_&amp;2?"1?B9=5IP!I0!K0QK0QE&amp;95(I6(Y6&amp;Y&amp;"Z+C=+D]#A]#IB3F0+C*&amp;-7+J-51?(BLTMNWDUF\UCU[S,J]%I[F*)/G[2$*/FQ3(LIEB[GJ)=E;@-F&lt;;KET:+U#:*O4B+U*"B*231N&lt;C@+$?-6=5[=%PP%B.AEVIE69LF&gt;_JMHXNT=S.86F:S@H]PJ[;HM\_`,:$+2T=V.76^@FZ76&amp;6F?8L\\/@'3XL?F(__F&gt;XQ_7"W]0^,BR=?&gt;Y=&lt;B[_(WXMYQX\M9LBU@TN?/G&gt;0ZKY/,IT?$D9.8A_W^NY0*\J@"WP'(LWOM@`%LU?&lt;\@0&gt;?_B@?D@*-ZAM`Q^CD\Z$Z\[)!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="DataTypes" Type="Folder">
@@ -39,7 +39,6 @@
 		<Item Name="SummaryState.ctl" Type="VI" URL="../DataTypes/SummaryState.ctl"/>
 		<Item Name="Top_End_Chiller.ctl" Type="VI" URL="../DataTypes/Top_End_Chiller.ctl"/>
 		<Item Name="ackcmd.ctl" Type="VI" URL="../DataTypes/ackcmd.ctl"/>
-		<Item Name="command.ctl" Type="VI" URL="../DataTypes/command.ctl"/>
 		<Item Name="command_abort.ctl" Type="VI" URL="../DataTypes/command_abort.ctl"/>
 		<Item Name="command_clearerror.ctl" Type="VI" URL="../DataTypes/command_clearerror.ctl"/>
 		<Item Name="command_closeMirrorCover.ctl" Type="VI" URL="../DataTypes/command_closeMirrorCover.ctl"/>
@@ -52,14 +51,14 @@
 		<Item Name="command_exitControl.ctl" Type="VI" URL="../DataTypes/command_exitControl.ctl"/>
 		<Item Name="command_moveToTarget.ctl" Type="VI" URL="../DataTypes/command_moveToTarget.ctl"/>
 		<Item Name="command_openMirrorCover.ctl" Type="VI" URL="../DataTypes/command_openMirrorCover.ctl"/>
+		<Item Name="command_setAuthList.ctl" Type="VI" URL="../DataTypes/command_setAuthList.ctl"/>
 		<Item Name="command_setLogLevel.ctl" Type="VI" URL="../DataTypes/command_setLogLevel.ctl"/>
-		<Item Name="command_setSimulationMode.ctl" Type="VI" URL="../DataTypes/command_setSimulationMode.ctl"/>
 		<Item Name="command_setValue.ctl" Type="VI" URL="../DataTypes/command_setValue.ctl"/>
 		<Item Name="command_standby.ctl" Type="VI" URL="../DataTypes/command_standby.ctl"/>
 		<Item Name="command_start.ctl" Type="VI" URL="../DataTypes/command_start.ctl"/>
 		<Item Name="command_trackTarget.ctl" Type="VI" URL="../DataTypes/command_trackTarget.ctl"/>
-		<Item Name="logevent.ctl" Type="VI" URL="../DataTypes/logevent.ctl"/>
 		<Item Name="logevent_appliedSettingsMatchStart.ctl" Type="VI" URL="../DataTypes/logevent_appliedSettingsMatchStart.ctl"/>
+		<Item Name="logevent_authList.ctl" Type="VI" URL="../DataTypes/logevent_authList.ctl"/>
 		<Item Name="logevent_errorCode.ctl" Type="VI" URL="../DataTypes/logevent_errorCode.ctl"/>
 		<Item Name="logevent_heartbeat.ctl" Type="VI" URL="../DataTypes/logevent_heartbeat.ctl"/>
 		<Item Name="logevent_logLevel.ctl" Type="VI" URL="../DataTypes/logevent_logLevel.ctl"/>
@@ -69,506 +68,26 @@
 		<Item Name="logevent_mountState.ctl" Type="VI" URL="../DataTypes/logevent_mountState.ctl"/>
 		<Item Name="logevent_mountWarning.ctl" Type="VI" URL="../DataTypes/logevent_mountWarning.ctl"/>
 		<Item Name="logevent_settingVersions.ctl" Type="VI" URL="../DataTypes/logevent_settingVersions.ctl"/>
+		<Item Name="logevent_settingsApplied.ctl" Type="VI" URL="../DataTypes/logevent_settingsApplied.ctl"/>
 		<Item Name="logevent_simulationMode.ctl" Type="VI" URL="../DataTypes/logevent_simulationMode.ctl"/>
 		<Item Name="logevent_softwareVersions.ctl" Type="VI" URL="../DataTypes/logevent_softwareVersions.ctl"/>
 		<Item Name="logevent_summaryState.ctl" Type="VI" URL="../DataTypes/logevent_summaryState.ctl"/>
 	</Item>
 	<Item Name="MTMount_Connect.vi" Type="VI" URL="../VIs/MTMount_Connect.vi"/>
 	<Item Name="MTMount_Release.vi" Type="VI" URL="../VIs/MTMount_Release.vi"/>
-	<Item Name="MTMount_acceptCommand_abort.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_abort.vi"/>
-	<Item Name="MTMount_acceptCommand_clearerror.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_clearerror.vi"/>
-	<Item Name="MTMount_acceptCommand_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_closeMirrorCover.vi"/>
-	<Item Name="MTMount_acceptCommand_configure.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_configure.vi"/>
-	<Item Name="MTMount_acceptCommand_disable.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_disable.vi"/>
-	<Item Name="MTMount_acceptCommand_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_disableCamWrap.vi"/>
-	<Item Name="MTMount_acceptCommand_enable.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_enable.vi"/>
-	<Item Name="MTMount_acceptCommand_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_enableCamWrap.vi"/>
-	<Item Name="MTMount_acceptCommand_enterControl.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_enterControl.vi"/>
-	<Item Name="MTMount_acceptCommand_exitControl.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_exitControl.vi"/>
-	<Item Name="MTMount_acceptCommand_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_moveToTarget.vi"/>
-	<Item Name="MTMount_acceptCommand_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_openMirrorCover.vi"/>
-	<Item Name="MTMount_acceptCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_setLogLevel.vi"/>
-	<Item Name="MTMount_acceptCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_setSimulationMode.vi"/>
-	<Item Name="MTMount_acceptCommand_setValue.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_setValue.vi"/>
-	<Item Name="MTMount_acceptCommand_standby.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_standby.vi"/>
-	<Item Name="MTMount_acceptCommand_start.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_start.vi"/>
-	<Item Name="MTMount_acceptCommand_trackTarget.vi" Type="VI" URL="../VIs/MTMount_acceptCommand_trackTarget.vi"/>
-	<Item Name="MTMount_ackCommand_abort.vi" Type="VI" URL="../VIs/MTMount_ackCommand_abort.vi"/>
-	<Item Name="MTMount_ackCommand_clearerror.vi" Type="VI" URL="../VIs/MTMount_ackCommand_clearerror.vi"/>
-	<Item Name="MTMount_ackCommand_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_ackCommand_closeMirrorCover.vi"/>
-	<Item Name="MTMount_ackCommand_configure.vi" Type="VI" URL="../VIs/MTMount_ackCommand_configure.vi"/>
-	<Item Name="MTMount_ackCommand_disable.vi" Type="VI" URL="../VIs/MTMount_ackCommand_disable.vi"/>
-	<Item Name="MTMount_ackCommand_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_ackCommand_disableCamWrap.vi"/>
-	<Item Name="MTMount_ackCommand_enable.vi" Type="VI" URL="../VIs/MTMount_ackCommand_enable.vi"/>
-	<Item Name="MTMount_ackCommand_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_ackCommand_enableCamWrap.vi"/>
-	<Item Name="MTMount_ackCommand_enterControl.vi" Type="VI" URL="../VIs/MTMount_ackCommand_enterControl.vi"/>
-	<Item Name="MTMount_ackCommand_exitControl.vi" Type="VI" URL="../VIs/MTMount_ackCommand_exitControl.vi"/>
-	<Item Name="MTMount_ackCommand_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_ackCommand_moveToTarget.vi"/>
-	<Item Name="MTMount_ackCommand_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_ackCommand_openMirrorCover.vi"/>
-	<Item Name="MTMount_ackCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_ackCommand_setLogLevel.vi"/>
-	<Item Name="MTMount_ackCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_ackCommand_setSimulationMode.vi"/>
-	<Item Name="MTMount_ackCommand_setValue.vi" Type="VI" URL="../VIs/MTMount_ackCommand_setValue.vi"/>
-	<Item Name="MTMount_ackCommand_standby.vi" Type="VI" URL="../VIs/MTMount_ackCommand_standby.vi"/>
-	<Item Name="MTMount_ackCommand_start.vi" Type="VI" URL="../VIs/MTMount_ackCommand_start.vi"/>
-	<Item Name="MTMount_ackCommand_trackTarget.vi" Type="VI" URL="../VIs/MTMount_ackCommand_trackTarget.vi"/>
-	<Item Name="MTMount_cancelCallback_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_cancelCallback_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_cancelCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Azimuth.vi"/>
-	<Item Name="MTMount_cancelCallback_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_cancelCallback_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_AzimuthDrives.vi"/>
-	<Item Name="MTMount_cancelCallback_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_cancelCallback_Balancing.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Balancing.vi"/>
-	<Item Name="MTMount_cancelCallback_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_BalancingDrives.vi"/>
-	<Item Name="MTMount_cancelCallback_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_CameraCableWrap.vi"/>
-	<Item Name="MTMount_cancelCallback_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_CompressedAir.vi"/>
-	<Item Name="MTMount_cancelCallback_Cooling.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Cooling.vi"/>
-	<Item Name="MTMount_cancelCallback_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_cancelCallback_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_DynaleneCooling.vi"/>
 	<Item Name="MTMount_cancelCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Elevation.vi"/>
-	<Item Name="MTMount_cancelCallback_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_ElevationDrives.vi"/>
-	<Item Name="MTMount_cancelCallback_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_cancelCallback_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_EncoderEIB.vi"/>
-	<Item Name="MTMount_cancelCallback_General.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_General.vi"/>
-	<Item Name="MTMount_cancelCallback_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_cancelCallback_LockingPins.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_LockingPins.vi"/>
-	<Item Name="MTMount_cancelCallback_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_MainPowerSupply.vi"/>
-	<Item Name="MTMount_cancelCallback_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_cancelCallback_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_MirrorCover.vi"/>
-	<Item Name="MTMount_cancelCallback_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_cancelCallback_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_cancelCallback_OSS.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_OSS.vi"/>
-	<Item Name="MTMount_cancelCallback_OSS2.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_OSS2.vi"/>
-	<Item Name="MTMount_cancelCallback_OSS4.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_OSS4.vi"/>
-	<Item Name="MTMount_cancelCallback_OSS5.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_OSS5.vi"/>
-	<Item Name="MTMount_cancelCallback_OSS6.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_OSS6.vi"/>
-	<Item Name="MTMount_cancelCallback_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_SafetySystem.vi"/>
-	<Item Name="MTMount_cancelCallback_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_TopEndChiller.vi"/>
-	<Item Name="MTMount_cancelCallback_ackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_ackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_.vi"/>
-	<Item Name="MTMount_cancelCallback_command_abort.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_abort.vi"/>
-	<Item Name="MTMount_cancelCallback_command_abortackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_abortackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_clearerror.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_clearerror.vi"/>
-	<Item Name="MTMount_cancelCallback_command_clearerrorackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_clearerrorackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_closeMirrorCover.vi"/>
-	<Item Name="MTMount_cancelCallback_command_closeMirrorCoverackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_closeMirrorCoverackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_configure.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_configure.vi"/>
-	<Item Name="MTMount_cancelCallback_command_configureackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_configureackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_disable.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_disable.vi"/>
-	<Item Name="MTMount_cancelCallback_command_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_disableCamWrap.vi"/>
-	<Item Name="MTMount_cancelCallback_command_disableCamWrapackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_disableCamWrapackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_disableackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_disableackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enable.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enable.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enableCamWrap.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enableCamWrapackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enableCamWrapackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enableackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enableackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enterControl.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enterControl.vi"/>
-	<Item Name="MTMount_cancelCallback_command_enterControlackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_enterControlackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_exitControl.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_exitControl.vi"/>
-	<Item Name="MTMount_cancelCallback_command_exitControlackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_exitControlackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_moveToTarget.vi"/>
-	<Item Name="MTMount_cancelCallback_command_moveToTargetackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_moveToTargetackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_openMirrorCover.vi"/>
-	<Item Name="MTMount_cancelCallback_command_openMirrorCoverackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_openMirrorCoverackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setLogLevel.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setLogLevelackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setLogLevelackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setSimulationMode.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setSimulationModeackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setSimulationModeackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setValue.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setValue.vi"/>
-	<Item Name="MTMount_cancelCallback_command_setValueackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_setValueackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_standby.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_standby.vi"/>
-	<Item Name="MTMount_cancelCallback_command_standbyackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_standbyackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_start.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_start.vi"/>
-	<Item Name="MTMount_cancelCallback_command_startackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_startackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_command_trackTarget.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_trackTarget.vi"/>
-	<Item Name="MTMount_cancelCallback_command_trackTargetackcmd.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_command_trackTargetackcmd.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_errorCode.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_heartbeat.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_logLevel.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_logMessage.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountError.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountState.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountWarning.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_settingVersions.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_simulationMode.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_summaryState.vi"/>
 	<Item Name="MTMount_checkCallbacks.vi" Type="VI" URL="../VIs/MTMount_checkCallbacks.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_errorCode.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_heartbeat.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_logLevel.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_logMessage.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountError.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountState.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountWarning.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_settingVersions.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_simulationMode.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_summaryState.vi"/>
-	<Item Name="MTMount_getCurrentTime.vi" Type="VI" URL="../VIs/MTMount_getCurrentTime.vi"/>
-	<Item Name="MTMount_getEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_getEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_getEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_getEvent_errorCode.vi"/>
-	<Item Name="MTMount_getEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_getEvent_heartbeat.vi"/>
-	<Item Name="MTMount_getEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_getEvent_logLevel.vi"/>
-	<Item Name="MTMount_getEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_getEvent_logMessage.vi"/>
-	<Item Name="MTMount_getEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountError.vi"/>
-	<Item Name="MTMount_getEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_getEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountState.vi"/>
-	<Item Name="MTMount_getEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountWarning.vi"/>
-	<Item Name="MTMount_getEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_getEvent_settingVersions.vi"/>
-	<Item Name="MTMount_getEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_getEvent_simulationMode.vi"/>
-	<Item Name="MTMount_getEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_getEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_getEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_getEvent_summaryState.vi"/>
-	<Item Name="MTMount_getNextSample_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_getNextSample_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_getNextSample_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_getNextSample_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_getNextSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Azimuth.vi"/>
-	<Item Name="MTMount_getNextSample_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_getNextSample_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_getNextSample_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_getNextSample_AzimuthDrives.vi"/>
-	<Item Name="MTMount_getNextSample_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_getNextSample_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_getNextSample_Balancing.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Balancing.vi"/>
-	<Item Name="MTMount_getNextSample_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_getNextSample_BalancingDrives.vi"/>
-	<Item Name="MTMount_getNextSample_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_getNextSample_CameraCableWrap.vi"/>
-	<Item Name="MTMount_getNextSample_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_getNextSample_CompressedAir.vi"/>
-	<Item Name="MTMount_getNextSample_Cooling.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Cooling.vi"/>
-	<Item Name="MTMount_getNextSample_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_getNextSample_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_getNextSample_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_getNextSample_DynaleneCooling.vi"/>
 	<Item Name="MTMount_getNextSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Elevation.vi"/>
-	<Item Name="MTMount_getNextSample_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_getNextSample_ElevationDrives.vi"/>
-	<Item Name="MTMount_getNextSample_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_getNextSample_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_getNextSample_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_getNextSample_EncoderEIB.vi"/>
-	<Item Name="MTMount_getNextSample_General.vi" Type="VI" URL="../VIs/MTMount_getNextSample_General.vi"/>
-	<Item Name="MTMount_getNextSample_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_getNextSample_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_getNextSample_LockingPins.vi" Type="VI" URL="../VIs/MTMount_getNextSample_LockingPins.vi"/>
-	<Item Name="MTMount_getNextSample_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_getNextSample_MainPowerSupply.vi"/>
-	<Item Name="MTMount_getNextSample_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_getNextSample_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_getNextSample_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_getNextSample_MirrorCover.vi"/>
-	<Item Name="MTMount_getNextSample_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_getNextSample_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_getNextSample_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_getNextSample_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_getNextSample_OSS.vi" Type="VI" URL="../VIs/MTMount_getNextSample_OSS.vi"/>
-	<Item Name="MTMount_getNextSample_OSS2.vi" Type="VI" URL="../VIs/MTMount_getNextSample_OSS2.vi"/>
-	<Item Name="MTMount_getNextSample_OSS4.vi" Type="VI" URL="../VIs/MTMount_getNextSample_OSS4.vi"/>
-	<Item Name="MTMount_getNextSample_OSS5.vi" Type="VI" URL="../VIs/MTMount_getNextSample_OSS5.vi"/>
-	<Item Name="MTMount_getNextSample_OSS6.vi" Type="VI" URL="../VIs/MTMount_getNextSample_OSS6.vi"/>
-	<Item Name="MTMount_getNextSample_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_getNextSample_SafetySystem.vi"/>
-	<Item Name="MTMount_getNextSample_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_getNextSample_TopEndChiller.vi"/>
-	<Item Name="MTMount_getResponse_abort.vi" Type="VI" URL="../VIs/MTMount_getResponse_abort.vi"/>
-	<Item Name="MTMount_getResponse_clearerror.vi" Type="VI" URL="../VIs/MTMount_getResponse_clearerror.vi"/>
-	<Item Name="MTMount_getResponse_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_getResponse_closeMirrorCover.vi"/>
-	<Item Name="MTMount_getResponse_configure.vi" Type="VI" URL="../VIs/MTMount_getResponse_configure.vi"/>
-	<Item Name="MTMount_getResponse_disable.vi" Type="VI" URL="../VIs/MTMount_getResponse_disable.vi"/>
-	<Item Name="MTMount_getResponse_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_getResponse_disableCamWrap.vi"/>
-	<Item Name="MTMount_getResponse_enable.vi" Type="VI" URL="../VIs/MTMount_getResponse_enable.vi"/>
-	<Item Name="MTMount_getResponse_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_getResponse_enableCamWrap.vi"/>
-	<Item Name="MTMount_getResponse_enterControl.vi" Type="VI" URL="../VIs/MTMount_getResponse_enterControl.vi"/>
-	<Item Name="MTMount_getResponse_exitControl.vi" Type="VI" URL="../VIs/MTMount_getResponse_exitControl.vi"/>
-	<Item Name="MTMount_getResponse_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_getResponse_moveToTarget.vi"/>
-	<Item Name="MTMount_getResponse_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_getResponse_openMirrorCover.vi"/>
-	<Item Name="MTMount_getResponse_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_getResponse_setLogLevel.vi"/>
-	<Item Name="MTMount_getResponse_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_getResponse_setSimulationMode.vi"/>
-	<Item Name="MTMount_getResponse_setValue.vi" Type="VI" URL="../VIs/MTMount_getResponse_setValue.vi"/>
-	<Item Name="MTMount_getResponse_standby.vi" Type="VI" URL="../VIs/MTMount_getResponse_standby.vi"/>
-	<Item Name="MTMount_getResponse_start.vi" Type="VI" URL="../VIs/MTMount_getResponse_start.vi"/>
-	<Item Name="MTMount_getResponse_trackTarget.vi" Type="VI" URL="../VIs/MTMount_getResponse_trackTarget.vi"/>
-	<Item Name="MTMount_getSample_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_getSample_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_getSample_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_getSample_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_getSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getSample_Azimuth.vi"/>
-	<Item Name="MTMount_getSample_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_getSample_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_getSample_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_getSample_AzimuthDrives.vi"/>
-	<Item Name="MTMount_getSample_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_getSample_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_getSample_Balancing.vi" Type="VI" URL="../VIs/MTMount_getSample_Balancing.vi"/>
-	<Item Name="MTMount_getSample_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_getSample_BalancingDrives.vi"/>
-	<Item Name="MTMount_getSample_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_getSample_CameraCableWrap.vi"/>
-	<Item Name="MTMount_getSample_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_getSample_CompressedAir.vi"/>
-	<Item Name="MTMount_getSample_Cooling.vi" Type="VI" URL="../VIs/MTMount_getSample_Cooling.vi"/>
-	<Item Name="MTMount_getSample_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_getSample_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_getSample_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_getSample_DynaleneCooling.vi"/>
 	<Item Name="MTMount_getSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getSample_Elevation.vi"/>
-	<Item Name="MTMount_getSample_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_getSample_ElevationDrives.vi"/>
-	<Item Name="MTMount_getSample_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_getSample_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_getSample_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_getSample_EncoderEIB.vi"/>
-	<Item Name="MTMount_getSample_General.vi" Type="VI" URL="../VIs/MTMount_getSample_General.vi"/>
-	<Item Name="MTMount_getSample_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_getSample_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_getSample_LockingPins.vi" Type="VI" URL="../VIs/MTMount_getSample_LockingPins.vi"/>
-	<Item Name="MTMount_getSample_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_getSample_MainPowerSupply.vi"/>
-	<Item Name="MTMount_getSample_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_getSample_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_getSample_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_getSample_MirrorCover.vi"/>
-	<Item Name="MTMount_getSample_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_getSample_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_getSample_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_getSample_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_getSample_OSS.vi" Type="VI" URL="../VIs/MTMount_getSample_OSS.vi"/>
-	<Item Name="MTMount_getSample_OSS2.vi" Type="VI" URL="../VIs/MTMount_getSample_OSS2.vi"/>
-	<Item Name="MTMount_getSample_OSS4.vi" Type="VI" URL="../VIs/MTMount_getSample_OSS4.vi"/>
-	<Item Name="MTMount_getSample_OSS5.vi" Type="VI" URL="../VIs/MTMount_getSample_OSS5.vi"/>
-	<Item Name="MTMount_getSample_OSS6.vi" Type="VI" URL="../VIs/MTMount_getSample_OSS6.vi"/>
-	<Item Name="MTMount_getSample_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_getSample_SafetySystem.vi"/>
-	<Item Name="MTMount_getSample_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_getSample_TopEndChiller.vi"/>
-	<Item Name="MTMount_issueCommand_abort.vi" Type="VI" URL="../VIs/MTMount_issueCommand_abort.vi"/>
-	<Item Name="MTMount_issueCommand_clearerror.vi" Type="VI" URL="../VIs/MTMount_issueCommand_clearerror.vi"/>
-	<Item Name="MTMount_issueCommand_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_issueCommand_closeMirrorCover.vi"/>
-	<Item Name="MTMount_issueCommand_configure.vi" Type="VI" URL="../VIs/MTMount_issueCommand_configure.vi"/>
-	<Item Name="MTMount_issueCommand_disable.vi" Type="VI" URL="../VIs/MTMount_issueCommand_disable.vi"/>
-	<Item Name="MTMount_issueCommand_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_issueCommand_disableCamWrap.vi"/>
-	<Item Name="MTMount_issueCommand_enable.vi" Type="VI" URL="../VIs/MTMount_issueCommand_enable.vi"/>
-	<Item Name="MTMount_issueCommand_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_issueCommand_enableCamWrap.vi"/>
-	<Item Name="MTMount_issueCommand_enterControl.vi" Type="VI" URL="../VIs/MTMount_issueCommand_enterControl.vi"/>
-	<Item Name="MTMount_issueCommand_exitControl.vi" Type="VI" URL="../VIs/MTMount_issueCommand_exitControl.vi"/>
-	<Item Name="MTMount_issueCommand_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_issueCommand_moveToTarget.vi"/>
-	<Item Name="MTMount_issueCommand_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_issueCommand_openMirrorCover.vi"/>
-	<Item Name="MTMount_issueCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_issueCommand_setLogLevel.vi"/>
-	<Item Name="MTMount_issueCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_issueCommand_setSimulationMode.vi"/>
-	<Item Name="MTMount_issueCommand_setValue.vi" Type="VI" URL="../VIs/MTMount_issueCommand_setValue.vi"/>
-	<Item Name="MTMount_issueCommand_standby.vi" Type="VI" URL="../VIs/MTMount_issueCommand_standby.vi"/>
-	<Item Name="MTMount_issueCommand_start.vi" Type="VI" URL="../VIs/MTMount_issueCommand_start.vi"/>
-	<Item Name="MTMount_issueCommand_trackTarget.vi" Type="VI" URL="../VIs/MTMount_issueCommand_trackTarget.vi"/>
-	<Item Name="MTMount_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_logEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_logEvent_errorCode.vi"/>
-	<Item Name="MTMount_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_logEvent_heartbeat.vi"/>
-	<Item Name="MTMount_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_logEvent_logLevel.vi"/>
-	<Item Name="MTMount_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_logEvent_logMessage.vi"/>
-	<Item Name="MTMount_logEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountError.vi"/>
-	<Item Name="MTMount_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_logEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountState.vi"/>
-	<Item Name="MTMount_logEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountWarning.vi"/>
-	<Item Name="MTMount_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_logEvent_settingVersions.vi"/>
-	<Item Name="MTMount_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_logEvent_simulationMode.vi"/>
-	<Item Name="MTMount_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_logEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_logEvent_summaryState.vi"/>
-	<Item Name="MTMount_monitorCommand_abort.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_abort.vi"/>
-	<Item Name="MTMount_monitorCommand_clearerror.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_clearerror.vi"/>
-	<Item Name="MTMount_monitorCommand_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_closeMirrorCover.vi"/>
-	<Item Name="MTMount_monitorCommand_configure.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_configure.vi"/>
-	<Item Name="MTMount_monitorCommand_disable.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_disable.vi"/>
-	<Item Name="MTMount_monitorCommand_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_disableCamWrap.vi"/>
-	<Item Name="MTMount_monitorCommand_enable.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_enable.vi"/>
-	<Item Name="MTMount_monitorCommand_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_enableCamWrap.vi"/>
-	<Item Name="MTMount_monitorCommand_enterControl.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_enterControl.vi"/>
-	<Item Name="MTMount_monitorCommand_exitControl.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_exitControl.vi"/>
-	<Item Name="MTMount_monitorCommand_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_moveToTarget.vi"/>
-	<Item Name="MTMount_monitorCommand_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_openMirrorCover.vi"/>
-	<Item Name="MTMount_monitorCommand_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_setLogLevel.vi"/>
-	<Item Name="MTMount_monitorCommand_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_setSimulationMode.vi"/>
-	<Item Name="MTMount_monitorCommand_setValue.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_setValue.vi"/>
-	<Item Name="MTMount_monitorCommand_standby.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_standby.vi"/>
-	<Item Name="MTMount_monitorCommand_start.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_start.vi"/>
-	<Item Name="MTMount_monitorCommand_trackTarget.vi" Type="VI" URL="../VIs/MTMount_monitorCommand_trackTarget.vi"/>
-	<Item Name="MTMount_putSample_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_putSample_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_putSample_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_putSample_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_putSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_putSample_Azimuth.vi"/>
-	<Item Name="MTMount_putSample_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_putSample_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_putSample_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_putSample_AzimuthDrives.vi"/>
-	<Item Name="MTMount_putSample_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_putSample_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_putSample_Balancing.vi" Type="VI" URL="../VIs/MTMount_putSample_Balancing.vi"/>
-	<Item Name="MTMount_putSample_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_putSample_BalancingDrives.vi"/>
-	<Item Name="MTMount_putSample_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_putSample_CameraCableWrap.vi"/>
-	<Item Name="MTMount_putSample_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_putSample_CompressedAir.vi"/>
-	<Item Name="MTMount_putSample_Cooling.vi" Type="VI" URL="../VIs/MTMount_putSample_Cooling.vi"/>
-	<Item Name="MTMount_putSample_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_putSample_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_putSample_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_putSample_DynaleneCooling.vi"/>
 	<Item Name="MTMount_putSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_putSample_Elevation.vi"/>
-	<Item Name="MTMount_putSample_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_putSample_ElevationDrives.vi"/>
-	<Item Name="MTMount_putSample_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_putSample_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_putSample_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_putSample_EncoderEIB.vi"/>
-	<Item Name="MTMount_putSample_General.vi" Type="VI" URL="../VIs/MTMount_putSample_General.vi"/>
-	<Item Name="MTMount_putSample_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_putSample_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_putSample_LockingPins.vi" Type="VI" URL="../VIs/MTMount_putSample_LockingPins.vi"/>
-	<Item Name="MTMount_putSample_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_putSample_MainPowerSupply.vi"/>
-	<Item Name="MTMount_putSample_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_putSample_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_putSample_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_putSample_MirrorCover.vi"/>
-	<Item Name="MTMount_putSample_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_putSample_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_putSample_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_putSample_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_putSample_OSS.vi" Type="VI" URL="../VIs/MTMount_putSample_OSS.vi"/>
-	<Item Name="MTMount_putSample_OSS2.vi" Type="VI" URL="../VIs/MTMount_putSample_OSS2.vi"/>
-	<Item Name="MTMount_putSample_OSS4.vi" Type="VI" URL="../VIs/MTMount_putSample_OSS4.vi"/>
-	<Item Name="MTMount_putSample_OSS5.vi" Type="VI" URL="../VIs/MTMount_putSample_OSS5.vi"/>
-	<Item Name="MTMount_putSample_OSS6.vi" Type="VI" URL="../VIs/MTMount_putSample_OSS6.vi"/>
-	<Item Name="MTMount_putSample_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_putSample_SafetySystem.vi"/>
-	<Item Name="MTMount_putSample_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_putSample_TopEndChiller.vi"/>
-	<Item Name="MTMount_registerCallback_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_registerCallback_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_registerCallback_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_registerCallback_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_registerCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Azimuth.vi"/>
-	<Item Name="MTMount_registerCallback_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_registerCallback_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_registerCallback_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_registerCallback_AzimuthDrives.vi"/>
-	<Item Name="MTMount_registerCallback_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_registerCallback_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_registerCallback_Balancing.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Balancing.vi"/>
-	<Item Name="MTMount_registerCallback_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_registerCallback_BalancingDrives.vi"/>
-	<Item Name="MTMount_registerCallback_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_registerCallback_CameraCableWrap.vi"/>
-	<Item Name="MTMount_registerCallback_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_registerCallback_CompressedAir.vi"/>
-	<Item Name="MTMount_registerCallback_Cooling.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Cooling.vi"/>
-	<Item Name="MTMount_registerCallback_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_registerCallback_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_registerCallback_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_registerCallback_DynaleneCooling.vi"/>
 	<Item Name="MTMount_registerCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Elevation.vi"/>
-	<Item Name="MTMount_registerCallback_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_registerCallback_ElevationDrives.vi"/>
-	<Item Name="MTMount_registerCallback_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_registerCallback_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_registerCallback_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_registerCallback_EncoderEIB.vi"/>
-	<Item Name="MTMount_registerCallback_General.vi" Type="VI" URL="../VIs/MTMount_registerCallback_General.vi"/>
-	<Item Name="MTMount_registerCallback_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_registerCallback_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_registerCallback_LockingPins.vi" Type="VI" URL="../VIs/MTMount_registerCallback_LockingPins.vi"/>
-	<Item Name="MTMount_registerCallback_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_registerCallback_MainPowerSupply.vi"/>
-	<Item Name="MTMount_registerCallback_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_registerCallback_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_registerCallback_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_registerCallback_MirrorCover.vi"/>
-	<Item Name="MTMount_registerCallback_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_registerCallback_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_registerCallback_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_registerCallback_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_registerCallback_OSS.vi" Type="VI" URL="../VIs/MTMount_registerCallback_OSS.vi"/>
-	<Item Name="MTMount_registerCallback_OSS2.vi" Type="VI" URL="../VIs/MTMount_registerCallback_OSS2.vi"/>
-	<Item Name="MTMount_registerCallback_OSS4.vi" Type="VI" URL="../VIs/MTMount_registerCallback_OSS4.vi"/>
-	<Item Name="MTMount_registerCallback_OSS5.vi" Type="VI" URL="../VIs/MTMount_registerCallback_OSS5.vi"/>
-	<Item Name="MTMount_registerCallback_OSS6.vi" Type="VI" URL="../VIs/MTMount_registerCallback_OSS6.vi"/>
-	<Item Name="MTMount_registerCallback_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_registerCallback_SafetySystem.vi"/>
-	<Item Name="MTMount_registerCallback_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_registerCallback_TopEndChiller.vi"/>
-	<Item Name="MTMount_registerCallback_ackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_ackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_.vi"/>
-	<Item Name="MTMount_registerCallback_command_abort.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_abort.vi"/>
-	<Item Name="MTMount_registerCallback_command_abortackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_abortackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_clearerror.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_clearerror.vi"/>
-	<Item Name="MTMount_registerCallback_command_clearerrorackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_clearerrorackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_closeMirrorCover.vi"/>
-	<Item Name="MTMount_registerCallback_command_closeMirrorCoverackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_closeMirrorCoverackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_configure.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_configure.vi"/>
-	<Item Name="MTMount_registerCallback_command_configureackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_configureackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_disable.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_disable.vi"/>
-	<Item Name="MTMount_registerCallback_command_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_disableCamWrap.vi"/>
-	<Item Name="MTMount_registerCallback_command_disableCamWrapackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_disableCamWrapackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_disableackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_disableackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_enable.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enable.vi"/>
-	<Item Name="MTMount_registerCallback_command_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enableCamWrap.vi"/>
-	<Item Name="MTMount_registerCallback_command_enableCamWrapackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enableCamWrapackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_enableackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enableackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_enterControl.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enterControl.vi"/>
-	<Item Name="MTMount_registerCallback_command_enterControlackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_enterControlackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_exitControl.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_exitControl.vi"/>
-	<Item Name="MTMount_registerCallback_command_exitControlackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_exitControlackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_moveToTarget.vi"/>
-	<Item Name="MTMount_registerCallback_command_moveToTargetackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_moveToTargetackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_openMirrorCover.vi"/>
-	<Item Name="MTMount_registerCallback_command_openMirrorCoverackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_openMirrorCoverackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setLogLevel.vi"/>
-	<Item Name="MTMount_registerCallback_command_setLogLevelackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setLogLevelackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setSimulationMode.vi"/>
-	<Item Name="MTMount_registerCallback_command_setSimulationModeackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setSimulationModeackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_setValue.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setValue.vi"/>
-	<Item Name="MTMount_registerCallback_command_setValueackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_setValueackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_standby.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_standby.vi"/>
-	<Item Name="MTMount_registerCallback_command_standbyackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_standbyackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_start.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_start.vi"/>
-	<Item Name="MTMount_registerCallback_command_startackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_startackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_command_trackTarget.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_trackTarget.vi"/>
-	<Item Name="MTMount_registerCallback_command_trackTargetackcmd.vi" Type="VI" URL="../VIs/MTMount_registerCallback_command_trackTargetackcmd.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_errorCode.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_heartbeat.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_logLevel.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_logMessage.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountError.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountState.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountWarning.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_settingVersions.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_simulationMode.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_summaryState.vi"/>
-	<Item Name="MTMount_salCommander_abort.vi" Type="VI" URL="../VIs/MTMount_salCommander_abort.vi"/>
-	<Item Name="MTMount_salCommander_clearerror.vi" Type="VI" URL="../VIs/MTMount_salCommander_clearerror.vi"/>
-	<Item Name="MTMount_salCommander_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_salCommander_closeMirrorCover.vi"/>
-	<Item Name="MTMount_salCommander_configure.vi" Type="VI" URL="../VIs/MTMount_salCommander_configure.vi"/>
-	<Item Name="MTMount_salCommander_disable.vi" Type="VI" URL="../VIs/MTMount_salCommander_disable.vi"/>
-	<Item Name="MTMount_salCommander_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_salCommander_disableCamWrap.vi"/>
-	<Item Name="MTMount_salCommander_enable.vi" Type="VI" URL="../VIs/MTMount_salCommander_enable.vi"/>
-	<Item Name="MTMount_salCommander_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_salCommander_enableCamWrap.vi"/>
-	<Item Name="MTMount_salCommander_enterControl.vi" Type="VI" URL="../VIs/MTMount_salCommander_enterControl.vi"/>
-	<Item Name="MTMount_salCommander_exitControl.vi" Type="VI" URL="../VIs/MTMount_salCommander_exitControl.vi"/>
-	<Item Name="MTMount_salCommander_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_salCommander_moveToTarget.vi"/>
-	<Item Name="MTMount_salCommander_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_salCommander_openMirrorCover.vi"/>
-	<Item Name="MTMount_salCommander_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_salCommander_setLogLevel.vi"/>
-	<Item Name="MTMount_salCommander_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_salCommander_setSimulationMode.vi"/>
-	<Item Name="MTMount_salCommander_setValue.vi" Type="VI" URL="../VIs/MTMount_salCommander_setValue.vi"/>
-	<Item Name="MTMount_salCommander_standby.vi" Type="VI" URL="../VIs/MTMount_salCommander_standby.vi"/>
-	<Item Name="MTMount_salCommander_start.vi" Type="VI" URL="../VIs/MTMount_salCommander_start.vi"/>
-	<Item Name="MTMount_salCommander_trackTarget.vi" Type="VI" URL="../VIs/MTMount_salCommander_trackTarget.vi"/>
-	<Item Name="MTMount_salEvent_appliedSettingsMatchStart.vi" Type="VI" URL="../VIs/MTMount_salEvent_appliedSettingsMatchStart.vi"/>
-	<Item Name="MTMount_salEvent_errorCode.vi" Type="VI" URL="../VIs/MTMount_salEvent_errorCode.vi"/>
-	<Item Name="MTMount_salEvent_heartbeat.vi" Type="VI" URL="../VIs/MTMount_salEvent_heartbeat.vi"/>
-	<Item Name="MTMount_salEvent_logLevel.vi" Type="VI" URL="../VIs/MTMount_salEvent_logLevel.vi"/>
-	<Item Name="MTMount_salEvent_logMessage.vi" Type="VI" URL="../VIs/MTMount_salEvent_logMessage.vi"/>
-	<Item Name="MTMount_salEvent_mountError.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountError.vi"/>
-	<Item Name="MTMount_salEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_salEvent_mountState.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountState.vi"/>
-	<Item Name="MTMount_salEvent_mountWarning.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountWarning.vi"/>
-	<Item Name="MTMount_salEvent_settingVersions.vi" Type="VI" URL="../VIs/MTMount_salEvent_settingVersions.vi"/>
-	<Item Name="MTMount_salEvent_simulationMode.vi" Type="VI" URL="../VIs/MTMount_salEvent_simulationMode.vi"/>
-	<Item Name="MTMount_salEvent_softwareVersions.vi" Type="VI" URL="../VIs/MTMount_salEvent_softwareVersions.vi"/>
-	<Item Name="MTMount_salEvent_summaryState.vi" Type="VI" URL="../VIs/MTMount_salEvent_summaryState.vi"/>
-	<Item Name="MTMount_salProcessor_abort.vi" Type="VI" URL="../VIs/MTMount_salProcessor_abort.vi"/>
-	<Item Name="MTMount_salProcessor_clearerror.vi" Type="VI" URL="../VIs/MTMount_salProcessor_clearerror.vi"/>
-	<Item Name="MTMount_salProcessor_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_salProcessor_closeMirrorCover.vi"/>
-	<Item Name="MTMount_salProcessor_configure.vi" Type="VI" URL="../VIs/MTMount_salProcessor_configure.vi"/>
-	<Item Name="MTMount_salProcessor_disable.vi" Type="VI" URL="../VIs/MTMount_salProcessor_disable.vi"/>
-	<Item Name="MTMount_salProcessor_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_salProcessor_disableCamWrap.vi"/>
-	<Item Name="MTMount_salProcessor_enable.vi" Type="VI" URL="../VIs/MTMount_salProcessor_enable.vi"/>
-	<Item Name="MTMount_salProcessor_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_salProcessor_enableCamWrap.vi"/>
-	<Item Name="MTMount_salProcessor_enterControl.vi" Type="VI" URL="../VIs/MTMount_salProcessor_enterControl.vi"/>
-	<Item Name="MTMount_salProcessor_exitControl.vi" Type="VI" URL="../VIs/MTMount_salProcessor_exitControl.vi"/>
-	<Item Name="MTMount_salProcessor_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_salProcessor_moveToTarget.vi"/>
-	<Item Name="MTMount_salProcessor_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_salProcessor_openMirrorCover.vi"/>
-	<Item Name="MTMount_salProcessor_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_salProcessor_setLogLevel.vi"/>
-	<Item Name="MTMount_salProcessor_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_salProcessor_setSimulationMode.vi"/>
-	<Item Name="MTMount_salProcessor_setValue.vi" Type="VI" URL="../VIs/MTMount_salProcessor_setValue.vi"/>
-	<Item Name="MTMount_salProcessor_standby.vi" Type="VI" URL="../VIs/MTMount_salProcessor_standby.vi"/>
-	<Item Name="MTMount_salProcessor_start.vi" Type="VI" URL="../VIs/MTMount_salProcessor_start.vi"/>
-	<Item Name="MTMount_salProcessor_trackTarget.vi" Type="VI" URL="../VIs/MTMount_salProcessor_trackTarget.vi"/>
-	<Item Name="MTMount_salTelemetrySub_AuxiliaryBoxes.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_AuxiliaryBoxes.vi"/>
-	<Item Name="MTMount_salTelemetrySub_AuxliaryCabinetAzimuth.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_AuxliaryCabinetAzimuth.vi"/>
 	<Item Name="MTMount_salTelemetrySub_Azimuth.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Azimuth.vi"/>
-	<Item Name="MTMount_salTelemetrySub_AzimuthCableWrap.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_AzimuthCableWrap.vi"/>
-	<Item Name="MTMount_salTelemetrySub_AzimuthDrives.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_AzimuthDrives.vi"/>
-	<Item Name="MTMount_salTelemetrySub_AzimuthDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_AzimuthDrivesThermal.vi"/>
-	<Item Name="MTMount_salTelemetrySub_Balancing.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Balancing.vi"/>
-	<Item Name="MTMount_salTelemetrySub_BalancingDrives.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_BalancingDrives.vi"/>
-	<Item Name="MTMount_salTelemetrySub_CameraCableWrap.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_CameraCableWrap.vi"/>
-	<Item Name="MTMount_salTelemetrySub_CompressedAir.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_CompressedAir.vi"/>
-	<Item Name="MTMount_salTelemetrySub_Cooling.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Cooling.vi"/>
-	<Item Name="MTMount_salTelemetrySub_DeployablePlatforms.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_DeployablePlatforms.vi"/>
-	<Item Name="MTMount_salTelemetrySub_DynaleneCooling.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_DynaleneCooling.vi"/>
 	<Item Name="MTMount_salTelemetrySub_Elevation.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Elevation.vi"/>
-	<Item Name="MTMount_salTelemetrySub_ElevationDrives.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_ElevationDrives.vi"/>
-	<Item Name="MTMount_salTelemetrySub_ElevationDrivesThermal.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_ElevationDrivesThermal.vi"/>
-	<Item Name="MTMount_salTelemetrySub_EncoderEIB.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_EncoderEIB.vi"/>
-	<Item Name="MTMount_salTelemetrySub_General.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_General.vi"/>
-	<Item Name="MTMount_salTelemetrySub_GeneralPurposeGlycolWater.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_GeneralPurposeGlycolWater.vi"/>
-	<Item Name="MTMount_salTelemetrySub_LockingPins.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_LockingPins.vi"/>
-	<Item Name="MTMount_salTelemetrySub_MainPowerSupply.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_MainPowerSupply.vi"/>
-	<Item Name="MTMount_salTelemetrySub_MainPowerSupplyCabinet.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_MainPowerSupplyCabinet.vi"/>
-	<Item Name="MTMount_salTelemetrySub_MirrorCover.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_MirrorCover.vi"/>
-	<Item Name="MTMount_salTelemetrySub_MirrorCoverLocks.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_MirrorCoverLocks.vi"/>
-	<Item Name="MTMount_salTelemetrySub_MountControlMainCabinet.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_MountControlMainCabinet.vi"/>
-	<Item Name="MTMount_salTelemetrySub_OSS.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_OSS.vi"/>
-	<Item Name="MTMount_salTelemetrySub_OSS2.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_OSS2.vi"/>
-	<Item Name="MTMount_salTelemetrySub_OSS4.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_OSS4.vi"/>
-	<Item Name="MTMount_salTelemetrySub_OSS5.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_OSS5.vi"/>
-	<Item Name="MTMount_salTelemetrySub_OSS6.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_OSS6.vi"/>
-	<Item Name="MTMount_salTelemetrySub_SafetySystem.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_SafetySystem.vi"/>
-	<Item Name="MTMount_salTelemetrySub_TopEndChiller.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_TopEndChiller.vi"/>
-	<Item Name="MTMount_waitForCompletion_abort.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_abort.vi"/>
-	<Item Name="MTMount_waitForCompletion_clearerror.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_clearerror.vi"/>
-	<Item Name="MTMount_waitForCompletion_closeMirrorCover.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_closeMirrorCover.vi"/>
-	<Item Name="MTMount_waitForCompletion_configure.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_configure.vi"/>
-	<Item Name="MTMount_waitForCompletion_disable.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_disable.vi"/>
-	<Item Name="MTMount_waitForCompletion_disableCamWrap.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_disableCamWrap.vi"/>
-	<Item Name="MTMount_waitForCompletion_enable.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_enable.vi"/>
-	<Item Name="MTMount_waitForCompletion_enableCamWrap.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_enableCamWrap.vi"/>
-	<Item Name="MTMount_waitForCompletion_enterControl.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_enterControl.vi"/>
-	<Item Name="MTMount_waitForCompletion_exitControl.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_exitControl.vi"/>
-	<Item Name="MTMount_waitForCompletion_moveToTarget.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_moveToTarget.vi"/>
-	<Item Name="MTMount_waitForCompletion_openMirrorCover.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_openMirrorCover.vi"/>
-	<Item Name="MTMount_waitForCompletion_setLogLevel.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_setLogLevel.vi"/>
-	<Item Name="MTMount_waitForCompletion_setSimulationMode.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_setSimulationMode.vi"/>
-	<Item Name="MTMount_waitForCompletion_setValue.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_setValue.vi"/>
-	<Item Name="MTMount_waitForCompletion_standby.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_standby.vi"/>
-	<Item Name="MTMount_waitForCompletion_start.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_start.vi"/>
-	<Item Name="MTMount_waitForCompletion_trackTarget.vi" Type="VI" URL="../VIs/MTMount_waitForCompletion_trackTarget.vi"/>
 	<Item Name="MTMountshminitFlags.vi" Type="VI" URL="../VIs/MTMountshminitFlags.vi"/>
 	<Item Name="SALLV_MTMount.so" Type="Document" URL="../SALLV_MTMount.so"/>
 </Library>
