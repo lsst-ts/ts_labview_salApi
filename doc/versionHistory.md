@@ -1,5 +1,9 @@
 # Version History
 
+0.2.1
+
+- Subscribe the `mountInPosition` event for **MTMount**.
+
 0.2.0
 
 - Update the `README.md`.

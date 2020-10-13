@@ -77,15 +77,21 @@
 	<Item Name="MTMount_Release.vi" Type="VI" URL="../VIs/MTMount_Release.vi"/>
 	<Item Name="MTMount_cancelCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Azimuth.vi"/>
 	<Item Name="MTMount_cancelCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Elevation.vi"/>
+	<Item Name="MTMount_cancelCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountInPosition.vi"/>
 	<Item Name="MTMount_checkCallbacks.vi" Type="VI" URL="../VIs/MTMount_checkCallbacks.vi"/>
+	<Item Name="MTMount_flushSamplesEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountInPosition.vi"/>
+	<Item Name="MTMount_getEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountInPosition.vi"/>
 	<Item Name="MTMount_getNextSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Azimuth.vi"/>
 	<Item Name="MTMount_getNextSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Elevation.vi"/>
 	<Item Name="MTMount_getSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getSample_Azimuth.vi"/>
 	<Item Name="MTMount_getSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getSample_Elevation.vi"/>
+	<Item Name="MTMount_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountInPosition.vi"/>
 	<Item Name="MTMount_putSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_putSample_Azimuth.vi"/>
 	<Item Name="MTMount_putSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_putSample_Elevation.vi"/>
 	<Item Name="MTMount_registerCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Azimuth.vi"/>
 	<Item Name="MTMount_registerCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Elevation.vi"/>
+	<Item Name="MTMount_registerCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountInPosition.vi"/>
+	<Item Name="MTMount_salEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountInPosition.vi"/>
 	<Item Name="MTMount_salTelemetrySub_Azimuth.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Azimuth.vi"/>
 	<Item Name="MTMount_salTelemetrySub_Elevation.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Elevation.vi"/>
 	<Item Name="MTMountshminitFlags.vi" Type="VI" URL="../VIs/MTMountshminitFlags.vi"/>
