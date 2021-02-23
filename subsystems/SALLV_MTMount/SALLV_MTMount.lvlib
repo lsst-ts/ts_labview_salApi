@@ -5,95 +5,78 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="DataTypes" Type="Folder">
 		<Item Name=".ctl" Type="VI" URL="../DataTypes/.ctl"/>
-		<Item Name="Auxiliary_Boxes.ctl" Type="VI" URL="../DataTypes/Auxiliary_Boxes.ctl"/>
-		<Item Name="Auxliary_Cabinet_Azimuth.ctl" Type="VI" URL="../DataTypes/Auxliary_Cabinet_Azimuth.ctl"/>
-		<Item Name="Azimuth.ctl" Type="VI" URL="../DataTypes/Azimuth.ctl"/>
-		<Item Name="Azimuth_Cable_Wrap.ctl" Type="VI" URL="../DataTypes/Azimuth_Cable_Wrap.ctl"/>
-		<Item Name="Azimuth_Drives.ctl" Type="VI" URL="../DataTypes/Azimuth_Drives.ctl"/>
-		<Item Name="Azimuth_Drives_Thermal.ctl" Type="VI" URL="../DataTypes/Azimuth_Drives_Thermal.ctl"/>
-		<Item Name="Balancing.ctl" Type="VI" URL="../DataTypes/Balancing.ctl"/>
-		<Item Name="Balancing_Drives.ctl" Type="VI" URL="../DataTypes/Balancing_Drives.ctl"/>
-		<Item Name="Camera_Cable_Wrap.ctl" Type="VI" URL="../DataTypes/Camera_Cable_Wrap.ctl"/>
-		<Item Name="Compressed_Air.ctl" Type="VI" URL="../DataTypes/Compressed_Air.ctl"/>
-		<Item Name="Cooling.ctl" Type="VI" URL="../DataTypes/Cooling.ctl"/>
-		<Item Name="Deployable_Platforms.ctl" Type="VI" URL="../DataTypes/Deployable_Platforms.ctl"/>
-		<Item Name="Dynalene_Cooling.ctl" Type="VI" URL="../DataTypes/Dynalene_Cooling.ctl"/>
-		<Item Name="Elevation.ctl" Type="VI" URL="../DataTypes/Elevation.ctl"/>
-		<Item Name="Elevation_Drives.ctl" Type="VI" URL="../DataTypes/Elevation_Drives.ctl"/>
-		<Item Name="Elevation_Drives_Thermal.ctl" Type="VI" URL="../DataTypes/Elevation_Drives_Thermal.ctl"/>
-		<Item Name="Encoder_EIB.ctl" Type="VI" URL="../DataTypes/Encoder_EIB.ctl"/>
-		<Item Name="General.ctl" Type="VI" URL="../DataTypes/General.ctl"/>
-		<Item Name="General_Purpose_Glycol_Water.ctl" Type="VI" URL="../DataTypes/General_Purpose_Glycol_Water.ctl"/>
-		<Item Name="Locking_Pins.ctl" Type="VI" URL="../DataTypes/Locking_Pins.ctl"/>
-		<Item Name="Main_Power_Supply.ctl" Type="VI" URL="../DataTypes/Main_Power_Supply.ctl"/>
-		<Item Name="Main_Power_Supply_Cabinet.ctl" Type="VI" URL="../DataTypes/Main_Power_Supply_Cabinet.ctl"/>
-		<Item Name="Mirror_Cover.ctl" Type="VI" URL="../DataTypes/Mirror_Cover.ctl"/>
-		<Item Name="Mirror_Cover_Locks.ctl" Type="VI" URL="../DataTypes/Mirror_Cover_Locks.ctl"/>
-		<Item Name="Mount_Control_Main_Cabinet.ctl" Type="VI" URL="../DataTypes/Mount_Control_Main_Cabinet.ctl"/>
-		<Item Name="OSS.ctl" Type="VI" URL="../DataTypes/OSS.ctl"/>
-		<Item Name="OSS2.ctl" Type="VI" URL="../DataTypes/OSS2.ctl"/>
-		<Item Name="OSS4.ctl" Type="VI" URL="../DataTypes/OSS4.ctl"/>
-		<Item Name="OSS5.ctl" Type="VI" URL="../DataTypes/OSS5.ctl"/>
-		<Item Name="OSS6.ctl" Type="VI" URL="../DataTypes/OSS6.ctl"/>
-		<Item Name="Safety_System.ctl" Type="VI" URL="../DataTypes/Safety_System.ctl"/>
+		<Item Name="AxisState.ctl" Type="VI" URL="../DataTypes/AxisState.ctl"/>
+		<Item Name="DriveState.ctl" Type="VI" URL="../DataTypes/DriveState.ctl"/>
+		<Item Name="SubsystemId.ctl" Type="VI" URL="../DataTypes/SubsystemId.ctl"/>
 		<Item Name="SummaryState.ctl" Type="VI" URL="../DataTypes/SummaryState.ctl"/>
-		<Item Name="Top_End_Chiller.ctl" Type="VI" URL="../DataTypes/Top_End_Chiller.ctl"/>
 		<Item Name="ackcmd.ctl" Type="VI" URL="../DataTypes/ackcmd.ctl"/>
+		<Item Name="azimuth.ctl" Type="VI" URL="../DataTypes/azimuth.ctl"/>
+		<Item Name="azimuthDrives.ctl" Type="VI" URL="../DataTypes/azimuthDrives.ctl"/>
+		<Item Name="cameraCableWrap.ctl" Type="VI" URL="../DataTypes/cameraCableWrap.ctl"/>
 		<Item Name="command_abort.ctl" Type="VI" URL="../DataTypes/command_abort.ctl"/>
-		<Item Name="command_clearerror.ctl" Type="VI" URL="../DataTypes/command_clearerror.ctl"/>
-		<Item Name="command_closeMirrorCover.ctl" Type="VI" URL="../DataTypes/command_closeMirrorCover.ctl"/>
-		<Item Name="command_configure.ctl" Type="VI" URL="../DataTypes/command_configure.ctl"/>
+		<Item Name="command_clearError.ctl" Type="VI" URL="../DataTypes/command_clearError.ctl"/>
+		<Item Name="command_closeMirrorCovers.ctl" Type="VI" URL="../DataTypes/command_closeMirrorCovers.ctl"/>
 		<Item Name="command_disable.ctl" Type="VI" URL="../DataTypes/command_disable.ctl"/>
-		<Item Name="command_disableCamWrap.ctl" Type="VI" URL="../DataTypes/command_disableCamWrap.ctl"/>
+		<Item Name="command_disableCameraCableWrapFollowing.ctl" Type="VI" URL="../DataTypes/command_disableCameraCableWrapFollowing.ctl"/>
 		<Item Name="command_enable.ctl" Type="VI" URL="../DataTypes/command_enable.ctl"/>
-		<Item Name="command_enableCamWrap.ctl" Type="VI" URL="../DataTypes/command_enableCamWrap.ctl"/>
+		<Item Name="command_enableCameraCableWrapFollowing.ctl" Type="VI" URL="../DataTypes/command_enableCameraCableWrapFollowing.ctl"/>
 		<Item Name="command_enterControl.ctl" Type="VI" URL="../DataTypes/command_enterControl.ctl"/>
 		<Item Name="command_exitControl.ctl" Type="VI" URL="../DataTypes/command_exitControl.ctl"/>
 		<Item Name="command_moveToTarget.ctl" Type="VI" URL="../DataTypes/command_moveToTarget.ctl"/>
-		<Item Name="command_openMirrorCover.ctl" Type="VI" URL="../DataTypes/command_openMirrorCover.ctl"/>
+		<Item Name="command_openMirrorCovers.ctl" Type="VI" URL="../DataTypes/command_openMirrorCovers.ctl"/>
 		<Item Name="command_setAuthList.ctl" Type="VI" URL="../DataTypes/command_setAuthList.ctl"/>
 		<Item Name="command_setLogLevel.ctl" Type="VI" URL="../DataTypes/command_setLogLevel.ctl"/>
 		<Item Name="command_setValue.ctl" Type="VI" URL="../DataTypes/command_setValue.ctl"/>
 		<Item Name="command_standby.ctl" Type="VI" URL="../DataTypes/command_standby.ctl"/>
 		<Item Name="command_start.ctl" Type="VI" URL="../DataTypes/command_start.ctl"/>
+		<Item Name="command_startTracking.ctl" Type="VI" URL="../DataTypes/command_startTracking.ctl"/>
+		<Item Name="command_stop.ctl" Type="VI" URL="../DataTypes/command_stop.ctl"/>
+		<Item Name="command_stopTracking.ctl" Type="VI" URL="../DataTypes/command_stopTracking.ctl"/>
 		<Item Name="command_trackTarget.ctl" Type="VI" URL="../DataTypes/command_trackTarget.ctl"/>
+		<Item Name="elevation.ctl" Type="VI" URL="../DataTypes/elevation.ctl"/>
+		<Item Name="elevationDrives.ctl" Type="VI" URL="../DataTypes/elevationDrives.ctl"/>
 		<Item Name="logevent_appliedSettingsMatchStart.ctl" Type="VI" URL="../DataTypes/logevent_appliedSettingsMatchStart.ctl"/>
 		<Item Name="logevent_authList.ctl" Type="VI" URL="../DataTypes/logevent_authList.ctl"/>
+		<Item Name="logevent_axesInPosition.ctl" Type="VI" URL="../DataTypes/logevent_axesInPosition.ctl"/>
+		<Item Name="logevent_axesState.ctl" Type="VI" URL="../DataTypes/logevent_axesState.ctl"/>
+		<Item Name="logevent_cameraCableWrapFollowing.ctl" Type="VI" URL="../DataTypes/logevent_cameraCableWrapFollowing.ctl"/>
+		<Item Name="logevent_cameraCableWrapState.ctl" Type="VI" URL="../DataTypes/logevent_cameraCableWrapState.ctl"/>
+		<Item Name="logevent_cameraCableWrapTarget.ctl" Type="VI" URL="../DataTypes/logevent_cameraCableWrapTarget.ctl"/>
+		<Item Name="logevent_connected.ctl" Type="VI" URL="../DataTypes/logevent_connected.ctl"/>
+		<Item Name="logevent_error.ctl" Type="VI" URL="../DataTypes/logevent_error.ctl"/>
 		<Item Name="logevent_errorCode.ctl" Type="VI" URL="../DataTypes/logevent_errorCode.ctl"/>
 		<Item Name="logevent_heartbeat.ctl" Type="VI" URL="../DataTypes/logevent_heartbeat.ctl"/>
 		<Item Name="logevent_logLevel.ctl" Type="VI" URL="../DataTypes/logevent_logLevel.ctl"/>
 		<Item Name="logevent_logMessage.ctl" Type="VI" URL="../DataTypes/logevent_logMessage.ctl"/>
-		<Item Name="logevent_mountError.ctl" Type="VI" URL="../DataTypes/logevent_mountError.ctl"/>
-		<Item Name="logevent_mountInPosition.ctl" Type="VI" URL="../DataTypes/logevent_mountInPosition.ctl"/>
-		<Item Name="logevent_mountState.ctl" Type="VI" URL="../DataTypes/logevent_mountState.ctl"/>
-		<Item Name="logevent_mountWarning.ctl" Type="VI" URL="../DataTypes/logevent_mountWarning.ctl"/>
 		<Item Name="logevent_settingVersions.ctl" Type="VI" URL="../DataTypes/logevent_settingVersions.ctl"/>
 		<Item Name="logevent_settingsApplied.ctl" Type="VI" URL="../DataTypes/logevent_settingsApplied.ctl"/>
 		<Item Name="logevent_simulationMode.ctl" Type="VI" URL="../DataTypes/logevent_simulationMode.ctl"/>
 		<Item Name="logevent_softwareVersions.ctl" Type="VI" URL="../DataTypes/logevent_softwareVersions.ctl"/>
 		<Item Name="logevent_summaryState.ctl" Type="VI" URL="../DataTypes/logevent_summaryState.ctl"/>
+		<Item Name="logevent_target.ctl" Type="VI" URL="../DataTypes/logevent_target.ctl"/>
+		<Item Name="logevent_warning.ctl" Type="VI" URL="../DataTypes/logevent_warning.ctl"/>
 	</Item>
 	<Item Name="MTMount_Connect.vi" Type="VI" URL="../VIs/MTMount_Connect.vi"/>
 	<Item Name="MTMount_Release.vi" Type="VI" URL="../VIs/MTMount_Release.vi"/>
-	<Item Name="MTMount_cancelCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Azimuth.vi"/>
-	<Item Name="MTMount_cancelCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_Elevation.vi"/>
-	<Item Name="MTMount_cancelCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_mountInPosition.vi"/>
+	<Item Name="MTMount_cancelCallback_azimuth.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_azimuth.vi"/>
+	<Item Name="MTMount_cancelCallback_elevation.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_elevation.vi"/>
+	<Item Name="MTMount_cancelCallback_logEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_cancelCallback_logEvent_axesInPosition.vi"/>
 	<Item Name="MTMount_checkCallbacks.vi" Type="VI" URL="../VIs/MTMount_checkCallbacks.vi"/>
-	<Item Name="MTMount_flushSamplesEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_getEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_getEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_getNextSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Azimuth.vi"/>
-	<Item Name="MTMount_getNextSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getNextSample_Elevation.vi"/>
-	<Item Name="MTMount_getSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_getSample_Azimuth.vi"/>
-	<Item Name="MTMount_getSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_getSample_Elevation.vi"/>
-	<Item Name="MTMount_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_logEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_putSample_Azimuth.vi" Type="VI" URL="../VIs/MTMount_putSample_Azimuth.vi"/>
-	<Item Name="MTMount_putSample_Elevation.vi" Type="VI" URL="../VIs/MTMount_putSample_Elevation.vi"/>
-	<Item Name="MTMount_registerCallback_Azimuth.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Azimuth.vi"/>
-	<Item Name="MTMount_registerCallback_Elevation.vi" Type="VI" URL="../VIs/MTMount_registerCallback_Elevation.vi"/>
-	<Item Name="MTMount_registerCallback_logEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_salEvent_mountInPosition.vi" Type="VI" URL="../VIs/MTMount_salEvent_mountInPosition.vi"/>
-	<Item Name="MTMount_salTelemetrySub_Azimuth.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Azimuth.vi"/>
-	<Item Name="MTMount_salTelemetrySub_Elevation.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_Elevation.vi"/>
+	<Item Name="MTMount_flushSamplesEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_flushSamplesEvent_axesInPosition.vi"/>
+	<Item Name="MTMount_getEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_getEvent_axesInPosition.vi"/>
+	<Item Name="MTMount_getNextSample_azimuth.vi" Type="VI" URL="../VIs/MTMount_getNextSample_azimuth.vi"/>
+	<Item Name="MTMount_getNextSample_elevation.vi" Type="VI" URL="../VIs/MTMount_getNextSample_elevation.vi"/>
+	<Item Name="MTMount_getSample_azimuth.vi" Type="VI" URL="../VIs/MTMount_getSample_azimuth.vi"/>
+	<Item Name="MTMount_getSample_elevation.vi" Type="VI" URL="../VIs/MTMount_getSample_elevation.vi"/>
+	<Item Name="MTMount_logEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_logEvent_axesInPosition.vi"/>
+	<Item Name="MTMount_putSample_azimuth.vi" Type="VI" URL="../VIs/MTMount_putSample_azimuth.vi"/>
+	<Item Name="MTMount_putSample_elevation.vi" Type="VI" URL="../VIs/MTMount_putSample_elevation.vi"/>
+	<Item Name="MTMount_registerCallback_azimuth.vi" Type="VI" URL="../VIs/MTMount_registerCallback_azimuth.vi"/>
+	<Item Name="MTMount_registerCallback_elevation.vi" Type="VI" URL="../VIs/MTMount_registerCallback_elevation.vi"/>
+	<Item Name="MTMount_registerCallback_logEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_registerCallback_logEvent_axesInPosition.vi"/>
+	<Item Name="MTMount_salEvent_axesInPosition.vi" Type="VI" URL="../VIs/MTMount_salEvent_axesInPosition.vi"/>
+	<Item Name="MTMount_salTelemetrySub_azimuth.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_azimuth.vi"/>
+	<Item Name="MTMount_salTelemetrySub_elevation.vi" Type="VI" URL="../VIs/MTMount_salTelemetrySub_elevation.vi"/>
 	<Item Name="MTMountshminitFlags.vi" Type="VI" URL="../VIs/MTMountshminitFlags.vi"/>
 	<Item Name="SALLV_MTMount.so" Type="Document" URL="../SALLV_MTMount.so"/>
 </Library>
