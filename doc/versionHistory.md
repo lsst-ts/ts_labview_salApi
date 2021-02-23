@@ -1,5 +1,9 @@
 # Version History
 
+0.3.0
+
+- Use the SAL LabVIEW API of **ts_sal** V5.1.0RC1.
+
 0.2.1
 
 - Subscribe the `mountInPosition` event for **MTMount**.

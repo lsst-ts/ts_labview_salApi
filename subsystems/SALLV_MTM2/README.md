@@ -4,7 +4,8 @@ Low-level SAL LabVIEW API of MTM2.
 
 ## Package Version Used
 
-- ts_sal (develop branch, commit: c4db06e)
-- ts_idl (develop branch, commit: b378b92)
-- ts_opensplice (master branch, commit: 0801214)
-- ts_xml (develop branch, commit: 0878d18)
+- ts_sal (tag: V5.1.0RC1)
+- ts_idl (tag: v2.4.0)
+- ts_ddsconfig (tag: v0.5.0)
+- ts_opensplice (master branch, commit: 987ad12)
+- ts_xml (tag: v8.0.0)
