@@ -4,8 +4,8 @@ Low-level SAL LabVIEW API of MTMount.
 
 ## Package Version Used
 
-- ts_sal (tag: V5.1.0RC1)
-- ts_idl (tag: v2.4.0)
-- ts_ddsconfig (tag: v0.5.0)
-- ts_opensplice (master branch, commit: 987ad12)
-- ts_xml (tag: v8.0.0)
+- ts_sal (tag: v5.1.1)
+- ts_idl (tag: v3.1.2)
+- ts_ddsconfig (tag: v0.5.1)
+- ts_xml (tag: v9.0.0)
+- OpenSpliceDDS (version: 6.10.4-6.el7)

@@ -1,5 +1,9 @@
 # Version History
 
+0.4.0
+
+- Use the SAL LabVIEW API of **ts_sal** v5.1.1 and **OpenSpliceDDS** 6.10.4-6.el7.
+
 0.3.0
 
 - Use the SAL LabVIEW API of **ts_sal** V5.1.0RC1.
