@@ -31,7 +31,6 @@ module MTMount {
 	#pragma keylist cameraCableWrap
 	struct command_abort {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_abort
 	struct command_clearError {
@@ -45,7 +44,6 @@ module MTMount {
 	#pragma keylist command_closeMirrorCovers
 	struct command_disable {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_disable
 	struct command_disableCameraCableWrapFollowing {
@@ -54,7 +52,6 @@ module MTMount {
 	#pragma keylist command_disableCameraCableWrapFollowing
 	struct command_enable {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_enable
 	struct command_enableCameraCableWrapFollowing {
@@ -63,12 +60,10 @@ module MTMount {
 	#pragma keylist command_enableCameraCableWrapFollowing
 	struct command_enterControl {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_enterControl
 	struct command_exitControl {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_exitControl
 	struct command_moveToTarget {
@@ -99,7 +94,6 @@ module MTMount {
 	#pragma keylist command_setValue
 	struct command_standby {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_standby
 	struct command_start {

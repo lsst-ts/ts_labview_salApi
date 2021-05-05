@@ -25,7 +25,6 @@ module MTM2 {
 	#pragma keylist axialForce
 	struct command_abort {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_abort
 	struct command_applyForces {
@@ -41,22 +40,18 @@ module MTM2 {
 	#pragma keylist command_clearErrors
 	struct command_disable {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_disable
 	struct command_enable {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_enable
 	struct command_enterControl {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_enterControl
 	struct command_exitControl {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_exitControl
 	struct command_positionMirror {
@@ -106,7 +101,6 @@ module MTM2 {
 	#pragma keylist command_setValue
 	struct command_standby {
 	  double	private_rcvStamp;    //private
-	  boolean	value;
 	};
 	#pragma keylist command_standby
 	struct command_start {
