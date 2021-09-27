@@ -155,65 +155,163 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_authList
-	struct logevent_axesInPosition {
+	struct logevent_availableSettings {
 	  double	private_rcvStamp;    //private
-	  boolean	elevation;
-	  boolean	azimuth;
+	  string	names;
+	  string	descriptions;
+	  string	createdDates;
+	  string	modifiedDates;
 	  long	priority;
 	};
-	#pragma keylist logevent_axesInPosition
-	 const long MTMount_shared_AxisState_Unknown=0;
-	 const long MTMount_shared_AxisState_Idle=1;
-	 const long MTMount_shared_AxisState_Enabled=2;
-	 const long MTMount_shared_AxisState_DiscreteMove=3;
-	 const long MTMount_shared_AxisState_JogMove=4;
-	 const long MTMount_shared_AxisState_Tracking=5;
-	 const long MTMount_shared_AxisState_Stopping=6;
-	 const long MTMount_shared_AxisState_Fault=7;
-	 const long MTMount_shared_DriveState_Unknown=0;
-	 const long MTMount_shared_DriveState_Off=1;
-	 const long MTMount_shared_DriveState_Moving=2;
-	 const long MTMount_shared_DriveState_Stopping=3;
-	 const long MTMount_shared_DriveState_Stopped=4;
-	 const long MTMount_shared_DriveState_Fault=5;
-	 const long MTMount_shared_SubsystemId_AzimuthAxis=100;
-	 const long MTMount_shared_SubsystemId_AzimuthDrive=200;
-	 const long MTMount_shared_SubsystemId_AzimuthCableWrap=300;
-	 const long MTMount_shared_SubsystemId_ElevationAxis=400;
-	 const long MTMount_shared_SubsystemId_ElevationDrive=500;
-	 const long MTMount_shared_SubsystemId_MainPowerSupply=600;
-	 const long MTMount_shared_SubsystemId_EncoderInterfaceBox=700;
-	 const long MTMount_shared_SubsystemId_OilSupplySystem=800;
-	 const long MTMount_shared_SubsystemId_MirrorCovers=900;
-	 const long MTMount_shared_SubsystemId_CameraCableWrap=1000;
-	 const long MTMount_shared_SubsystemId_Balance=1100;
-	 const long MTMount_shared_SubsystemId_DeployablePlatform=1200;
-	 const long MTMount_shared_SubsystemId_Cabinet=1300;
-	 const long MTMount_shared_SubsystemId_LockingPins=1400;
-	 const long MTMount_shared_SubsystemId_MirrorCoverLocks=1500;
-	 const long MTMount_shared_SubsystemId_AzimuthThermal=1600;
-	 const long MTMount_shared_SubsystemId_ElevationThermal=1700;
-	 const long MTMount_shared_SubsystemId_Interlock=1800;
-	 const long MTMount_shared_SubsystemId_TopEndChiller=2200;
-	struct logevent_axesState {
+	#pragma keylist logevent_availableSettings
+	 const long MTMount_shared_AxisMotionState_Stopping=0;
+	 const long MTMount_shared_AxisMotionState_Stopped=1;
+	 const long MTMount_shared_AxisMotionState_MovingPointToPoint=2;
+	 const long MTMount_shared_AxisMotionState_Jogging=3;
+	 const long MTMount_shared_AxisMotionState_Tracking=4;
+	 const long MTMount_shared_AxisMotionState_TrackingPaused=5;
+	 const long MTMount_shared_Commander_None=0;
+	 const long MTMount_shared_Commander_CSC=1;
+	 const long MTMount_shared_Commander_EUI=2;
+	 const long MTMount_shared_Commander_HHD=3;
+	 const long MTMount_shared_DeployableMotionState_Retracted=0;
+	 const long MTMount_shared_DeployableMotionState_Deployed=1;
+	 const long MTMount_shared_DeployableMotionState_Retracting=2;
+	 const long MTMount_shared_DeployableMotionState_Deploying=3;
+	 const long MTMount_shared_DeployableMotionState_Lost=4;
+	 const long MTMount_shared_LimitsMask_L1Min=0x01;
+	 const long MTMount_shared_LimitsMask_L1Max=0x02;
+	 const long MTMount_shared_LimitsMask_L2Min=0x03;
+	 const long MTMount_shared_LimitsMask_L2Max=0x04;
+	 const long MTMount_shared_LimitsMask_L3Min=0x05;
+	 const long MTMount_shared_LimitsMask_L3Max=0x06;
+	 const long MTMount_shared_LimitsMask_AdjustableL1Min=0x07;
+	 const long MTMount_shared_LimitsMask_AdjustableL1Max=0x08;
+	 const long MTMount_shared_LimitsMask_OperationalL1Min=0x09;
+	 const long MTMount_shared_LimitsMask_OperationalL1Max=0x10;
+	 const long MTMount_shared_ElevationLockingPinMotionState_Locked=0;
+	 const long MTMount_shared_ElevationLockingPinMotionState_Test=1;
+	 const long MTMount_shared_ElevationLockingPinMotionState_Unlocked=2;
+	 const long MTMount_shared_ElevationLockingPinMotionState_Moving=3;
+	 const long MTMount_shared_ElevationLockingPinMotionState_Mismatch=4;
+	 const long MTMount_shared_PowerState_Off=0;
+	 const long MTMount_shared_PowerState_On=1;
+	 const long MTMount_shared_PowerState_Fault=2;
+	 const long MTMount_shared_PowerState_TurningOn=3;
+	 const long MTMount_shared_PowerState_TurningOff=4;
+	 const long MTMount_shared_PowerState_Unknown=15;
+	 const long MTMount_shared_System_Azimuth=0;
+	 const long MTMount_shared_System_Elevation=1;
+	 const long MTMount_shared_System_CameraCableWrap=2;
+	 const long MTMount_shared_System_Balance=3;
+	 const long MTMount_shared_System_MirrorCovers=4;
+	 const long MTMount_shared_System_MirrorCoverLocks=5;
+	 const long MTMount_shared_System_AzimuthCableWrap=6;
+	 const long MTMount_shared_System_LockingPins=7;
+	 const long MTMount_shared_System_DeployablePlatforms=8;
+	 const long MTMount_shared_System_OilSupplySystem=9;
+	 const long MTMount_shared_System_AzimuthDrivesThermal=10;
+	 const long MTMount_shared_System_ElevationDrivesThermal=11;
+	 const long MTMount_shared_System_AZ0101CabinetThermal=12;
+	 const long MTMount_shared_System_ModbusTemperatureControllers=13;
+	 const long MTMount_shared_System_MainCabinet=14;
+	 const long MTMount_shared_System_MainAxesPowerSupply=15;
+	 const long MTMount_shared_System_TopEndChiller=16;
+	struct logevent_az0101CabinetThermalSystemState {
 	  double	private_rcvStamp;    //private
-	  long	elevation;
-	  long	azimuth;
+	  long	powerState;
+	  boolean	trackAmbient;
+	  double	setTemperature;
 	  long	priority;
 	};
-	#pragma keylist logevent_axesState
+	#pragma keylist logevent_az0101CabinetThermalSystemState
+	struct logevent_azimuthCableWrapSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	motionControllerState[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthCableWrapSystemState
+	struct logevent_azimuthDrivesThermalSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[4];
+	  boolean	trackAmbient[4];
+	  double	setTemperature[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthDrivesThermalSystemState
+	struct logevent_azimuthInPosition {
+	  double	private_rcvStamp;    //private
+	  boolean	inPosition;
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthInPosition
+	struct logevent_azimuthLimits {
+	  double	private_rcvStamp;    //private
+	  unsigned long	limits;
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthLimits
+	struct logevent_azimuthMotionState {
+	  double	private_rcvStamp;    //private
+	  long	state;
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthMotionState
+	struct logevent_azimuthSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	motionControllerState[16];
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthSystemState
+	struct logevent_azimuthToppleBlock {
+	  double	private_rcvStamp;    //private
+	  boolean	reverse;
+	  boolean	forward;
+	  long	priority;
+	};
+	#pragma keylist logevent_azimuthToppleBlock
+	struct logevent_balanceSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[4];
+	  long	motionControllerState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_balanceSystemState
 	struct logevent_cameraCableWrapFollowing {
 	  double	private_rcvStamp;    //private
 	  long	enabled;
 	  long	priority;
 	};
 	#pragma keylist logevent_cameraCableWrapFollowing
-	struct logevent_cameraCableWrapState {
+	struct logevent_cameraCableWrapInPosition {
+	  double	private_rcvStamp;    //private
+	  boolean	inPosition;
+	  long	priority;
+	};
+	#pragma keylist logevent_cameraCableWrapInPosition
+	struct logevent_cameraCableWrapLimits {
+	  double	private_rcvStamp;    //private
+	  unsigned long	limits;
+	  long	priority;
+	};
+	#pragma keylist logevent_cameraCableWrapLimits
+	struct logevent_cameraCableWrapMotionState {
 	  double	private_rcvStamp;    //private
 	  long	state;
 	  long	priority;
 	};
-	#pragma keylist logevent_cameraCableWrapState
+	#pragma keylist logevent_cameraCableWrapMotionState
+	struct logevent_cameraCableWrapSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	motionControllerState[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_cameraCableWrapSystemState
 	struct logevent_cameraCableWrapTarget {
 	  double	private_rcvStamp;    //private
 	  double	position;
@@ -222,6 +320,12 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_cameraCableWrapTarget
+	struct logevent_commander {
+	  double	private_rcvStamp;    //private
+	  long	commander;
+	  long	priority;
+	};
+	#pragma keylist logevent_commander
 	struct logevent_connected {
 	  double	private_rcvStamp;    //private
 	  boolean	command;
@@ -229,6 +333,62 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_connected
+	struct logevent_deployablePlatformsMotionState {
+	  double	private_rcvStamp;    //private
+	  unsigned short	state;
+	  unsigned short	elementState[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_deployablePlatformsMotionState
+	struct logevent_deployablePlatformsSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[2];
+	  long	motionControllerState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_deployablePlatformsSystemState
+	struct logevent_elevationDrivesThermalSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[2];
+	  boolean	trackAmbient[2];
+	  double	setTemperature[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationDrivesThermalSystemState
+	struct logevent_elevationInPosition {
+	  double	private_rcvStamp;    //private
+	  boolean	inPosition;
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationInPosition
+	struct logevent_elevationLimits {
+	  double	private_rcvStamp;    //private
+	  unsigned long	limits;
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationLimits
+	struct logevent_elevationLockingPinMotionState {
+	  double	private_rcvStamp;    //private
+	  unsigned short	state;
+	  unsigned short	elementState[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationLockingPinMotionState
+	struct logevent_elevationMotionState {
+	  double	private_rcvStamp;    //private
+	  long	state;
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationMotionState
+	struct logevent_elevationSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	motionControllerState[12];
+	  long	priority;
+	};
+	#pragma keylist logevent_elevationSystemState
 	struct logevent_error {
 	  double	private_rcvStamp;    //private
 	  boolean	latched;
@@ -253,6 +413,26 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_heartbeat
+	struct logevent_largeFileObjectAvailable {
+	  double	private_rcvStamp;    //private
+	  string<256>	url;
+	  string<256>	generator;
+	  float	version;
+	  long	byteSize;
+	  string<256>	checkSum;
+	  string<256>	mimeType;
+	  string<256>	id;
+	  long	priority;
+	};
+	#pragma keylist logevent_largeFileObjectAvailable
+	struct logevent_lockingPinsSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[2];
+	  long	motionControllerState[2];
+	  long	priority;
+	};
+	#pragma keylist logevent_lockingPinsSystemState
 	struct logevent_logLevel {
 	  double	private_rcvStamp;    //private
 	  long	level;
@@ -272,6 +452,83 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_logMessage
+	struct logevent_mainAxesPowerSupplySystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	priority;
+	};
+	#pragma keylist logevent_mainAxesPowerSupplySystemState
+	struct logevent_mainCabinetSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	priority;
+	};
+	#pragma keylist logevent_mainCabinetSystemState
+	struct logevent_mirrorCoverLocksMotionState {
+	  double	private_rcvStamp;    //private
+	  unsigned short	state;
+	  unsigned short	elementState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_mirrorCoverLocksMotionState
+	struct logevent_mirrorCoverLocksSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[4];
+	  long	motionControllerState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_mirrorCoverLocksSystemState
+	struct logevent_mirrorCoversMotionState {
+	  double	private_rcvStamp;    //private
+	  unsigned short	state;
+	  unsigned short	elementState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_mirrorCoversMotionState
+	struct logevent_mirrorCoversSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[4];
+	  long	motionControllerState[4];
+	  long	priority;
+	};
+	#pragma keylist logevent_mirrorCoversSystemState
+	struct logevent_modbusTemperatureControllersSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	elementPowerState[5];
+	  boolean	trackAmbient[5];
+	  double	setTemperature[5];
+	  long	priority;
+	};
+	#pragma keylist logevent_modbusTemperatureControllersSystemState
+	struct logevent_oilSupplySystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  long	coolingPowerState;
+	  long	oilPowerState;
+	  long	mainPumpPowerState;
+	  boolean	trackAmbient[3];
+	  double	setTemperature[3];
+	  long	priority;
+	};
+	#pragma keylist logevent_oilSupplySystemState
+	struct logevent_safetyInterlocks {
+	  double	private_rcvStamp;    //private
+	  unsigned long	causes;
+	  unsigned long	subcausesEmergencyStop;
+	  unsigned long	subcausesLimitSwitch;
+	  unsigned long	subcausesDeployablePlatform;
+	  unsigned long	subcausesDoorHatchLadder;
+	  unsigned long	subcausesMirrorCover;
+	  unsigned long	subcausesLockingPin;
+	  unsigned long	subcausesCapacitorDoor;
+	  unsigned long	subcausesBrakesFailed;
+	  unsigned long	effects;
+	  long	priority;
+	};
+	#pragma keylist logevent_safetyInterlocks
 	struct logevent_settingVersions {
 	  double	private_rcvStamp;    //private
 	  string	recommendedSettingsVersion;
@@ -322,6 +579,14 @@ module MTMount {
 	  long	priority;
 	};
 	#pragma keylist logevent_target
+	struct logevent_topEndChillerSystemState {
+	  double	private_rcvStamp;    //private
+	  long	powerState;
+	  boolean	trackAmbient;
+	  double	setTemperature;
+	  long	priority;
+	};
+	#pragma keylist logevent_topEndChillerSystemState
 	struct logevent_warning {
 	  double	private_rcvStamp;    //private
 	  boolean	active;

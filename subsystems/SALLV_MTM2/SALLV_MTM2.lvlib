@@ -42,6 +42,7 @@
 		<Item Name="logevent_heartbeat.ctl" Type="VI" URL="../DataTypes/logevent_heartbeat.ctl"/>
 		<Item Name="logevent_inclinationTelemetrySource.ctl" Type="VI" URL="../DataTypes/logevent_inclinationTelemetrySource.ctl"/>
 		<Item Name="logevent_interlock.ctl" Type="VI" URL="../DataTypes/logevent_interlock.ctl"/>
+		<Item Name="logevent_largeFileObjectAvailable.ctl" Type="VI" URL="../DataTypes/logevent_largeFileObjectAvailable.ctl"/>
 		<Item Name="logevent_logLevel.ctl" Type="VI" URL="../DataTypes/logevent_logLevel.ctl"/>
 		<Item Name="logevent_logMessage.ctl" Type="VI" URL="../DataTypes/logevent_logMessage.ctl"/>
 		<Item Name="logevent_m2AssemblyInPosition.ctl" Type="VI" URL="../DataTypes/logevent_m2AssemblyInPosition.ctl"/>
@@ -151,6 +152,7 @@
 	<Item Name="MTM2_cancelCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_heartbeat.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_interlock.vi"/>
+	<Item Name="MTM2_cancelCallback_logEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_cancelCallback_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_cancelCallback_logEvent_m2AssemblyInPosition.vi"/>
@@ -183,6 +185,7 @@
 	<Item Name="MTM2_flushSamplesEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_heartbeat.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_interlock.vi"/>
+	<Item Name="MTM2_flushSamplesEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_logLevel.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_logMessage.vi"/>
 	<Item Name="MTM2_flushSamplesEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_flushSamplesEvent_m2AssemblyInPosition.vi"/>
@@ -205,6 +208,7 @@
 	<Item Name="MTM2_getEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_getEvent_heartbeat.vi"/>
 	<Item Name="MTM2_getEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_getEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_getEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_getEvent_interlock.vi"/>
+	<Item Name="MTM2_getEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_getEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_getEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_getEvent_logLevel.vi"/>
 	<Item Name="MTM2_getEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_getEvent_logMessage.vi"/>
 	<Item Name="MTM2_getEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_getEvent_m2AssemblyInPosition.vi"/>
@@ -292,6 +296,7 @@
 	<Item Name="MTM2_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_logEvent_heartbeat.vi"/>
 	<Item Name="MTM2_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_logEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_logEvent_interlock.vi"/>
+	<Item Name="MTM2_logEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_logEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_logEvent_m2AssemblyInPosition.vi"/>
@@ -387,6 +392,7 @@
 	<Item Name="MTM2_registerCallback_logEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_heartbeat.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_interlock.vi"/>
+	<Item Name="MTM2_registerCallback_logEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_logLevel.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_logMessage.vi"/>
 	<Item Name="MTM2_registerCallback_logEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_registerCallback_logEvent_m2AssemblyInPosition.vi"/>
@@ -435,6 +441,7 @@
 	<Item Name="MTM2_salEvent_heartbeat.vi" Type="VI" URL="../VIs/MTM2_salEvent_heartbeat.vi"/>
 	<Item Name="MTM2_salEvent_inclinationTelemetrySource.vi" Type="VI" URL="../VIs/MTM2_salEvent_inclinationTelemetrySource.vi"/>
 	<Item Name="MTM2_salEvent_interlock.vi" Type="VI" URL="../VIs/MTM2_salEvent_interlock.vi"/>
+	<Item Name="MTM2_salEvent_largeFileObjectAvailable.vi" Type="VI" URL="../VIs/MTM2_salEvent_largeFileObjectAvailable.vi"/>
 	<Item Name="MTM2_salEvent_logLevel.vi" Type="VI" URL="../VIs/MTM2_salEvent_logLevel.vi"/>
 	<Item Name="MTM2_salEvent_logMessage.vi" Type="VI" URL="../VIs/MTM2_salEvent_logMessage.vi"/>
 	<Item Name="MTM2_salEvent_m2AssemblyInPosition.vi" Type="VI" URL="../VIs/MTM2_salEvent_m2AssemblyInPosition.vi"/>

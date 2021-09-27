@@ -12,6 +12,7 @@ This module is to collect the low-level LabVIEW SAL API of subsystems for other 
 - [ts_sal](https://github.com/lsst-ts/ts_sal)
 - [ts_idl](https://github.com/lsst-ts/ts_idl) (Needed by ts_sal)
 - [ts_xml](https://github.com/lsst-ts/ts_xml)
+- [ts_ddsconfig](https://github.com/lsst-ts/ts_ddsconfig)
 - [ts_SALLabVIEW](https://github.com/lsst-ts/ts_SALLabVIEW)
 - OpenSpliceDDS (by `lsst-ts-private` repository)
 

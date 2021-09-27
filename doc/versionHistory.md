@@ -1,8 +1,13 @@
 # Version History
 
+0.6.0
+
+- Use the **ts_xml** v10.0.0.
+- Use the **ts_sal** v5.2.4.
+
 0.5.0
 
-- Use the ts_xml v9.1.1.
+- Use the **ts_xml** v9.1.1.
 
 0.4.0
 

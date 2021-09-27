@@ -205,6 +205,18 @@ module MTM2 {
 	  long	priority;
 	};
 	#pragma keylist logevent_interlock
+	struct logevent_largeFileObjectAvailable {
+	  double	private_rcvStamp;    //private
+	  string<256>	url;
+	  string<256>	generator;
+	  float	version;
+	  long	byteSize;
+	  string<256>	checkSum;
+	  string<256>	mimeType;
+	  string<256>	id;
+	  long	priority;
+	};
+	#pragma keylist logevent_largeFileObjectAvailable
 	struct logevent_logLevel {
 	  double	private_rcvStamp;    //private
 	  long	level;
